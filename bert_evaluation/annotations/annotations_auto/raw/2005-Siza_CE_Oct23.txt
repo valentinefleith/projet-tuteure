@@ -1,0 +1,323 @@
+﻿Imaginer l' évidence Álvaro Siza 
+En guise de préambule 
+On me demande souvent de parler de mon travail . 
+J'écrirai juste quelques lignes , huit points , tout au plus . 
+1 . 
+<dyn> Le projet commence lorsque <lieu type=obj>je visite un site</lieu> ,</dyn> parfois avant , à partir de l' idée que je m'en fais – une description , une photographie , une chose lue ou dont j'ai entendu parler . 
+Cela ne veut pas dire que tout sera gardé de <dyn> la première esquisse .</dyn> 
+Elle est un commencement . 
+La plupart des éléments des projets que <dyn> j'ai faits </dyn> étaient présents dès la première esquisse . 
+Dans le désordre . 
+<lieu type=obj>Un site</lieu> vaut pour ce qu'il est , ce qu'il peut ou <dyn> désire être </dyn> – deux choses qui s'opposent peut-être , mais qui ne sont jamais sans rapport . 
+Il <dyn> n'y a pas de <lieu type=obj>désert</lieu> , si l' on est quelque part .</dyn> 
+Je peux toujours être l' un des habitants . 
+L'ordre , c'est d' unir des opposés . 2 . 
+On dit de moi que je dessine <lieu type=loc>dans les cafés</lieu> , que je suis <dyn> l' architecte des petites œuvres .</dyn> 
+Ayant fait <dyn> l' expérience de grands programmes , je ne les trouve pas vraiment plus difficiles .</dyn> 
+Oui , c'est vrai , je <dyn> fais des projets </dyn> <lieu type=loc>dans les cafés</lieu> , pas comme <act>Toulouse-Lautrec</act> <lieu type=loc>dans les cabarets</lieu> , ni comme un Prix de <act>Rome</act> dans les ruines antiques . 
+<lieu type=obj>L'atmosphère des cafés</lieu> n'a rien d' exaltant . 
+À <lieu type=obj>Porto</lieu> , c'est <dyn> l' un des seuls lieux où l' on peut être anonyme ,</dyn> et se concentrer . 
+Ce n'est pas pour essayer d' échapper aux réunions , à <dyn> l' interdisciplinarité , à la réglementation , aux catalogues de composants préfabriqués ,</dyn> aux ordinateurs ou aux réunions d' habitants . 
+Mais <dyn> pour dépasser ce avec quoi et ce pourquoi on travaille .</dyn> 
+3 . 
+Certains de <dyn> mes projets ont provoqué de longs débats avec des groupes organisés de résidents ou de futurs résidents .</dyn> 
+Au <lieu type=obj>Portugal</lieu> qui émergeait de <dyn> la <act>révolution de 1974</act> ,</dyn> il n'était même pas question de le vouloir ou pas . 
+Le combat pour <dyn> l' habitat <lieu type=loc>à Porto</lieu> , <lieu type=loc>à Lisbonne</lieu> ou <lieu type=loc>dans l' Algarve</lieu> , une fois les chaînes brisées ,</dyn> dépassait de loin les limites de <lieu type=obj>la maison</lieu> , du district ou de la coopérative . 
+Il concernait <lieu type=obj>la ville</lieu> . 
+Bref épisode . 
+Ce qui a été un profond mouvement dégénère en un confortable alibi , un modérateur aliénant , <dyn> un refus de se lancer dans une reformulation nouvelle des désirs – que ce soient ceux des autres ou les nôtres .</dyn> 
+4 . 
+On dit de mon travail , celui d' avant ou d' aujourd'hui , qu'il est fondé sur <dyn> l' architecture traditionnelle de <lieu type=obj>notre région</lieu> .</dyn> 
+Ce qui est vrai , c'est que <lieu type=obj>les bâtiments</lieu> m'ont fait découvrir <dyn> l' obstination d' un artisan ou l' opinion d' un passant , qui regarde et qui juge .</dyn> 
+La tradition est un défi pour l' innovation . 
+Elle est faite de greffes successives . 
+Je suis conservateur et traditionaliste – cela signifie que je vais à travers les conflits , les compromis , <dyn> l' hybridation , la transformation .</dyn> 
+5 . 
+Ils disent , et <dyn> mes amis aussi , que je n'ai pas de théorie ou de méthode .</dyn> 
+Que <dyn> rien de ce que je fais </dyn> ne peut avoir valeur de modèle . 
+Ou encore que c'est une sorte de navire à la merci des vagues , mais qui <dyn> ne sombre pas .</dyn> 
+Je ne fais pas prendre trop de risques à <dyn> notre navire ,</dyn> du moins en <lieu type=obj>haute mer</lieu> . 
+J'étudie les courants , les remous , avant de tracer <lieu type=obj>la route</lieu> . 
+Il m'arrive d' être seul , arpentant <lieu type=obj>le pont</lieu> . 
+Mais tout l' équipage est là , le capitaine est un fantôme…, il <dyn> n'est pas évident de trouver la bonne direction .</dyn> 
+6 . 
+Je n'aimerais pas <dyn> construire </dyn> de mes propres mains ce que je dessine . 
+Ni tout dessiner moi-même . 
+Ce serait stérile . 
+Le corps humain – la main , l' esprit , et tout le reste – ne <dyn> s'arrête pas au corps de chaque individu .</dyn> 
+Et on ne peut le morceler en fragments indépendants . 
+7 . <lieu type=obj>Mes bâtiments</lieu> inachevés , <dyn> interrompus , altérés ,</dyn> n'ont rien à voir avec la croyance en une œuvre , ouverte , ou avec l' esthétique de l' inachevé . 
+Mais ils ont à voir avec <dyn> l' éprouvante impossibilité de mener à bien ,</dyn> avec des obstacles que je ne parviens pas à surmonter . 
+8 . 
+Je discutais avec un artisan sur la façon de <dyn> poser des carreaux de céramique de 30 x 30 centimètres </dyn> sur un sol inégal : en diagonale comme je le proposais , ou parallèle <lieu type=loc>à l' un des murs</lieu> . 
+Il m'a répondu : ici , <lieu type=loc>à Berlin</lieu> , ça <dyn> ne se fait pas ainsi .</dyn> 
+Le lendemain je retourne sur le chantier . 
+<dyn> L'artisan me dit : vous aviez raison , c'est plus facile en biais .</dyn> 
+Notre intérêt était le même : <dyn> construire </dyn> de la façon la plus pratique et la plus rationnelle – <lieu type=loc>au Parthénon</lieu> , <lieu type=loc>à Chartres</lieu> ou <lieu type=loc>à la Casa Milà</lieu> . 
+Et aujourd'hui : redécouvrir l' étrange magie des évidences . 
+<act>Imaginer l' évidence</act> – <lieu type=obj>Lisbonne</lieu> 
+<lieu type=obj>- le Chiado</lieu> et <lieu type=obj>Macao</lieu> 
+<dyn> J'ai toujours eu une difficulté à définir la frontière entre plan et projet .</dyn> 
+Quand je reçois une commande pour <dyn> l' élaboration d' un plan ,</dyn> les incompréhensions se manifestent dès la rédaction du contrat . 
+Ainsi pour <dyn> le </dyn> plan de rénovation du <lieu type=obj>Chiado</lieu> <lieu type=loc>à Lisbonne</lieu> , j'ai décidé de définir <dyn> le </dyn>s lignes généra<dyn> le </dyn>s , <dyn> le </dyn>s principes et <dyn> le </dyn> règ<dyn> le </dyn>ment , en laissant aux propriétaires <dyn> le </dyn> choix des architectes . 
+Le résultat final n'a pas été brillant et confirme la difficulté contemporaine de <dyn> construire en continuité </dyn> à travers des interventions individuelles . 
+Et pourtant des expériences positives ont été réalisées par le passé , comme le démontrent celles du SAAL[1], <lieu type=loc>à Porto</lieu> , dans la période immédiatement après <dyn> la révolution de 1974 .</dyn> 
+Álvaro SIZA [1] <act>SAAL</act> : service mobile d' appui local , <dyn> opérations de restructuration de <lieu type=obj>logements sociaux</lieu> </dyn> avec la participation des habitants et des architectes urbanistes . 
+<dyn> Une grande affinité , une identité de préoccupations existait alors entre les différents architectes , due également à la vivacité des débats <lieu type=loc>sur la ville</lieu> et sur l' architecture .</dyn> 
+Malgré la jeunesse et <dyn> le manque d' expérience des protagonistes , les volontés coïncidaient , pouvant compter avec la participation des citoyens .</dyn> 
+Néanmoins , ce bref épisode n'a pas eu de suite et aujourd'hui aucune correspondance n'existe dans les multiples <dyn> volontés de transformation .</dyn> 
+Les architectes n'en sont certainement pas les seuls responsables . 
+Au <lieu type=obj>Chiado</lieu> est particulièrement évidente l' inexplicable interruption de ce qui était clairement défini par le plan : <dyn> <lieu type=obj>le respect des espaces</lieu> ouverts , des vides , la liaison entre les parties contiguës </dyn> et la recherche de correspondance entre les différents <lieu type=obj>secteurs</lieu> . 
+<dyn> L'évidente relation entre la <act>spatialité intérieure</act> et <act>extérieure</act> </dyn> était prioritaire et n'a pas été entièrement considérée . 
+Pareille situation ne surprend pas complètement . 
+Elle est la conséquence du moment particulier de crise que l' on constate <lieu type=loc>dans le centre</lieu> de <lieu type=obj>Lisbonne</lieu> , et <dyn> sa relative décadence </dyn> par rapport à d' autres <lieu type=obj>secteurs</lieu> de <lieu type=obj>la ville</lieu> , comme ceux <lieu type=loc>le long du Tejo</lieu> . 
+Une situation exceptionnelle dans <dyn> mon activité professionnelle a été le travail <lieu type=loc>à Macao</lieu> .</dyn> 
+Au début il m'a paru particulièrement difficile de définir les principes pour <dyn> construire des surfaces à conquérir </dyn> <lieu type=loc>sur la mer</lieu> . 
+Ainsi , pour la première fois pour moi manquaient des références directes ( accidents topographiques , constructions existantes , histoire ) qui constituent généralement les coordonnées sûres pour <dyn> l' élaboration d' un projet .</dyn> 
+J'ai dû alors prendre en compte d' autres relations . 
+<lieu type=obj>La col<dyn> </lieu> la </dyn>boration interdisciplinaire dans ce sens a été déterminante , comme <dyn> la </dyn> présence de spécialistes de <lieu type=obj>Hong Kong</lieu> , en plus des Ang<dyn> la </dyn>is et des Hol<dyn> la </dyn>ndais , pour les aspects techniques liés à <dyn> la </dyn> construction <lieu type=loc>sur l' eau</lieu> . 
+Les fortes contraintes naturelles ont été décisives dans <dyn> l' articulation du plan .</dyn> 
+En fait , l' attention aux paramètres géologiques est une constante dans l' histoire de <lieu type=obj>Macao</lieu> , étant donné la longue tradition dans <dyn> la conquête de <lieu type=obj>terrain</lieu> </dyn> <lieu type=loc>sur la mer</lieu> . 
+La péninsule <dyn> s'est agrandie </dyn> successivement , car <lieu type=obj>les terrains</lieu> étaient toujours insuffisants et <lieu type=obj>la mer</lieu> peu profonde . 
+Mais la principale préoccupation , pendant l' élaboration des études typologiques , consistait à éviter que <dyn> la nouvelle extension </dyn> entre en conflit avec le paysage et le profil de <lieu type=obj>la ville</lieu> . 
+Malheureusement , les indications du plan ont été altérées pendant <dyn> la réalisation </dyn> et l' image finale s'en ressent . 
+<lieu type=obj>La hauteur des bâtiments</lieu> , par exemple , <dyn> a été multipliée par deux par rapport à ce qui était prévu .</dyn> 
+<dyn> Le rythme de développement de <lieu type=obj>cette région</lieu> ,</dyn> en ce moment , est particulièrement intense , sous l' influence des liaisons avec <lieu type=obj>Hong Kong</lieu> et <lieu type=obj>Canton</lieu> . 
+L'ex-colonie anglaise a constitué un modèle de référence pour <dyn> l' extension de <lieu type=obj>la ville</lieu> .</dyn> 
+À <lieu type=obj>Hong Kong</lieu> , <lieu type=obj>les gratte-ciel</lieu> <lieu type=obj>ont le relief</lieu> comme fond et la monumentalité du paysage <dyn> absorbe tout , domine et réunit ,</dyn> comme <lieu type=loc>à Rio de Janeiro</lieu> . 
+Dans <lieu type=obj>cette ville</lieu> , les conditions naturelles , les sculptures <lieu type=obj>des rochers</lieu> font le contrepoint aux constructions <dyn> existantes </dyn> et créent le paysage comme un tout . 
+À <lieu type=obj>Macao</lieu> , en revanche , <dyn> la plus <lieu type=obj>haute colline</lieu> ne dépasse pas 200 mètres .</dyn> 
+De toute manière , la relation avec le paysage n'était pas le seul problème à considérer , étant donné que <lieu type=obj>Macao</lieu> <dyn> possède <lieu type=obj>un centre historique</lieu> très intéressant et unique en <lieu type=obj>Extrême-Orient</lieu> .</dyn> 
+Il était donc nécessaire de prendre en compte non seulement la relation entre la forme de la péninsule et <dyn> les nouveaux <lieu type=obj>espaces</lieu> à construire ,</dyn> mais aussi entre le tissu ancien et celui que l' on proposait . 
+<dyn> La limite <lieu type=loc>entre la terre</lieu> et <lieu type=obj>la mer</lieu> est très accidentée .</dyn> 
+La proposition prétendait <dyn> conserver cette ligne de <lieu type=obj>côte</lieu> si pleine de détails et de construire deux grandes plates-formes ,</dyn> l' une tournée vers l' est et l' autre vers le sud , très géométriques , comme deux grands navires ancrés <lieu type=loc>dans les eaux</lieu> de la péninsule . 
+<lieu type=obj>Un canal</lieu> sépare la plate-forme et <lieu type=obj>la côte</lieu> . 
+Ce dialogue particulier entre nouveau et ancien , à grande échelle , est particulièrement utile pour <dyn> le drainage ,</dyn> comme l' ont confirmé les consultants hollandais . 
+Les points de contact proposés , larges et peu nombreux , n'empêcheront pas <lieu type=obj>le passage</lieu> de <lieu type=obj>l' eau</lieu> quand <lieu type=obj>les voies existantes</lieu> <dyn> seront insérées </dyn> dans le nouveau tracé . 
+<dyn> L'organisation de ces plates-formes </dyn> est constituée essentiellement d' une grille semblable à celle utilisée pendant <lieu type=obj>la colonisation philippine</lieu> , avec un module de 144 x 144 mètres . 
+En <lieu type=obj>Amérique du Sud</lieu> , j'ai eu <dyn> l' opportunité de vérifier sa remarquable flexibilité .</dyn> 
+Elle représente une manière de penser <dyn> l' urbanisme </dyn> très différente de <lieu type=obj>celle des Portugais</lieu> <lieu type=loc>dans leurs colonies</lieu> . 
+<lieu type=obj>Les villes</lieu> que j'ai visitées <lieu type=loc>au Brésil</lieu> sont très différentes <lieu type=obj>des villes</lieu> <dyn> fondées </dyn> par les Espagnols . 
+Ces derniers ont choisi <dyn> les plates-formes de niveaux ,</dyn> sur lesquelles s'étendait la grille , définie très précisément par le code philippin . 
+<dyn> L'implantation espagnole </dyn> – encore valable aujourd'hui – réunit toute la sagesse urbanistique des temps les plus anciens . 
+Elle a souffert des multiples transformations , et constitue le tracé des <dyn> nouveaux développements clandestins </dyn> <lieu type=loc>dans la périphérie des villes</lieu> . 
+À l' inverse , <lieu type=obj>les villes</lieu> portugaises cherchent des lieux beaucoup plus accidentés pour que les caractéristiques propres <lieu type=loc>au terrain</lieu> puissent aider <dyn> la construction .</dyn> 
+Ainsi , le tracé doit <dyn> s'adapter à la topographie </dyn> tandis que l' architecture , assez simple , trouve dans sa difficile relation <lieu type=loc>au terrain</lieu> son caractère extraordinaire ( <lieu type=loc>à Rio de Janeiro</lieu> , <lieu type=loc>à Macao</lieu> , en <lieu type=obj>Inde</lieu>). 
+Et pourtant , nous avons proposé le tracé espagnol qui <dyn> s'adapte mieux <lieu type=loc>au site</lieu> </dyn> – un plan artificiel – et approfondi la distance entre l' ancien et le nouveau . 
+<lieu type=obj>Le dessin des espaces publics</lieu> et de l' architecture a été influencé par l' étude de <lieu type=obj>la ville</lieu> et des petites <lieu type=obj>maisons</lieu> chinoises à deux niveaux , avec <dyn> leur composition parfaite </dyn> malgré les juxtapositions occidentales ( déco , moderniste…). 
+De ces deux matrices , architecture locale et internationale , pouvait venir la référence essentielle pour <dyn> la nouvelle architecture de <lieu type=obj>la ville</lieu> .</dyn> 
+Une très belle image de <lieu type=obj>Macao</lieu> est en réalité celle des figuiers avec ses grandes racines , <dyn> créant </dyn> une sorte de toit , une grande sculpture . 
+Sur une de ces plates-formes <dyn> a été dessinée </dyn> une allée plantée d' arbres de grandes dimensions , avec <lieu type=obj>un jardin chinois</lieu> sur l' un des côtés . 
+L'utilisation de la grille <lieu type=loc>dans les villes</lieu> portugaises a un précédent important <lieu type=loc>dans la Baixa de Lisbonne</lieu> , <dyn> entièrement reconstruite </dyn> après le tremblement de <lieu type=obj>terre</lieu> de 1755 . 
+<lieu type=obj>Le Chiado</lieu> en fait <lieu type=obj>partie</lieu> et constitue une des limites de ce vaste dessin qui rencontre , dans <dyn> <lieu type=obj>les collines</lieu> qui le délimitent , le noyau ancien ,</dyn> avec sa typique topographie accidentée . 
+<lieu type=obj>La ville</lieu> est constituée de <dyn> la répétition de petites unités qui assurent le tissu continu ,</dyn> duquel émergent ponctuellement les grandes structures institutionnelles . 
+À <lieu type=obj>Lisbonne</lieu> , le contraste entre <dyn> le tissu fragmenté , presque cubiste ,</dyn> influencé par la culture arabe , et les grandes constructions , les grands palais , m'a toujours impressionné . 
+Ce double registre détermine l' intensité de l' expression architecturale . 
+Il n'existe pas de <lieu type=obj>monument</lieu> <lieu type=loc>dans la ville</lieu> sans <dyn> la continuité anonyme de multiples constructions </dyn> : il s'agit d' aspects qualitatifs complémentaires . 
+Malgré cela , la perte de sens dans le rôle de <dyn> chaque construction </dyn> est patente pour tout <lieu type=obj>le monde</lieu> . 
+<dyn> L'ambition <act>généralisée de la singularité</act> </dyn> fait disparaître la notion de singularité et <lieu type=obj>banalise le territoire</lieu> . 
+L'intervention <lieu type=loc>au Chiado</lieu> , nécessaire après l' incendie de 1988 , consiste en <dyn> la </dyn> reconstruction de certaines parties de ce grand édifice préfabriqué qu'est <dyn> la </dyn> <lieu type=obj>Baixa</lieu> . 
+Un des éléments constitutifs de <dyn> l' intervention du XVIIIe siècle ,</dyn> que le projet récupère , c'est la , cage ,. 
+Il s'agissait d' une structure flexible en <lieu type=obj>bois</lieu> , sur laquelle s'accolaient les façades en pierre , privées de leur fonction structurelle et souvent <dyn> mal construites .</dyn> 
+En cas de <dyn> nouveau tremblement de <lieu type=obj>terre</lieu> ,</dyn> les occupants resteraient dans les cages tandis que les façades tomberaient sans abîmer <lieu type=obj>les bâtiments</lieu> opposés , la largeur de <lieu type=obj>la rue</lieu> étant calculée à cet effet . 
+Le projet lance à nouveau l' idée de la cage , maintenant en béton , et récupère toutes les façades qui ont échappé à <dyn> l' incendie .</dyn> 
+Les cadrages des portes , modénatures et corniches , <dyn> ont été reconstruits </dyn> et restitués à leur fonction d' origine . 
+<dyn> Des altérations </dyn> ont été introduites seulement là où il était nécessaire d' améliorer le confort . 
+Pour garantir <dyn> l' isolation thermique </dyn> ont été utilisées par exemple deux fenêtres parallèles , conservant ainsi le profil délicat des fenêtres existantes . 
+La grille du XVIIe siècle <dyn> s'interrompt brutalement quand <lieu type=obj>elle rencontre les collines</lieu> du <lieu type=obj>Bairro Alto</lieu> et d' <lieu type=obj>Alfama</lieu> ,</dyn> laissant la relation avec la particularité du <lieu type=obj>site</lieu> non résolue . 
+Le concepteur devient détective , cherchant à <dyn> rétablir les correspondances anciennes , vitales , coupées </dyn> de façon traumatisante et peu perçues . 
+Je me rappelle qu'en me promenant <lieu type=loc>dans la ville</lieu> pour observer son paysage et sa topographie , un parcours pour <dyn> relier </dyn> <lieu type=obj>la plate-forme du Chiado</lieu> <lieu type=loc>à l' église de Carmo</lieu> , lieu d' arrivée de l' ascenseur de <lieu type=obj>Santa Justa</lieu> , m'est apparu nécessaire . 
+Bien plus tard j'ai retrouvé des documents qui démontraient l' existence de ce parcours , disparu avec <dyn> le tremblement de <lieu type=obj>terre</lieu> .</dyn> 
+Dans un plan de <lieu type=obj>la ville</lieu> , avec <lieu type=obj>les bâtiments</lieu> en perspective , est représentée <dyn> <lieu type=obj>l' église</lieu> de <lieu type=obj>Carmo</lieu> </dyn> avec un escalier qui arrive <lieu type=loc>au Chiado</lieu> . 
+Ces points difficiles du tracé ont été une extraordinaire stimulation pour <dyn> le projet .</dyn> 
+<lieu type=obj>Le Chiado</lieu> doit être traversé , puisqu'il <dyn> <lieu type=obj>relie deux quartiers importants</lieu> de <lieu type=obj>la ville</lieu> :</dyn> <lieu type=obj>le Bairro Alto</lieu> et <lieu type=obj>la Baixa</lieu> ; 
+<dyn> un des plus anciens accès de <lieu type=obj>Lisbonne</lieu> ,</dyn> encore aujourd'hui lieu de rencontre constamment fréquenté . 
+Mais <lieu type=obj>le Chiado</lieu> risque <dyn> d' être rendu </dyn> exclusivement aux piétons comme <lieu type=obj>l' ont été quelques rues</lieu> de <lieu type=obj>la Baixa</lieu> . 
+Je suis opposé à cette solution qui <dyn> aggrave les problèmes de trafic et produit l' insécurité </dyn> la nuit , cause de la fuite des habitants . 
+Il suffit de regarder <dyn> <lieu type=obj>les rues réservées</lieu> aux piétons </dyn> en <lieu type=obj>Hollande</lieu> pour le constater . 
+Je préfère <dyn> la coexistence des piétons et des voitures ,</dyn> si vivante <lieu type=loc>à Rome</lieu> ou <lieu type=loc>à Naples</lieu> dans la multiplicité de dialogues et même de conflits qu'elle induit . 
+Il est indispensable d' éviter <dyn> les points de rupture </dyn> <lieu type=loc>dans la continuité des villes</lieu> . 
+<dyn> L'insistance paternaliste à éliminer tous les dangers est contre-productive , car un piéton qui sort d' <lieu type=obj>une rue piétonne</lieu> </dyn> rencontre tout d' un coup des menaces contre lesquelles il s'est moins habitué à se défendre . 
+Le piéton <dyn> sait se déplacer <lieu type=loc>dans la ville</lieu> , sans avoir besoin de protections obsessionnelles ,</dyn> comme le démontrent les kilomètres de <lieu type=obj>canaux</lieu> <lieu type=loc>à Venise</lieu> , sans barrières ni victimes . 
+Œuvrer dans la continuité – <act>Évora</act> -Malague<act>ira</act>[2] 
+Un aspect qui m'impressionne beaucoup dans l' architecture et <lieu type=obj>la ville</lieu> de notre époque est l' empressement avec lequel on veut tout porter à <dyn> l' achèvement .</dyn> 
+Cette tension vers une solution définitive empêche la complémentarité entre les choses , entre tissu urbain et <lieu type=obj>monument</lieu> , entre <dyn> <lieu type=obj>espace ouvert</lieu> et construit .</dyn> 
+Aujourd'hui n'importe quelle intervention , même petite et fragmentée , s'obstine à avoir une image finale : ainsi s'explique la difficulté d' interpénétration entre <dyn> les différentes parties de <lieu type=obj>la ville</lieu> .</dyn> 
+À Évora , le temps de la compréhension et de l' étude , prolongé et sans fin , m'a permis d' éviter <dyn> l' application d' un principe unique et préconçu .</dyn> 
+Au cours de vingt années , le travail a pourtant failli <dyn> s'interrompre brusquement ,</dyn> considéré sans structure et dispersif ; 
+incapable donc d' offrir <lieu type=obj>une urbanité</lieu> . 
+L'option initiale du projet consistait à essayer de <dyn> délimiter <lieu type=obj>le territoire</lieu> </dyn> avec des interventions disséminées , pour que le temps et la capacité de réalisation puissent compléter le dessin , occupant <lieu type=obj>les espaces</lieu> vides . 
+La possibilité de suivre avec continuité le plan a été décisive dans <dyn> la mise en œuvre du projet urbain .</dyn> 
+Les interprétations du plan du <lieu type=obj>quartier</lieu> de <lieu type=obj>Malagueira</lieu> ne sont pas unanimes : certaines , positives , mettent en valeur les interventions innovantes , d' autres dénoncent <dyn> l' agonie du processus ,</dyn> avec la conviction de l' absence d' un futur . 
+Dans la période qui succède immédiatement à la révolution du 25 avril 1974 , un grand <lieu type=obj>territoire</lieu> situé en dehors <lieu type=obj>des murs</lieu> de <lieu type=obj>la ville</lieu> d' <lieu type=obj>Évora</lieu> <dyn> a été destiné ,</dyn> dans le cadre du programme <act>SAAL</act> , à une association d' habitants . 
+Malgré <dyn> l' extension <lieu type=obj>des SAAL</lieu> ,</dyn> cette population organisée , composée de cent familles , maintient l' intention de construire sa propre <lieu type=obj>maison</lieu> . 
+Sur <lieu type=obj>ce secteur</lieu> existait un plan , élaboré à la fin des années 1960 , qui prévoyait <dyn> la construction de <lieu type=obj>bâtiments hauts</lieu> ,</dyn> quelques-uns d' ailleurs réalisés , en menaçant le profil de <lieu type=obj>la ville</lieu> . 
+L'architecte urbaniste Nuño Portas , secrétaire pour l' Habitat et l' Urbanisme du gouvernement provisoire , a décidé de <dyn> suspendre la construction </dyn> et a défini de nouveaux principes . 
+Ceux-ci prévoyaient <dyn> la </dyn> conservation de <dyn> la </dyn> densité du p<dyn> la </dyn>n précédent pour 1200 <lieu type=obj>logements</lieu> , <dyn> la </dyn> préservation de <dyn> la </dyn> bande verte qui accompagne <dyn> la </dyn> ligne d' <lieu type=obj>eau</lieu> , encore présente , et <dyn> la </dyn> construction d' <lieu type=obj>habitations basses</lieu> très denses . 
+S'est manifesté alors l' intention , clairement innovante pour <lieu type=obj>le pays</lieu> , de <dyn> préserver <lieu type=obj>le territoire</lieu> </dyn> et d' expérimenter des nouvelles solutions pour l' habitat . 
+La commande pour <dyn> l' élaboration du plan </dyn> m'a été faite par la municipalité , tandis que <lieu type=obj>le projet des maisons</lieu> m'a été confié par l' association des habitants . 
+Ont ainsi été initiés , au même moment , <dyn> un travail <lieu type=loc>sur la ville</lieu> et l' architecture .</dyn> 
+[…] 
+Quand <dyn> j'ai visité pour la première <lieu type=obj>fois le site</lieu> ,</dyn> j'ai noté une multiplicité de présences . 
+D'abord , <lieu type=obj>le quartier</lieu> clandestin de <lieu type=obj>Santa Maria</lieu> , que <dyn> le mouvement du <lieu type=obj>terrain</lieu> cache depuis <lieu type=obj>la route</lieu> vers <lieu type=obj>Lisbonne</lieu> et une autre <lieu type=obj>voie communale</lieu> .</dyn> 
+Entre <lieu type=obj>ces deux voies</lieu> apparaît une ligne d' <lieu type=obj>eau</lieu> . 
+De nombreux repères indiquaient différentes préexistences : un bain arabe , près du courant , <dyn> <lieu type=obj>une zone</lieu> plus haute , un arbre de liège , une citerne et encore , un dépôt d' <lieu type=obj>eau</lieu> .</dyn> 
+La présence du <lieu type=obj>domaine</lieu> de <lieu type=obj>Malagueirinhaest fondamentale</lieu> , avec <dyn> son orangeraie adjacente .</dyn> 
+<lieu type=obj>Une voie</lieu> traverse <dyn> un autre <lieu type=obj>quartier</lieu> clandestin ,</dyn> <lieu type=loc>à côté de l' école</lieu> , et deux vieux <lieu type=obj>moulins</lieu> . 
+Enfin , <lieu type=obj>les bâtiments</lieu> de sept niveaux construits selon l' ancien plan . 
+Tout <lieu type=obj>ce secteur</lieu> <lieu type=obj>était la propriété</lieu> du <lieu type=obj>domaine</lieu> . 
+Du <lieu type=obj>terrain</lieu> , on a une très belle vue d' <lieu type=obj>Évora</lieu> , <lieu type=obj>ville</lieu> de granit et de marbre ( ce qui arrive rarement ) : émergent la cathédrale , <dyn> <lieu type=obj>une église</lieu> romane et un théâtre néoclassique .</dyn> 
+J'ai commencé par étudier <dyn> la grande vitalité </dyn> du <lieu type=obj>quartier</lieu> de <lieu type=obj>Santa Maria</lieu> , soutenue par la présence de petites activités économiques . 
+Les gens <dyn> s'éloignent de <lieu type=obj>leur maison</lieu> </dyn> pour aller chercher <lieu type=obj>l' eau</lieu> <lieu type=loc>à la fontaine</lieu> , pour aller <lieu type=loc>à l' école</lieu> ou à l' autre <lieu type=obj>quartier</lieu> : ainsi , au cours des temps , ils ont laissé <lieu type=loc>sur le terrain</lieu> le dessin du parcours le plus adapté . 
+Ces traces , très claires , aidaient à expliquer les comportements et la topographie et indiquaient <dyn> les possibilités de transformation et de relations .</dyn> 
+Il est apparu évident que le lien entre <dyn> <lieu type=obj>les deux quartiers</lieu> clandestins </dyn> était une des questions fondamentales que le projet devait prendre en considération . 
+J'ai ensuite pensé à la nécessité d' un axe est-ouest traversant tout <lieu type=obj>le secteur</lieu> , ainsi que la ligne d' <lieu type=obj>eau</lieu> , <dyn> reliant le nouveau lieu <lieu type=loc>à la ville ancienne</lieu> .</dyn> 
+Successivement , pour favoriser ces mouvements , invisibles , <lieu type=loc>entre le terrain</lieu> et <lieu type=obj>la voie</lieu> vers <lieu type=obj>Lisbonne</lieu> , j'ai décidé de <dyn> tracer aussi l' axe nord-sud ,</dyn> qui se prolonge par un parcours piéton . 
+<lieu type=obj>Cette croix</lieu> constitue la structure de <dyn> l' intervention </dyn> et , à partir de cette structure , la discussion a commencé . 
+Le long de l' axe est-ouest ont été proposées <dyn> de nombreuses constructions ,</dyn> se rapprochant du <lieu type=obj>quartier</lieu> de <lieu type=obj>Santa Maria</lieu> . 
+Dans <dyn> <lieu type=obj>l' espace</lieu> <lieu type=loc>entre les deux quartiers</lieu> </dyn> <lieu type=obj>se trouve une voie</lieu> que j'ai appelée <lieu type=obj>Broadway</lieu>( nom consolidé par les habitants des lieux ). 
+Ce parcours , qui séparait les constructions nouvelles des anciennes , permet <dyn> <lieu type=obj>la régénération des espaces</lieu> ouverts <lieu type=obj>des maisons préexistantes</lieu> </dyn> et rend possibles les accès , escaliers et <lieu type=obj>jardins</lieu> , pour que les habitants puissent sortir de la clandestinité . 
+<lieu type=obj>Les habitations</lieu> que j'ai proposées correspondent à une seule typologie : <dyn> la construction </dyn> s'éloigne de <lieu type=obj>la rue</lieu> , en libérant un patio , réunie <lieu type=loc>par le mur</lieu> du fond à une autre <lieu type=obj>maison</lieu> qui répète le même dessin de l' autre côté . 
+<dyn> Les premiers problèmes par rapport au choix de la typologie se sont manifestés pendant la discussion avec les habitants et se sont transformés ensuite en une question politique .</dyn> 
+S'était répandue l' idée , diffusée dans l' assemblée ou suggérée de l' extérieur , que <dyn> construire uniquement <lieu type=obj>des maisons</lieu> <lieu type=loc>à patio</lieu> ,</dyn> <lieu type=loc>dans un secteur</lieu> de <lieu type=obj>la ville</lieu> , était inhumain , inacceptable . 
+<dyn> Cette peur de la monotonie </dyn> est un défi à la recherche de différence qui ne peut pas se résoudre à une question d' esthétique , car s'il en était ainsi , le résultat apparaîtrait tout de suite non naturel , caricaturé ou inventé . 
+[…] 
+<lieu type=obj>La maison</lieu> à patio n'a pas convaincu tout <lieu type=obj>le monde</lieu> et , dans très peu de cas , j'ai reçu la demande de <dyn> déplacer le patio </dyn> à l' intérieur de l' îlot , demande mue par le désir d' une présence plus forte de <lieu type=obj>la maison</lieu> <lieu type=loc>sur la rue</lieu> , et j'y ai répondu car cela s'insérait bien dans la structure générale . 
+Entre-temps , j'ai eu l' idée de <dyn> proposer le réseau d' infrastructures </dyn> à la hauteur des toitures : <lieu type=loc>entre les deux maisons</lieu> accolées dos à dos , passe un conduit principal , le long de l' axe est-ouest . 
+Quelqu'un retient que la référence de cette structure a été <dyn> <lieu type=obj>l' aqueduc d' Évora</lieu> ,</dyn> qui , en effet , m'a impressionné . 
+En vérité , puisque les financements dont je disposais prévoyaient seulement <dyn> <lieu type=obj>la construction des logements</lieu> ,</dyn> je sentais la limitation donnée par une seule échelle . 
+D'autre part , puisque j'aurais difficilement réussi à obtenir les financements d' autres ministères dans <dyn> la construction des travaux publics ,</dyn> aussi pour des raisons politiques , je devais imaginer une solution permettant ce dialogue , que l' on voit dans toutes <lieu type=obj>les villes</lieu> , <lieu type=loc>entre le tissu uniforme des maisons</lieu> et les édifices collectifs . 
+Cette grande structure qui <dyn> traverse tout <lieu type=obj>le terrain</lieu> </dyn> a donc surtout la fonction de définir une autre échelle . 
+[…] Entre les îlots et l' aqueduc , j'ai laissé <lieu type=obj>quelques espaces</lieu> mesurés , ils <dyn> seront occupés successivement par des activités commerciales .</dyn> 
+Je voulais éviter <dyn> <lieu type=obj>la localisation aléatoire</lieu> et étrangère à la structure du <lieu type=obj>quartier</lieu> .</dyn> 
+La rencontre entre le conduit principal et le conduit secondaire a permis <dyn> la création d' une série d' <lieu type=obj>espaces interstitiels</lieu> </dyn> qui multiplient les possibilités de projets . 
+Paradoxalement , les critiques les plus violentes sont venues de l' interprétation de <lieu type=obj>ces espaces</lieu> comme <dyn> lieux non finis </dyn> et j'ai été accusé d' être , incapable de finir ,. 
+En réalité la préoccupation morphologique de l' ensemble était très vivante , et ces lieux <dyn> commencent à être remplis .</dyn> 
+Allier tradition et <lieu type=obj>modernité – La Haye</lieu>- <lieu type=obj>Schilderswick</lieu> 
+<dyn> <lieu type=obj>La reconstruction des villes</lieu> détruites </dyn> par la Seconde Guerre mondiale a adopté les principes de la Charte d' Athènes . 
+<dyn> La construction de <lieu type=obj>villes nouvelles</lieu> ou de <lieu type=obj>quartiers</lieu> de <lieu type=obj>ville</lieu> </dyn> a pris corps comme la conséquence du rapide développement économique et urbain . 
+<dyn> L'optimisme et la conviction , caractérisant les années 1950 ,</dyn> et l' exigence d' efficacité et de rapidité , ont produit et mis en valeur des modèles universels , presque indépendants de tout contexte . 
+Les résultats sont , sous certains aspects , brillants . 
+Mais l' optimisme est passé . 
+Un regard désenchanté <lieu type=loc>sur la ville contemporaine révèle</lieu> <dyn> sa fragmentation ,</dyn> la rigidité des zonages , la marginalisation du <lieu type=obj>centre historique</lieu> , le schématisme d' une architecture incapable de se , contaminer , dans la confrontation avec la qualité urbaine préexistante ; 
+d' un autre côté , cette architecture <dyn> n'a jamais réalisé la tabula rasa imaginée </dyn> sur les tables à dessin . 
+Une critique sans pitié des principes diffusés par les <act>Congrès internationaux d' architecture moderne</act> ( <act>CIAM</act> ) s'est ainsi généralisée , oubliant que le souffle créateur de la pratique qui les avait inspirés n'aurait pas résisté à <dyn> leur application automatique et bureaucratisée .</dyn> 
+Plus récemment , <dyn> des propositions d' intervention nouvelles <lieu type=loc>dans la ville</lieu> sont apparues </dyn> un peu partout en <lieu type=obj>Europe</lieu> , caractérisées principalement par : – la participation des habitants , exigée parfois sous la forme d' une sorte de lutte urbaine , face aux décisions qui touchent <lieu type=obj>des secteurs</lieu> de significative représentativité ; 
+– la réflexion sur <dyn> la transformation de <lieu type=obj>la ville existante</lieu> ,</dyn> plus que sur le processus de destruction-construction ; 
+réflexion qui procède d' une plus grande attention au contexte , à la structure de <lieu type=obj>la ville historique</lieu> et à <dyn> son développement </dyn> aux XVIIIe et XIXe siècles , à la relation typologique , à l' approfondissement des techniques et des bases théoriques de réhabilitation . 
+<dyn> Cet effort rénovateur </dyn> n'est pas <lieu type=loc>à l' abri</lieu> des tendances de simplification et d' omission , surtout quand il fait le choix d' exclure l' expérience des quarante dernières années ou quand la participation des habitants est considérée comme simple élément de pacification , si souvent réducteur , refusant – par prudence et calcul – un saut créateur qui la qualifie comme <lieu type=obj>partie intégrante</lieu> du processus de projet . 
+Pour <dyn> la </dyn> rénovation urbaine du <lieu type=obj>quartier</lieu> de <lieu type=obj>Schilderswick</lieu> <lieu type=loc>à La Haye</lieu> , les objectifs du p<dyn> la </dyn>n d' urbanisme incluaient <dyn> la </dyn> recherche de méthodes conduisant à une plus étroite re<dyn> la </dyn>tion entre p<dyn> la </dyn>n et projet d' architecture , à l' intérieur d' un processus participatif qui se révé<dyn> la </dyn>it difficile , apparemment du fait des origines variées des habitants immigrés ( <lieu type=obj>Surinam</lieu> , <lieu type=obj>Maroc</lieu> , <lieu type=obj>Tunisie</lieu> , <lieu type=obj>Inde</lieu> , <lieu type=obj>Portugal</lieu> , etc .). 
+<dyn> L'approfondissement des débats </dyn> a donné lieu à un engagement progressivement élargi des habitants . 
+Ces débats ont bénéficié de la volonté politique de la municipalité de <lieu type=obj>La Haye</lieu> et de la détermination des intervenants dans <dyn> le processus ,</dyn> assumant les contradictions et les conflits , latents ou patents . 
+Ils se sont développés entre le désir de préserver l' identité particulière de <lieu type=obj>Schilderswick</lieu> , en tant que <lieu type=obj>secteur</lieu> fortement consolidé , et l' ouverture à <dyn> une transformation irréversible ,</dyn> du fait de la modification de la population mais également des exigences , nouvelles , d' utilisation de <lieu type=obj>l' espace</lieu> et de confort ; 
+<dyn> <lieu type=obj>la compréhension des conflits a été une source</lieu> d' enrichissement pour le projet .</dyn> 
+La contradiction entre <dyn> le désir de préserver et le désir de changer ,</dyn> qui , dans une appréciation superficielle , pourrait être interprétée comme une opposition entre les habitants hollandais et immigrés , a des racines différentes plus profondes ; 
+elle constitue le support fondamental de <dyn> la transformation urbaine </dyn> non répressive et non instrumentale . 
+Une simple réflexion sur l' histoire et la géographie permet de considérer que c'est précisément à l' intérieur du tissu social , dense et complexe , et dans un milieu culturel fortement consolidé que <dyn> la transformation urbaine </dyn> est prévisible . 
+Et c'est là le défi à <dyn> l' expérience et à la tradition qualitative de la planification urbaine et architecturale de <lieu type=obj>La Haye</lieu> .</dyn> 
+Quelques réflexions sur l' expérience de <dyn> la transformation urbaine de <lieu type=obj>Schilderswick</lieu> </dyn> s'imposent . 
+Certaines options actuelles de planification , telles <dyn> les profondes modifications de la structure urbaine </dyn> ou la concentration systématique <lieu type=obj>des zones commerciales</lieu> , ne sont pas compatibles avec l' idée d' une , transformation participative , de plus en plus sollicitée ; 
+ces options provoquent des inconvénients et participent à <dyn> la dégradation environnante .</dyn> 
+<dyn> La rénovation </dyn> doit être lente et étalée dans le temps pour maintenir la population locale . 
+Il ne faut pas faire vivre les gens dans <dyn> un chantier </dyn> pendant des années ni généraliser la discontinuité et la fragmentation de la vie urbaine . 
+La recherche sur <dyn> les techniques de récupération ,</dyn> incluant les incidences sur les coûts matériels et sociaux , est à développer . 
+<dyn> Une meilleure articulation et une plus grande complémentarité entre les activités de planification et de projet sont nécessaires , en supprimant les inconvénients d' une trop rigide et actuellement peu claire <lieu type=obj>délimitation des territoires</lieu> disciplinaires </dyn> ; 
+ce qui exige structures et méthodes de travail plus flexibles , devant modifier ainsi la formation des architectes et des <dyn> planificateurs urbains .</dyn> 
+La participation des habitants , techniciens et politiques devra signifier un processus ouvert , et non simplement pacificateur ou conformiste ou d' envergure locale et fragmentée ou conduisant à <dyn> <lieu type=obj>l' établissement</lieu> de modèles de consensus facile .</dyn> 
+<dyn> L'expérience existante discrédite l' apologie des <act>méthodologies universelles</act> ,</dyn> ou plus particulièrement des , techniques et des <act>techniciens de la participation</act> ,. 
+La participation permet surtout la généralisation d' une information juste , continuellement actualisée et non limitée entre disciplines , constituant un élément fondamental de créativité , de rigueur et de justice dans <dyn> la transformation de <lieu type=obj>la ville</lieu> .</dyn> 
+[…] <dyn> Chercher avec désir et <lieu type=obj>plaisir la beauté des villes</lieu> </dyn> <lieu type=obj>– Montreuil</lieu>[3] 
+<lieu type=obj>Montreuil</lieu> connaît , à <dyn> la périphérie de <lieu type=obj>Paris</lieu> , une situation assez proche de ce qui se passe partout .</dyn> 
+À savoir , le désenchantement survenu après <dyn> le grand effort de construction et de transformation </dyn> qu'ont connu <lieu type=obj>les villes européennes</lieu> d' après-guerre . 
+Ce désenchantement succède à la croyance en <dyn> <lieu type=obj>un monde nouveau</lieu> et différent .</dyn> 
+À <lieu type=obj>Montreuil</lieu> , <dyn> cette transformation </dyn> est venue plus tard , dans les années 1970 , mais elle s'est faite sur la même croyance en la table rase . 
+La non-considération de la vérité topographique ( talweg ), de la présence de <dyn> petits lotissements </dyn> et des divisions antérieures du sol ( <lieu type=obj>murs</lieu> à pêches ) me fait penser qu'on a travaillé ici comme sur une feuille blanche . 
+Or la feuille <dyn> n'est jamais complètement blanche et ne l' a jamais été .</dyn> 
+De cette façon-là , <lieu type=obj>une partie</lieu> très significative du <lieu type=obj>centre-ville</lieu> <dyn> a été totalement bouleversée .</dyn> 
+<dyn> L'implantation au cœur de <lieu type=obj>la ville</lieu> d' un grand ensemble </dyn> qui commence au sous-sol et se développe démesurément a eu des conséquences tout <lieu type=loc>autour du centre</lieu> . 
+Les changements les plus importants survenus à ce moment-là ont été <dyn> l' interruption du système de <lieu type=obj>rues</lieu> </dyn> et de l' ancienne logique d' occupation du sol . 
+Elle a provoqué une décadence et une dégradation <lieu type=loc>à Montreuil</lieu> . 
+Il s'agissait pour moi de faire le diagnostic de cette situation et de proposer des changements afin d' arrêter et d' inverser ce processus de <dyn> dégradation et de perte de caractère du <lieu type=obj>centre historique</lieu> .</dyn> 
+Ce qu'il faut , c'est chercher avec désir et avec plaisir <dyn> <lieu type=obj>la beauté des villes</lieu> ,</dyn> y compris <lieu type=loc>à Montreuil</lieu> , même si ce n'est guère évident au premier coup d' œil en raison de la proximité de <lieu type=obj>Paris</lieu> qui est une merveille totale . 
+Quand on arrive <lieu type=loc>au centre</lieu> de <lieu type=obj>Montreuil</lieu> , on assiste à <dyn> un vrai désastre ,</dyn> une catastrophe ! 
+Mais si on se promène <lieu type=loc>dans les rues</lieu> qui vont du <lieu type=obj>centre</lieu> vers la périphérie , on découvre un autre <lieu type=obj>monde</lieu> : <lieu type=obj>une ville</lieu> avec une quantité de vert , <dyn> l' intérieur des îlots ménageant de petits patios , des petits <lieu type=obj>jardins</lieu> , des activités diverses ,</dyn> de la petite industrie , <lieu type=obj>des magasins…</lieu> 
+[…] 
+Il y a , sous-jacent à tout cela bien sûr , <dyn> <lieu type=obj>la présence des murs</lieu> à pêches </dyn> qui donnent ce caractère si fort <lieu type=loc>à Montreuil</lieu> . 
+Ce principe systématique <dyn> d' <lieu type=obj>organisation</lieu> du <lieu type=obj>territoire</lieu> </dyn> constitue comme de l' ordre en vigueur partout . 
+Même si <lieu type=obj>ces murs</lieu> , ou ce qu'il en reste , ne sont pas utilisables dans <dyn> leur usage originel </dyn> ( agriculture , horticulture ), ils sont là . 
+[…] 
+Sur une vue aérienne de <lieu type=obj>Montreuil</lieu> , <dyn> <lieu type=obj>l' influence des murs</lieu> sur le tissu de <lieu type=obj>la ville</lieu> </dyn> est frappante . 
+Ils fonctionnent un peu comme <dyn> la trame espagnole ou philippine <lieu type=obj>des villes</lieu> d' <lieu type=obj>Amérique du Sud</lieu> .</dyn> 
+C'est un élément ordonnateur de la géométrie qui influence <dyn> tout ce qui se passe </dyn> <lieu type=loc>sur le territoire</lieu> . 
+<lieu type=obj>La ville</lieu> de <lieu type=obj>Montreuil</lieu> s'interroge beaucoup <lieu type=loc>sur ces murs</lieu> . 
+Et le travail de <act>Michel Corajoud</act> , qui a travaillé avec moi , a été d' un apport très important pour <dyn> l' étude .</dyn> 
+L'observation des faits m'a fait penser qu'il fallait , dans une certaine mesure , revenir à l' échelle de <lieu type=obj>la ville telle</lieu> qu'elle pouvait être avant <dyn> les grands bouleversements .</dyn> 
+Cela sans nier , bien entendu , <dyn> les transformations </dyn> qui ont suscité ces bouleversements comme les deux grandes tours qui demeurent le fait le plus brutal dans le profil de <lieu type=obj>la ville</lieu> . 
+J'ai vu qu'il <lieu type=obj>y avait des rues</lieu> commerçantes proches de là qui <dyn> fonctionnent encore bien ,</dyn> malgré tout . 
+J'ai pensé qu'il fallait s'en inspirer , <dyn> refaire ces parcours </dyn> qui s'interrompent à l' approche de la masse qui engonce ces tours . 
+Les solutions consistent à intégrer toute cette réalité éparse et peut-être aussi contradictoire dans un tout , un cadre qui permette de <dyn> recréer un rapport <lieu type=loc>entre la rue</lieu> et les tours .</dyn> 
+Il est particulièrement déroutant , par exemple , et inconfortable , qu'on ne reconnaisse pas immédiatement <dyn> les accès aux tours .</dyn> 
+Je propose <dyn> d' isoler les tours ,</dyn> de les libérer des volumes parasites de deux ou trois étages qui s'agrippent à elles , donnant cette présence monstrueuse et sans rapport avec ces tours . 
+Les isoler , c'est les voir surgir directement du sol . 
+Cela doit s'accompagner , de l' autre côté de <lieu type=obj>la rue</lieu> , <dyn> de constructions de deux ou trois étages </dyn> afin d' adoucir le rapport <lieu type=loc>à la ville ancienne</lieu> et les deux tours . 
+Dans <dyn> la division en <lieu type=obj>trois espaces</lieu> , trois places ,</dyn> réside le véritable thème du travail . 
+À savoir , trouver le juste équilibre entre <dyn> construit et <lieu type=obj>espace libre</lieu> ,</dyn> entre vides et pleins . 
+<dyn> C'est de ce rapport , de cette complémentarité avec ce qui se passe à côté </dyn> que naît le confort . 
+<dyn> Cette transformation de <lieu type=obj>l' espace</lieu> </dyn> auprès des tours porte une transformation plus large et je suis sûr que ce travail aura une grande force . 
+Non en raison <dyn> d' une exubérance de l' architecture , mais parce qu'elle inclut à la fois le proche et le distant <lieu type=loc>dans la ville</lieu> .</dyn> 
+<dyn> L'étude du caractère de <lieu type=obj>Montreuil</lieu> </dyn> et sa restitution passent par un travail sur les proportions . 
+Ce caractère , cette échelle entre les choses , cette densité font bien souvent l' originalité de la périphérie où coexistent <dyn> urbanisation outrancière </dyn> et persistance du rural . 
+C'est très net , au moins <lieu type=loc>à Montreuil</lieu> . 
+Mais je pense aussi <lieu type=loc>à Lisbonne</lieu> . 
+Le programme propose <dyn> une quantité importante de démolitions </dyn> : tout <lieu type=obj>le centre commercial</lieu> , <lieu type=obj>la station</lieu> d' autobus , le théâtre… 
+Ce programme est finalement basé sur la démolition . 
+En ce qui concerne les tours , je ne pense pas qu'il faille <dyn> les démolir ,</dyn> indépendamment du fait économique qui ne le permettrait pas . 
+En fait , je ne partage pas cette idée – conservatrice au fond – de faire disparaître les faits de <dyn> la transformation antérieure </dyn> qu'on peut qualifier de regrettable et qui a occasionné un certain inconfort <lieu type=loc>dans la ville</lieu> . 
+[…] 
+Par principe , je suis contre l' idée de démolitions de structures <dyn> existantes </dyn> bien souvent réutilisables , parce qu'on nie l' histoire et une quantité de choses qui vont avec : <lieu type=obj>bois</lieu> , pierres , enduits – travaillés ou non , qu'importe –, une quantité de choses . 
+Parfois il est naturel d' en passer par là , mais je trouve qu'on <dyn> détruit beaucoup </dyn> sans raison , systématiquement . 
+De la même façon , je trouve tout aussi systématique et stérile l' attitude quasi paranoïaque qui consiste à vouloir <dyn> tout préserver .</dyn> 
+Ce qui est étrange dans la vie et la culture contemporaines , c'est le constant manque d' équilibre , <dyn> ces attitudes en zigzag </dyn> qui passent indifféremment d' un opposé à un autre , sans souci d' inclusion . 
+Mais <lieu type=obj>la ville</lieu> de <lieu type=obj>Montreuil</lieu> a cette conscience <dyn> qu'une nouvelle attitude est à prendre .</dyn> 
+Il y a quelques œuvres récentes qui le démontent . 
+On retrouve le respect des <dyn> îlots </dyn> où l' idée de <lieu type=obj>la rue</lieu> est présente… 
+Mais ce sont des expériences dispersées . 
+Ce qu'il faut , et qui est à l' origine de mon travail , <dyn> c'est créer comme une grille .</dyn> 
+À nouveau , une grille . 
+La culture urbaine comme nécessité 
+<dyn> La perpétuelle <lieu type=obj>transformation des villes</lieu> </dyn> s'opère différemment que l' on soit au sud de <lieu type=obj>l' Europe</lieu> , en <lieu type=obj>Amérique latine</lieu> ou en Orient… 
+<lieu type=obj>Les villes</lieu> d' <lieu type=obj>Europe du Nord</lieu> sont en phase de recherche de <dyn> leur consolidation .</dyn> 
+L'<act>urban</act>iste ne peut ignorer ces différentes situations . 
+Cela doit faire <lieu type=obj>partie</lieu> de <dyn> son bagage théorique </dyn> qui ne peut seulement être académique . 
+<lieu type=obj>L'apprentissage des villes</lieu> va au-delà . 
+Il est fait de <dyn> cette connaissance encore fraîche et grisante de <lieu type=obj>la ville</lieu> </dyn> – surtout si ce n'est pas la nôtre – qui rend encore plus fortes les idées , les images qu'elles nous inspirent et qui soudain apparaissent . 
+Je crois que <dyn> cette attraction , cette fécondité que nous procure le travail <lieu type=loc>dans les villes</lieu> </dyn> s'apparente à une norme . 
+<lieu type=obj>Cela est une partie</lieu> du travail de l' urbaniste . 
+S'il ignorait cela ou si sa méthode analytique sur <dyn> <lieu type=obj>le développement des villes</lieu> ,</dyn> sur l' énergie qui les anime était défaillante , alors il participerait au désordre , au dérèglement des logiques , des transformations en cours ou des persistances . 
+<lieu type=obj>Des villes</lieu> 
+<dyn> Les dix dernières années de ma vie professionnelle ont pour l' essentiel été consacrées </dyn> à d' autres <lieu type=obj>villes</lieu> que la mienne . 
+<lieu type=obj>Des villes</lieu> bien différentes . 
+<lieu type=obj>Berlin</lieu> , rigoureuse et variée , <dyn> <lieu type=obj>les rues sévères</lieu> de <lieu type=obj>Kreuzberg</lieu> ,</dyn> des bouts d' architecture d' un <act>Mouvement</act> moderne naissant , quelques belles œuvres exemplaires , <lieu type=obj>des usines monumentales</lieu> , <lieu type=obj>des jardins</lieu> , <lieu type=obj>des lacs</lieu> et des ruines . 
+<lieu type=obj>La Haye</lieu> , tirée à la règle et à l' équerre où <dyn> des obstacles immergés contrarient la grille orthogonale que traversent de longues diagonales .</dyn> 
+<lieu type=obj>Caserte</lieu> et la chevauchée de <act>Vanvitelli</act> , structure horizontale au-dessus <lieu type=obj>des monts</lieu> et des vallées , <dyn> encerclant <lieu type=loc>sur des kilomètres les jardins</lieu> du palais .</dyn> 
+<lieu type=obj>Naples</lieu> , indescriptible , <dyn> le bord de <lieu type=obj>mer</lieu> <lieu type=obj>désert</lieu> des dimanches matin ,</dyn> quand arrive le bateau en provenance de <lieu type=obj>Palerme</lieu> . 
+<lieu type=obj>Salzbourg</lieu> et ses cohortes de touristes âgés . 
+<lieu type=obj>Salemi</lieu> , <lieu type=obj>ville</lieu> pour un film de <act>Pasolini</act> . 
+Les longs crépuscules <lieu type=loc>sur Venise</lieu> où <dyn> <lieu type=obj>chaque monument</lieu> </dyn> est traité comme un détail . 
+<lieu type=obj>Macao</lieu> aux très anciens carrefours . 
+<lieu type=obj>Alco</lieu> y , <lieu type=obj>Séville</lieu> et d' autres encore . 
+Je lis les critiques . 
+J'entends qu'il est étrange de ne pas retrouver <lieu type=loc>à Berlinun seul</lieu> de <dyn> ces délicats travaux en <lieu type=obj>bois</lieu> ,</dyn> caractéristiques de mes projets passés <lieu type=loc>à Macao</lieu> , les fragiles îlots de <lieu type=obj>maisons</lieu> de <lieu type=obj>Porto</lieu>– mais sur quel granit ? 
+Il arrive que <dyn> l' on reproche cela aux architectes étrangers </dyn> qui ont travaillé avec moi . 
+Je leur dois beaucoup au contraire , pour ce que j'ai appris , pour leur soutien inoubliable , la traduction indispensable et nécessaire de ce que je <dyn> n'étais pas en mesure de comprendre immédiatement .</dyn> 
+Pour ma part , je m'étonne , qu'issus de mains étrangères , on s'intéresse peu au charme des mille nuances de gris d' un enduit , à celui de la brique noircie , aux grands <lieu type=obj>murs aveugles</lieu> , aux rythmes réguliers des fenêtres qui <dyn> s'interrompent aux angles </dyn> ou qu'alors quelque chose d' extérieur à l' architecture survienne . 
+<act>Patience</act> . 
+Il arrive que <lieu type=obj>les villes</lieu> qui invitent <dyn> des architectes étrangers </dyn> attendent d' eux le contraire de ce qui s'y fait , exorcisant ainsi les croisements culturels toujours conflictuels et féconds auxquels donne lieu le contexte de travail . 
+Ce serait beau de fixer les synthèses que l' on devine ou que l' on suppose , <dyn> d' universaliser les surprises de la lumière que <lieu type=obj>le soleil du Sud</lieu> permet .</dyn> 
+Mais le dessin ne concède rien de tel . 
+Rien ne lui est possible en dehors de ce qui dans <dyn> les marges bouge .</dyn> 
+Reste le plaisir élémentaire de travailler avec les meilleurs artisans du <lieu type=obj>Nord</lieu> , des plâtriers , des menuisiers , des maçons : ces fameux maçons qui <dyn> soulèvent des linteaux de 5 mètres à l' aide de trois bâtons et qu'ils posent au-dessus des baies ,</dyn> en chantant une très vieille chanson , comme les bâtisseurs des pyramides en <lieu type=obj>Égypte</lieu> en chantaient . 
+Reste aussi la satisfaction de travailler avec les ouvriers méticuleux de <lieu type=obj>Hollande</lieu>– émigrants ou non – qui <dyn> assemblent les formes préfabriquées produites par l' industrie .</dyn> 
+L'architecture et les architectes perdent peu à peu <dyn> <lieu type=obj>cette faculté</lieu> de faire </dyn> et cela les affecte . 
+Ce sont des mains qui furent d' abord les nôtres qui <dyn> transforment lentement , patiemment ,</dyn> par-delà le dessin . 
+À eux , je rends hommage . 

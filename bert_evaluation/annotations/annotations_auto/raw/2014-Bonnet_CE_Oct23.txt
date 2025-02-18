@@ -1,0 +1,1014 @@
+﻿Autobiographie scientifique <act>Frédéric Bonnet</act> [1] 
+J'ai commencé dès <dyn> ce premier voyage </dyn> à apprendre le finnois , que je parle couramment . 
+Cela m'a aidé à acquérir une connaissance profonde des liens entre nature , architecture et <dyn> développement urbain </dyn> <lieu type=loc>dans ce pays</lieu> . 
+Ces recherches se sont vite étendues aux autres <lieu type=obj>pays</lieu> nordiques . 
+<act>Andrea Palladio</act> , <lieu type=obj>San <act>Francesco de</act>lla Vigna</lieu> , <lieu type=obj>Venise</lieu> , 1562 . 
+<act>Ca<act>r</act>lo Sca<act>r</act>pa</act> , <lieu type=obj>Fondation</lieu> Que<act>r</act>ini Stampalia ( détail ), <lieu type=obj>Venise</lieu> , 1963 . 
+<lieu type=obj>Stockholm</lieu> , Karlbergs Slottsväg . 
+La nature , la densité et les transports urbains se mêlent : <dyn> nouveaux <lieu type=obj>espaces publics</lieu> .</dyn> 
+1-Pourquoi être <act>architecte</act> et <act>urbaniste</act> ? 
+Je suis <lieu type=loc>à Firminy</lieu> . 
+Depuis <lieu type=obj>le chemin</lieu> où je marchais vers <lieu type=obj>l' école</lieu> , <dyn> l' Unité d' <lieu type=obj>habitation</lieu> de <act>Le Corbusier</act> </dyn> émergeait seule dans la brume — quand ce n'était les volutes rousses des aciéries de <lieu type=obj>Creusot-Loire</lieu> . 
+Beaucoup de mes voisins de <lieu type=obj>collège</lieu> habitaient <lieu type=loc>à Firminy-Vert</lieu> , <dyn> <lieu type=obj>cité moderne</lieu> bien paisible </dyn> alors . 
+C'était avant la politique de <lieu type=obj>la ville</lieu> . 
+<lieu type=obj>Le logement</lieu> social jouait son rôle républicain . 
+Je redécouvris plus tard en tant qu'<act>architecte-conseil de l'</act> État l' œuvre d' <act>Eugène Claudius-Petit</act> , maire de <lieu type=obj>Firminy</lieu> et ministre de <dyn> la <act>Reconstruction</act> .</dyn> 
+Il y avait déjà tous les sujets qui me préoccupent : une architecture reliée fortement à un paysage marqué par <dyn> son économie .</dyn> 
+En 1983 , <act>Patrick Berger</act> enseignait en première année à <dyn> <lieu type=obj>l' école</lieu> d' architecture de <lieu type=obj>Saint-Étienne</lieu> .</dyn> 
+Il y introduisit d' emblée la rigueur du dessin , <dyn> l' héritage de la modernité et la multiplicité des échelles .</dyn> 
+<lieu type=obj>Venise</lieu> , <dyn> le premier voyage d' études ,</dyn> fut une révélation , avec ma découverte des œuvres d' <act>Andrea Palladio</act> et de <act>Carlo Scarpa</act> , que quatre siècles séparent . 
+Ce parcours fut prétexte à des associations territoriales entre la ville-monde historique et <lieu type=obj>la Vénétie</lieu> , <dyn> son arrière-pays fertile .</dyn> 
+Les liens entre un édifice , <dyn> <lieu type=obj>l' espace public</lieu> , l' infrastructure , le tissu urbain </dyn> et la géographie apparaissaient comme une évidence . 
+Il y a trente ans , pour <dyn> l' architecte , la nature n'était pas un sujet .</dyn> 
+Tout se focalisait sur <dyn> <lieu type=obj>la ville</lieu> dense ,</dyn> où le paysage était une infrastructure ou , à la rigueur , un système de <lieu type=obj>parcs — Vienne</lieu> , <lieu type=obj>Paris</lieu> , <lieu type=obj>Barcelone</lieu> , <lieu type=obj>Rome</lieu> . 
+<dyn> Le retour <lieu type=loc>à la ville</lieu> ,</dyn> influencé par les architectes catalans et les théoriciens italiens , marqua mes premières années d' études . 
+En 1987 , le premier de <dyn> mes cinquante-quatre voyages en <lieu type=obj>Finlande</lieu> </dyn> fut un choc décisif . 
+Je découvris une autre urbanité , où la nature déterminait <dyn> la disposition des édifices </dyn> <lieu type=obj>— rochers</lieu> , baies , <lieu type=obj>forêts</lieu> , roselières , lumière , neige , nuit et froid ; 
+non pas un modèle concurrent , mais un contrepoint pour <dyn> imaginer une urbanité hybride .</dyn> 
+Cela se confirme : <lieu type=obj>les villes</lieu> du <lieu type=obj>Nord de l</lieu>' <lieu type=obj>Europe</lieu> <dyn> ont valorisé <lieu type=obj>leurs espaces</lieu> les plus méditerranéens ,</dyn> où l' activité des rez-de-chaussée anime <lieu type=obj>rues</lieu> et places piétonnes ; 
+<lieu type=obj>les villes</lieu> du Sud <dyn> intègrent désormais <lieu type=obj>leurs espaces naturels</lieu> dans leurs projets territoriaux , pour dessiner <lieu type=obj>la ville</lieu> </dyn> et offrir des usages citadins inédits . 
+<lieu type=obj>L' Europe</lieu> est mon point d' <lieu type=obj>attache</lieu> , croisant urbanités nordique et méditerranéenne . 
+[2] 
+La collaboration avec <act>Europan</act> depuis 1994 en témoigne : six jurys <lieu type=loc>dans toute l' <act>Europe</act> </lieu> , de nombreux textes critiques , et récemment un travail prospectif sur <dyn> les , thèmes du futur ,</dyn> pour les prochaines sessions . 
+[3] 
+<dyn> <lieu type=obj>Les passages</lieu> des grands boulevards ,</dyn> <lieu type=obj>le Mobilier national</lieu> aux <lieu type=obj>Gobelins</lieu> , <lieu type=obj>la rue des Colonnes</lieu> et <lieu type=obj>la Bourse</lieu> , <lieu type=obj>la Bibliothèque nationale</lieu> ... [4] 
+En 1988 , j'ai réalisé toutes les cartes de l' exposition , <lieu type=obj>Paris</lieu> , <lieu type=obj>la ville</lieu> et <dyn> ses projets </dyn> , <lieu type=loc>au Pavillon de l' Arsenal</lieu> avec le logiciel Illustrator . 
+Travail pionnier , alors décrié par <dyn> les tenants des logiciels , architecturaux ,,</dyn> devenu depuis un standard du dessin <lieu type=loc>dans les agences</lieu> d' urbanisme , voire d' architecture . 
+Les dessins de <dyn> <lieu type=obj>L'Amour des villes</lieu> </dyn> ( <act>Mardaga</act> , 1993 ) sont intégralement effectués sur ordinateur , en trois et deux dimensions . 
+[5] 
+<dyn> Le terme , sympathies ,</dyn> est emprunté à <act>Michel Foucault</act> , dans Les Mots et les Choses ( <act>Gallimard</act> , 1966 ). 
+En 1987 , je vins <lieu type=loc>à Paris</lieu> pour travailler à <dyn> <lieu type=obj>l' <act>Institut</act> français</lieu> d' architecture ( Ifa )</dyn> avec <act>Bruno Fortier</act> , qui préparait alors l' Atlas de <lieu type=obj>Paris</lieu> . 
+Je dessinais d' abord de grands plans coupés et des axonométries éclatées de <lieu type=obj>Paris</lieu> révélant <dyn> la recomposition du tissu urbain </dyn> par les projets . 
+Puis , pour <dyn> réaliser les dessins ,</dyn> je fus chargé de passer du rotring à l' informatique . 
+Avec des Macintosh rudimentaires , nous finissions , en 1990 , par <dyn> tout tracer </dyn> en détournant le logiciel de graphisme Illustrator . 
+Jusqu'en 1992 , je contribuais <lieu type=loc>au livre <act>L'Amour des villes</act> </lieu> . 
+Au-delà des oppositions <lieu type=loc>entre une ville</lieu> conçue comme un tissu compact réglé et celle de la modernité , il s'agissait d' explorer une autre hypothèse où l' architecture <dyn> créait des assemblages urbains plus subtils ,</dyn> alliant les objets nouveaux , l' héritage historique et <lieu type=obj>le socle naturel des villes</lieu> . 
+J'eus à cette fin la chance d' interviewer <act>Cedric Price</act> , <act>Peter Smithson</act> , <act>Àlvaro Siza</act> et <act>Elissa Aalto</act> et de réaliser plusieurs dessins <dyn> mêlant édifices et paysages .</dyn> 
+La liberté d' exploration de <act>Bruno Fortier</act> conduisait à des analogies fécondes , et me mit dans les pas de <act>Michel Foucault</act> , de ses sympathies : l' architecture et l' urbanisme sont aussi arts <dyn> d' établir des liens .</dyn> 
+<act>Patrick Berger</act> et <act>Bruno Fortier</act> m'ont appris à aimer de <lieu type=obj>concert ville</lieu> , paysage et architecture , mais surtout à imaginer <dyn> leurs interactions fertiles .</dyn> 
+<lieu type=obj>Parc de <</lieu> <lieu type=obj>dyn>la Ereta</</lieu> dyn> : croquis de l' entrée principale , <act>Frédéric Bonnet</act> , 1998 . 
+Les cartes thématiques pour <dyn> <lieu type=obj>le parc de la Ereta</lieu> </dyn> : infrastructures , irrigation , matériaux , vues . 
+Architecte , pour <lieu type=obj>la ville</lieu> , le paysage et l' infrastructure 
+Ces savoirs s'enrichissent mutuellement , j'en fis très tôt l' expérience . 
+En 1994 , <act>Marc Bigarnet</act> et moi-même sommes lauréats du concours Europan 3 <lieu type=loc>à Alicante</lieu> , pour <dyn> <lieu type=obj>quarante logements</lieu> <lieu type=loc>dans la ville historique</lieu> au pied du <lieu type=obj>mont Benacantil</lieu> .</dyn> 
+<dyn> N'ayant pu acquérir <lieu type=obj>le terrain</lieu> ,</dyn> <lieu type=obj>la Ville</lieu> nous demanda une esquisse pour aménager <lieu type=obj>la colline</lieu> , cela sans programme ni budget ni périmètre . 
+Ce qui nous amena à nous interroger sur ce que <lieu type=obj>la ville</lieu> gagnerait à <dyn> réaliser <lieu type=obj>ce parc</lieu> </dyn> ? 
+Pour y répondre , nous <dyn> avons laissé la forme ouverte </dyn> le plus longtemps possible , élaboré un récit étayé par des cartes thématiques , comme si le projet se fondait sur les outils du géographe et de l' écrivain . 
+<lieu type=obj>Le parc</lieu> devenait donc un emblème de dynamisme , un lien entre le front de <lieu type=obj>mer</lieu> et <lieu type=obj>les quartiers</lieu> plus populaires situés en retrait , et le catalyseur de <dyn> la restauration du <lieu type=obj>centre ancien dégradé</lieu> .</dyn> 
+Les valeurs urbaines portées par <dyn> le projet déclenchèrent la commande <lieu type=obj>ferme</lieu> .</dyn> 
+Le travail dura dix ans , le temps <dyn> d' affûter nos outils ,</dyn> malgré des honoraires très sobres . 
+Il fallut tout faire . 
+Pour <dyn> concevoir <lieu type=obj>les jardins</lieu> ,</dyn> nous avons relevé les végétaux présents <lieu type=loc>sur les falaises</lieu> <lieu type=obj>des caps voisins</lieu> . 
+Sur <lieu type=obj>ce site pentu</lieu> où les averses <dyn> mettaient </dyn> en <lieu type=obj>péril la ville historique</lieu> , j'ai calculé les débits d' <lieu type=obj>eau pluviale</lieu> et imaginé un paysage agissant comme une éponge . 
+Ce travail d' ingénieur m'est très utile aujourd'hui pour <lieu type=obj>réconcilier crues</lieu> et <dyn> mutations d' <lieu type=obj>un site</lieu> ,</dyn> notamment <lieu type=loc>à Rezé</lieu> , où il s'agit de prévoir de construire en <lieu type=obj>zones</lieu> inondables , ou dans le cadre de l' <act>Atelier national ,</act> Risques , où nous sommes missionnés pour définir des stratégies territoriales <lieu type=loc>sur des sites</lieu> exposés aux risques . 
+Le paysage fut pensé avec l' architecture , c'est-à-dire sans distinguer la structure des édifices du <lieu type=obj>parc</lieu> , <dyn> leurs usages ( ce que l' on voit en coupe et plan coupé ) <lieu type=obj>des murs</lieu> de soutènement ,</dyn> des rampes et <lieu type=obj>des jardins</lieu> . 
+Rien ne venait séparer <dyn> l' élévation du terrassement ,</dyn> les cadrages du paysage étaient conçus avec le plan de l' édifice dessiné avec la forme du sol . 
+Par ailleurs , <dyn> l' observation du travail des paysagistes </dyn> fut fertile , de même que la lecture des textes . 
+J'étais néanmoins insatisfait quant à <dyn> l' approche esthétique des théoriciens français ,</dyn> et complétais ces lectures par des visions plus anthropologiques , où le paysage était d' abord habité , politique , stratégique . 
+En matière de référence , <lieu type=obj>les Américains</lieu>( <act>J .-B . Jackson</act> , <act>McHarg</act> , <act>Olmsted</act> ) furent décisifs mais aussi <lieu type=obj>les Italiens</lieu>— pour qui milieu et regard s'épaulaient — et <dyn> mes explorations baltiques , où le paysage n'est pas séparé des pratiques et phénomènes naturels .</dyn> 
+Le paysage est central dans ma pratique d' urbaniste et d' architecte , surtout si , en amont , <lieu type=obj>il structure la ville</lieu> , aide à <dyn> relier , à développer , à préserver </dyn> ; 
+et , en aval , s'il <dyn> s'articule avec <act>infrastructure</act> et architecture à une échelle très fine .</dyn> 
+L'architecture peut apporter beaucoup à ces liens transcalaires , comme l' impose la responsabilité des <dyn> transformations du <lieu type=obj>territoire</lieu> </dyn> : ici <lieu type=obj>une route</lieu> , un édifice ou <lieu type=obj>un quartier</lieu> , un même milieu . 
+Je travaille ainsi sur la notion de <dyn> milieu habité </dyn> depuis quinze ans avec la philosophe <act>Chris Younès</act> . 
+Plutôt que l' opposition stérile des métiers d' architecte et de paysagiste , cette synthèse des milieux peut rassembler les points de vue au service <dyn> du projet de <lieu type=obj>territoire</lieu> .</dyn> 
+<dyn> Habiter l' estuaire ,</dyn> de <lieu type=obj>Nantes</lieu> <lieu type=loc>à Saint-Nazaire</lieu>: solidarité métropolitaine <lieu type=loc>entre des territoires</lieu> singuliers . 
+[6] Notamment à travers <dyn> la revue Pages paysages </dyn> et des travaux de <act>Michel Corajoud</act> , <act>Alexandre Chemetoff</act> , <act>Jacqueline Osty</act> et <act>Pascal Cribier</act> . 
+Ci-dessus , Les quatre échelles entrelacées : géographie , <lieu type=obj>site</lieu> , plan , matière . 
+À gauche , Arabianranta <lieu type=loc>à Helsinki</lieu>: la forme de <dyn> l' architecture est induite par une stratégie de grande échelle .</dyn> 
+[7] 
+J'ai développé ces notions dans <dyn> l' article , La confusion du paysage ,, Les Cahiers de la recherche architecturale et urbaine , no 4 , avril 2000 , ainsi que dans l' article , Architecture des milieux </dyn> ,, Le Portique , no 25 , 2010 . 
+Engagements multiples , extension du <lieu type=obj>domaine</lieu> de l' urbanisme 
+Nous <dyn> n'avons pas bénéficié des mêmes commandes que la génération précédente .</dyn> 
+L'action urbaine publique reste <lieu type=obj>ferme</lieu> , mais les moyens s'amenuisent . 
+<dyn> Les grands projets urbains </dyn> peuvent servir d' exemple , voire de levier , mais restent exceptionnels . 
+Ce qui est demandé à notre génération est sans doute plus complexe : des sujets plus ordinaires , où la qualité de situations modestes mérite autant <dyn> d' efforts que les projets prestigieux des décennies précédentes .</dyn> 
+J'ai ainsi pris le parti <dyn> d' être architecte-urbaniste </dyn> de manière multiple : praticien , critique , enseignant et chercheur , architecte-conseil de l' État . 
+Cet engagement multiple n'est pas une simple extension d' activité . 
+C'est une autre manière de travailler car ces modalités <dyn> s'épaulent l' une l' autre .</dyn> 
+Toutes <dyn> ces expériences , et non les seuls projets , appuient mes hypothèses .</dyn> 
+<act>L'entrelacement des échelles</act> 
+J'enseigne depuis 1998 , dont onze ans à <dyn> <lieu type=obj>l' école</lieu> d' architecture de Clermont-Ferrand .</dyn> 
+<act>Didier Rebois</act> , à la fois directeur et responsable d' <act> <act>Europan</act> </act> , <dyn> renforça <lieu type=obj>l' école</lieu> </dyn> avec de jeunes lauréats d' <act> <act>Europan</act> </act> . 
+Je choisis <dyn> d' explorer des contextes métropolitains et ruraux , <lieu type=obj>villes européennes</lieu> et paysages d' <lieu type=obj>Auvergne</lieu> .</dyn> 
+J'y développais <dyn> l' entrelacement des échelles ,</dyn> concept interscalaire , approfondi depuis lors grâce à plusieurs recherches donnant lieu à des publications , puis à l' élaboration d' un cours de théorie de l' architecture et de l' urbanisme à l' <act>Accademia di Architettura di Mendrisio</act> ( <lieu type=obj>Suisse</lieu>) depuis 2008 . 
+<dyn> L'entrelacement des échelles </dyn> est une notion simple , théorique et opératoire : quelle que soit la mesure du projet ( édifice , <lieu type=obj>jardin</lieu> , <lieu type=obj>quartier</lieu> , grand <lieu type=obj>territoire</lieu> ), quatre échelles ( relations ) interagissent : la géographie , <lieu type=obj>le site</lieu> , le plan et la matière . 
+Cette interaction n'est pas linéaire ( d' où <dyn> l' idée de tissage )</dyn> : le grand n'implique pas le petit et , a fortiori , l' analyse ne précède pas le projet . 
+<dyn> Les quatre mots simples ont été choisis car faciles à retenir et polysémiques .</dyn> 
+<lieu type=obj>Géographie</lieu> fait référence à la gouvernance , aux flux et influences distantes <dyn>( métropolisation ),</dyn> au contexte économique , à la géologie , au climat et au grand paysage ; 
+<lieu type=obj>site</lieu> désigne <dyn> le tissu , la parcelle , les voisinages , les règles urbaines , la forme urbaine , la pente et la forme du sol , le réseau d' <lieu type=obj>espaces publics</lieu> .</dyn> 
+Dans le plan <dyn> s'associent programme et structure , dispositif et usages , dedans et dehors , distribution et entre-deux .</dyn> 
+La matière renvoie à <dyn> la construction ,</dyn> au caractère des lieux , mais aussi à l' énergie et aux savoir-faire mobilisés pour édifier . 
+En ce sens , la boucle se referme : <dyn> les choix de matière ont également une dimension territoriale , selon les ressources mises en œuvre .</dyn> 
+Ainsi s'établit le contexte de l' architecture , mais aussi de <dyn> tout projet territorial </dyn> : les typologies , la nature de <lieu type=obj>l' espace public</lieu> , les ressources constructives , l' invention sur le programme y jouent un rôle essentiel . 
+Nombre de textes et de projets témoignent de l' apport de l' architecture dans <dyn> ces jeux transcalaires </dyn> : <act>Aalto</act> , <act>Wright</act> , <act>Kahn</act> , <act>Lewerentz</act> , <act>Plecnik</act> , <act>Rossi</act> , <act>Giancarlo di Carlo</act> , les <act>Smithson</act> et des centaines d' autres ont beaucoup à nous apprendre <lieu type=loc>sur le territoire</lieu> . 
+J'applique les mêmes principes à <dyn> <lieu type=obj>l' <act>Académie</act> </lieu> <act>de Mendrisio</act> ,</dyn> <lieu type=obj>dont la fondation</lieu> menée par les architectes modernes de <lieu type=obj>l' école</lieu> tessinoise — <act>Aurelio Galfetti</act> , <act>Mario Botta</act> — reposait sur les apports de la discipline au débat territorial . 
+Enfin , la direction du D<act>SA</act> , architecte-urbaniste , <lieu type=loc>à l' école</lieu> d' architecture de <lieu type=obj>la ville</lieu> et <lieu type=obj>des territoires</lieu> de <lieu type=obj>Marne-la-Vallée</lieu> , me donne la chance d' actualiser cet entrelacement des échelles à l' aune des enjeux contemporains de <dyn> l' urbanisme </dyn> pour former les nouvelles générations à cet exercice . 
+[8] 
+Ce cours fera <dyn> l' objet , en 2015 , d' une publication éditée par <act>Mendrisio Accademy Press</act> .</dyn> 
+[9] 
+Diplôme spécialisé d' approfondissement , destiné à des jeunes diplômés <dyn> voulant devenir urbanistes .</dyn> 
+Cette formation a été fondée par <act>Yves Lion</act> en 2007 . 
+J'en assume <dyn> la direction depuis septembre 2013 , conjointement avec <act>Éric Alonzo</act> .</dyn> 
+<dyn> <lieu type=obj>Relier la ville</lieu> </dyn> par l' infrastructure , étude du , faisceau , <lieu type=loc>à Nanterre</lieu> , 2009 ( <act>Epadesa</act> ). 
+Cette méthode ouverte insiste sur <dyn> les relations multiscalaires </dyn> sans induire de doctrine sur la forme ni porter de jugement sur la diversité des situations auxquelles le concepteur est confronté . 
+Le pavillonnaire , les tissus suburbains , <lieu type=obj>les espaces naturels</lieu> , <lieu type=obj>les villages</lieu> ou <lieu type=obj>les quartiers métropolitains</lieu> ont tous besoin <dyn> d' évolutions ,</dyn> avec des outils également multiscalaires . 
+La juste réponse dépend de <dyn> l' intelligence face au contexte </dyn> et non d' un formalisme générique . 
+Ce n'est pas une évidence : bien des urbanistes défendent encore une doctrine sur <dyn> <lieu type=obj>la forme des villes</lieu> .</dyn> 
+La responsabilité politique de l' urbaniste : récit et représentation 
+Nous , <dyn> urbanistes ,</dyn> proposons , les élus décident : nous avons donc un devoir d' explication et de débat . 
+Pour cela , nos outils évoluent : le récit ( comment raconter <dyn> l' histoire du projet </dyn> ?) tout autant que le dessin ( comment analyser , concevoir , expliquer , convaincre ?). 
+<dyn> J'adapte plusieurs outils au contexte variable de la commande </dyn> : dessins et croquis à main levée s'imposent pour convaincre ( parfois en live ou en vidéo ) et pour résoudre la complexité des tracés et de la topographie . 
+J'utilise les axonométries montrant conjointement <dyn> le sol et les infrastructures , le paysage , les typologies existantes et nouvelles — actualisation des travaux à l' <act>Ifa</act> .</dyn> 
+<dyn> Des réflexions amples , comme le plan de composition de <lieu type=obj>Seine Aval</lieu> ,</dyn> ont appelé une représentation thématique et multiscalaire hypertexte , comme <lieu type=obj>un site</lieu> web . 
+Devant les cinquante élus de <lieu type=obj>la vallée</lieu> , cela a permis de débattre de la diversité des questions dans <dyn> n'importe quel ordre ,</dyn> passant du détail à la carte , puis aux échantillons architecturaux , en temps réel . 
+Enfin , parce qu'il faut de plus en plus choisir , simplifier , ne sélectionner que les éléments en rapport avec <dyn> le projet en question ,</dyn> je m'appuie sur des figures , diagrammes expurgés de la carte . 
+Cette recherche permanente sur la représentation a donné lieu à un texte dans le livre <dyn> <lieu type=obj>Dessine moi une ville</lieu> .</dyn> 
+<dyn> L'hypertexte comme les figures fixes ou animées </dyn> ont fait l' objet de deux recherches , l' une <lieu type=loc>à l' <act>école polytechnique fédérale</act> </lieu> de Lausanne ( <act>EPFL</act> ) avec la chaire de <act>Patrick Berger</act> et <lieu type=obj>le département</lieu> de géomatique , l' autre avec <act>Chris Younès</act> pour <lieu type=obj>le Bureau</lieu> de recherche architecturale et urbaine ( Brau ) et le Puca . 
+Quant au récit qui porte <dyn> le projet ,</dyn> aucun sujet n'est tabou : nous devons la transparence aux élus comme aux populations pour lesquelles nous travaillons . 
+Il <dyn> faut systématiquement partir des atouts — il y en a toujours — et rassembler autour d' un rêve .</dyn> 
+Mais il y a aussi un devoir d' impertinence , rappelant au besoin que la loi républicaine s'applique à tous , et aide en bien des situations , depuis le <act>Gren</act>elle <act>Environnement</act> , révélant les paradoxes pour mieux stimuler <dyn> les arbitrages .</dyn> 
+Il faut de l' habileté et de la mesure , mais nous gagnons à poser <dyn> les enjeux sans concession — sociaux , financiers — à évoquer les coûts , les dépenses , les plus-values .</dyn> 
+Je crois que la participation est l' occasion d' un débat ouvert sur <dyn> ces questions citoyennes ,</dyn> un contrepoint à certaines logiques économiques . 
+L'indépendance est une garantie : nous avons choisi , <lieu type=loc>à l' agence</lieu> , de ne pas dépendre dans <dyn> les projets urbains toujours très mal payés </dyn> des opérations de maîtrise d' œuvre négociées en amont avec les opérateurs . 
+Cela fait de <lieu type=obj>nous une agence</lieu> plutôt sobre . 
+L'engagement y est une condition , et pourquoi pas un plaisir . 
+[10] Pour l' <act>Epamsa</act> ( <lieu type=obj>Établissement public</lieu> <dyn> d' aménagement du <lieu type=obj>Mantois Seine</lieu> Aval ),</dyn> de 2009 à 2010 . 
+Notons que <dyn> le développement de ces outils </dyn> dans le cadre d' une commande publique ordinaire relève d' un investissement , recherche et développement , de <lieu type=obj>l' agence</lieu> , non rémunéré . 
+Le lien avec <dyn> l' enseignement et la recherche est d' autant plus vital .</dyn> 
+[11] <dyn> <lieu type=obj>Dessine-moi une ville</lieu> ,</dyn> ouvrage dirigé par <act>Ariella Masboungi</act> , <lieu type=obj>Paris</lieu> , <act>Éditions du Moniteur</act> , coll . 
+, Projet urbain ,, 2011 . 
+12] Série <dyn> , architectures de la grande échelle </dyn> ,, avec <act>Chris Younès</act> au sein du laboratoire <act>Gerphau</act> ( 2007 ). 
+[13] 
+J'ai notamment coprésidé <dyn> le plan , <lieu type=obj>Nature</lieu> en <lieu type=obj>ville</lieu> ,</dyn> en 2009-2010 , pour le <act>ministère de l' Écologie</act> et la <act>Direction générale de l' Aménagement</act> , du <lieu type=obj>Logement</lieu> et de <lieu type=obj>la Nature</lieu>( DGALN ), avec de fructueux échanges avec des écologues , géographes et sociologues . 
+J'ai rédigé la synthèse de ce travail . 
+<dyn> 2-Changement d' échelle , ségrégation sociale , retrait du public : trois raisons pour travailler autrement </dyn> 
+L'articulation des échelles est pour l' architecte une manière de répondre aux enjeux sociétaux contemporains : impact de la mondialisation et de <dyn> la métropolisation .</dyn> 
+Je l' ai compris en débattant avec d' autres disciplines , dans l' enseignement , mais aussi lors d' expertises et au sein du <lieu type=obj>comité</lieu> de rédaction des revues <dyn> Urbanisme et Tous urbains .</dyn> 
+<dyn> Les projets m'ont aussi dévoilé cela ,</dyn> à partir de questions plutôt rurales . 
+Par exemple avec <lieu type=obj>les parcs naturels régionaux du Nord-Pas-de-Calais</lieu> , où <dyn> le rythme de <lieu type=obj>développement des villages</lieu> </dyn> est aussi donné par la dimension métropolitaine : les flux de ceux qui vont chaque matin travailler dans l' aire métropolitaine lilloise — sans que celle-ci en tienne vraiment compte en terme de mobilités <lieu type=obj>—, la dépendance des entreprises</lieu> industrielles de ces petites <lieu type=obj>villes</lieu> à des décisions lointaines , l' inquiétude qui en découle , le rôle de l' aire urbaine dans l' offre de <lieu type=obj>service — université</lieu> , santé , commerce , loisirs . 
+De même , dans les métropoles françaises en bonne <dyn> santé ,</dyn> comme <lieu type=obj>Nantes</lieu> , <lieu type=obj>Toulouse</lieu> et <lieu type=obj>Bordeaux</lieu> , la concentration de revenus et l' immobilier trop cher écartent une part croissante de la population qui , en l' absence d' offre alternative abordable , <lieu type=obj>cherche un logement</lieu> en périphérie . 
+Malgré <dyn> l' effort des collectivités et même <lieu type=loc>dans les quartiers exemplaires</lieu> , les lieux où nous habitons relèvent de plus en plus de produits standardisés .</dyn> 
+Nous vivons <lieu type=loc>dans le marché</lieu> plus que dans <dyn> <lieu type=obj>une ville</lieu> choisie .</dyn> 
+Ces phénomènes motivent mes engagements , pour trois raisons principales : 
+<dyn> <lieu type=obj>L'interdépendance des territoires impose</lieu> un changement d' échelle : il faut forcément penser la nature , le rural avec les autres situations urbaines .</dyn> 
+C'est aussi la seule <lieu type=obj>mesure des écosystèmes</lieu> . 
+Susciter une autre économie urbaine , pour <dyn> <lieu type=obj>une ville</lieu> plus abordable ,</dyn> est un enjeu constant , mais aussi le désir d' <lieu type=obj>une ville</lieu> moins standardisée , ennuyeuse , culturellement plus stimulante . 
+<dyn> La redistribution des richesses </dyn> est en panne : le rôle redistributeur de l' État est fragilisé , les rapports entre action publique et investissement privé se réorganisent au profit du second , la baisse des financements publics , préoccupante , impose d' autres équilibres . 
+Pour répondre à ces enjeux , <dyn> l' urbaniste doit favoriser l' action et le résultat , sans jamais altérer son regard critique sur la société contemporaine .</dyn> 
+Nous parlons par exemple <dyn> d' un développement , durable ,</dyn> depuis près de vingt sans que les transformations effectives n'infléchissent vraiment le cours des choses . 
+Ce décalage entre discours et action est inquiétant : nous <dyn> savons comment mieux faire ,</dyn> mais il nous est collectivement difficile de faire le pas en avant . 
+Une triple crise économique , écologique et sociale est évoquée . 
+Ne devrait-on pas plutôt parler <dyn> d' une crise politique ,</dyn> qui rend difficiles — presque impossibles ! — à la fois l' expression de l' intérêt commun et la prise de décision ? 
+<dyn> Notre travail d' urbaniste consiste à rendre lisible l' intérêt général ,</dyn> en y fédérant les intérêts particuliers des uns et des autres , publics ou privés . 
+<dyn> Un <act>projet est réussi</act> </dyn> quand , à un moment donné , tout paraît simple et que les décisions s'enchaînent . 
+Cela ne nous dispense pas du doute , salutaire , car nous intervenons <lieu type=loc>dans le champ</lieu> citoyen : <dyn> l' urbanisme </dyn> est aussi un art du temps , et les certitudes ne peuvent qu'être momentanées . 
+[14] 
+Les travaux de <act>Laurent Davezies</act> <dyn>( <lieu type=obj>La République des territoires</lieu> , <act> <act> <act>Le Seuil</act> </act> </act> , 2008 , et La Crise qui vient ,</dyn> Paris , <act> <act> <act>Le Seuil</act> </act> </act> , 2012 ) ainsi que de <act>Pierre Rosanvallon</act> ( La Société des égaux , Paris , <act> <act> <act>Le Seuil</act> </act> </act> , 2011 ) ont marqué ces analyses . 
+CHANGER DE <lieu type=obj>CAP</lieu> ! 
+<act>Frédéric Bonnet</act> , dans <act>Conseil</act> no 19 ( revue des architectes-conseils de l' État ) : <dyn> , Envie[s] de ville[s],</dyn> séminaire <lieu type=loc>à Helsinki</lieu> , 26-29 septembre 2013 ,, mars 2014 . 
+Nous avons <dyn>[en <lieu type=obj>France</lieu>]</dyn> vingt ans de retard , et nous le savons . 
+Nous constatons à <dyn> chaque mission <lieu type=loc>sur les territoires</lieu> </dyn> à quel point , malgré un diagnostic formulé depuis plus de deux décennies , rien ne change . 
+Ou si peu ... 
+Les bons exemples ne suffisent pas à compenser l' indigence générale . 
+[...] Une question : quand <dyn> saurons-nous , radicalement , changer de <lieu type=obj>cap</lieu> </dyn> ? 
+Peu importe que cette résistance à la qualité , aux équilibres territoriaux , à l' architecture , au paysage , bref à tout ce qui pourrait tirer parti des extraordinaires ressources du <lieu type=obj>territoire français</lieu> soit due aux lois de la nation ou aux conséquences de <dyn> la décentralisation .</dyn> 
+Il n'y a aucune raison d' opposer <dyn> l' État aux <lieu type=obj>communes</lieu> </dyn> — la Loi de la nation est votée par les élus locaux . 
+Toujours est-il que manifestement , à part <dyn> quelques trop rares occasions de projets ,</dyn> la mayonnaise ne prend pas entre les actions des collectivités locales et les orientations nationales . 
+Les unes et les autres <dyn> cohabitent encore , ne se rencontrent qu'exceptionnellement .</dyn> 
+<dyn> <lieu type=obj>La consommation des terres agricoles</lieu> continue ,</dyn> comme la construction de <lieu type=obj>routes</lieu> laissant toute sa place à la voiture , ou de pléthoriques <lieu type=obj>zones commerciales</lieu> et d' activité — que le destin condamne à court terme ... À cause de ce retard , le sentiment de l' urgence domine . 
+On se presse de <dyn> réformer l' intercommunalité </dyn> — qui aurait dû advenir il y a quinze ans au moins — et heurte le sens politique des maires ; 
+on se presse de favoriser <dyn> la construction de <lieu type=obj>logements</lieu> </dyn> en oubliant à quel point négliger <lieu type=obj>leur localisation</lieu> et leur qualité a été — et sera — fatal . 
+Les meilleures intentions sont freinées , altérées , et finalement bafouées . 
+Pourtant <dyn>[la présence des architectes-conseils]</dyn> <lieu type=loc>sur les territoires</lieu> nous montre à quel point tout change , <lieu type=loc>au niveau des institutions locales</lieu> , mais aussi dans l' esprit des individus impliqués . 
+Les professionnels , et notamment les fonctionnaires , sont aussi des citoyens . 
+Une conscience , contextuelle , se forge dans les échanges modestes que <dyn> tout projet ou toute difficulté réglementaire </dyn> suscitent . 
+On ne travaille plus de la même manière . 
+Partout où <dyn> l' ingénierie est défaillante </dyn> — et c'est le cas de l' immense majorité des situations — émerge la demande d' une vision transversale , d' une approche de projet . 
+Certes modestement , mais avec pugnacité , passion et engagement , <dyn> les <act>architectes conseil de l' État</act> </dyn> répondent pour leur part à ce besoin croissant . 
+[...] Tous [les conseils prodigués] forment des liens entre des questions apparemment opposées , pour concilier <dyn> l' inconciliable des multiples régulations , aménager différemment ,</dyn> aider à arbitrer . 
+Il en faudrait bien plus encore . 
+De notre part mais aussi à tous les niveaux : <lieu type=obj>communes</lieu> , bailleurs , <dyn> intercommunalités , <lieu type=obj>régions</lieu> , <lieu type=obj>établissements publics</lieu> .</dyn> 
+Seule <dyn> une intelligence conjointe , cultivée , ouverte et exigeante peut en effet nous permettre , à terme , de changer d' époque .</dyn> 
+Et faire le pas , décider enfin , <dyn> faire autrement ,</dyn> amender , changer de <lieu type=obj>cap</lieu> . 
+Ce que <lieu type=obj>nous enseigne Helsinki</lieu> <act>Frédéric Bonnet</act> <act>Voyages</act> et lectures influent sur <dyn> les projets de <lieu type=obj>l' agence</lieu> .</dyn> 
+S'il ne fallait citer qu'une seule <lieu type=obj>ville</lieu> , ce serait sans douter <lieu type=obj>Helsinki</lieu>: des dizaines de voyages , une bonne <lieu type=obj>partie</lieu> de la bibliothèque de <lieu type=obj>l' agence</lieu> consacrée <lieu type=loc>à la Finlande</lieu> et à sa capitale , plusieurs découvertes organisées avec des étudiants , avec <lieu type=obj>le Club</lieu> <dyn> ville-aménagement ,</dyn> avec les cent vingt architectes-conseils de l' État . 
+<dyn> <lieu type=obj>Cette ville</lieu> , comme les autres ,</dyn> n'est guère un modèle reproductible , mais nous instruit grandement sur les politiques urbaines . 
+Qu'est-ce qui la rend si intéressante ? 
+L<act>'</act>efficacité de l<act>'</act> <act>action urbaine</act> 
+À la fin des années 1980 , <lieu type=obj>Helsinki</lieu> arrive aux mêmes conclusions que <lieu type=obj>les villes françaises</lieu> : <dyn> l' étalement et la consommation des sols ,</dyn> la démultiplication des transports en voitures ne sont plus soutenables et appellent un autre modèle de développement . 
+À la différence avec <dyn> nos politiques urbaines ,</dyn> les décisions sont , en <lieu type=obj>Finlande</lieu> , radicales et immédiates . 
+<dyn> Un autre <lieu type=obj>cap</lieu> a donc été pris d' emblée il y a trente ans , quand nous peinons encore souvent à entrevoir des alternatives .</dyn> 
+Les nouveaux <lieu type=obj>quartiers</lieu> seront denses , proches du <lieu type=obj>centre</lieu> , des services et des transports — <dyn> renouvelant principalement les friches portuaires .</dyn> 
+Les plans urbains , de même que <lieu type=obj>les logements</lieu> , rivalisent d' inventivité pour offrir une qualité de vie au moins équivalente à celles des <dyn> <lieu type=obj>maisons</lieu> jadis édifiées </dyn> <lieu type=loc>dans la forêt</lieu> . 
+On habite en bord de <lieu type=obj>parc</lieu> , <lieu type=loc>sur la côte</lieu> , <dyn> avec vue <lieu type=loc>sur la mer</lieu> ,</dyn> mais aussi à deux pas du tramway . 
+L'hiver , <dyn> l' immensité gelée de <lieu type=obj>l' eau</lieu> offre des occasions infinies de promenade .</dyn> 
+<lieu type=obj>Les quartiers</lieu> de <lieu type=obj>Ruoholahti</lieu> , <lieu type=obj>Pikku Huopalahti</lieu> puis <lieu type=obj>Viikki</lieu> , <lieu type=obj>Arabianranta</lieu> , Jätkäsaari et <lieu type=obj>Hanasaari</lieu> témoignent <dyn> d' une nouvelle manière d' allier densité et nature .</dyn> 
+La maîtrise du foncier et la coexistence ville-nature 
+Outre la volonté politique , <dyn> cette reconquête des friches </dyn> est due à deux autres raisons : <lieu type=obj>la propriété publique</lieu> des sols , qui offre des moyens d' action considérables <lieu type=loc>à la Ville</lieu> ; 
+<dyn> la structure urbaine </dyn> depuis toujours calée sur les atouts préservés de sa géographie . 
+Ainsi , la ligne de <lieu type=obj>côte fractale</lieu> <dyn> <lieu type=obj>rapproche la mer</lieu> de tout point ,</dyn> et les doigts verts des vallées accentuent encore le , linéaire de nature , disponible . 
+Dès le début du XXe siècle , ce dessin fondateur a été identifié par <act>Bertel Jund</act> , puis <act>Eero Saarinen</act> , puis <act>Alvar Aalto</act> pour former peu à peu un , central park ,, qui <dyn> conduit le promeneur du <lieu type=obj>centre</lieu> institutionnel du <lieu type=obj>pays</lieu> vers <lieu type=obj>les forêts</lieu> et <lieu type=obj>les champs</lieu> ,</dyn> sur plus 20 km . 
+Une architecture ancrée 
+L'apport de l' architecture dans <dyn> la constitution de <lieu type=obj>la ville</lieu> ,</dyn> est encore considérable . 
+La géométrie de la trame urbaine s'est conformée aux variations morphologiques du socle granitique , la grille <dyn> s'adaptant au mieux aux différents <lieu type=obj>reliefs</lieu> .</dyn> 
+Chaque fois qu'un changement de <dyn> trame </dyn> a lieu , <lieu type=obj>où qu'émerge un rocher</lieu> , une architecture singulière s'installe . 
+La structure monumentale de <lieu type=obj>la ville</lieu> est donc faite <dyn> d' articulations et de rachats </dyn> plus que de grands axes , avec une utilisation très habile de chaque accident de la topographie . 
+Ceci explique peut-être le caractère inédit de <lieu type=obj>l' espace public</lieu> qui réunit tous <dyn> les édifices emblématiques de la nation </dyn> — parlement , opéra , <lieu type=obj>Finlandia Hall</lieu> , gare centrale ... : c'est une baie bordée de <lieu type=obj>rochers</lieu> et de roseaux , <lieu type=obj>un parc</lieu> et une respiration . 
+Les objets architecturaux sont mis en scène à travers un paysage qui , bien <dyn> qu'aménagé ,</dyn> évoque les étendues naturelles du reste du <lieu type=obj>pays</lieu> . 
+Voilà en pleine capitale <dyn> l' allégorie d' <lieu type=obj>une architecture qui demeure</lieu> , en particulier pour la modernité finlandaise , ancrée profondément sur son sol , et jalonne le paysage .</dyn> 
+Les architectes finlandais ont su jouer des écarts , des distances et <dyn> magnifier par les édifices les grands <lieu type=obj>espaces naturels</lieu> .</dyn> 
+Un patrimoine d' après<act>-</act>guerre valorisé 
+La modernité est ici assumée comme un précieux patrimoine ; 
+elle ni crainte ni rejetée . 
+Les remarquables édifices d' après-guerre sont entretenus et réhabilités . 
+Y habiter est loin de représenter une relégation ; 
+on y profite à l' envi des larges baies , des vues traversantes qu'offrent <dyn> <lieu type=obj>les logements</lieu> vers <lieu type=obj>la forêt</lieu> ou <lieu type=obj>la mer</lieu> ,</dyn> d' une architecture qui a su concilier générosité et économie . 
+Cette confiance est rassérénante , et nous rappelle , comme le suggérait <act>Aalto</act> dès 1972 , que <lieu type=obj>la ville durable</lieu> est celle qui sait tirer pleinement parti de ce qui <dyn> a été édifié .</dyn> 
+* * * 
+Ces caractères ne sont pas transposables , l' équilibre entre politique et technique , <dyn> le contrôle du foncier ,</dyn> les modes de vie sont trop singuliers . 
+Mais certaines formes urbaines — comme les plans en peigne d' <lieu type=obj>Arabianranta</lieu>— sont riches d' enseignement , s'insérant dans la géographie , <dyn> croisant transport et urbanisme et préservant <lieu type=obj>la campagne</lieu> .</dyn> 
+La cohérence de <dyn> la stratégie urbaine ,</dyn> portée sur plus de vingt ans désormais , peut se rapprocher de celles des métropoles françaises que sont aujourd'hui <lieu type=obj>Bordeaux</lieu> et <lieu type=obj>Nantes</lieu> avec leurs excellences propres ... 
+Avec un horizon démographique d' un million d' habitants , <lieu type=obj>Helsinki</lieu> a su concilier <dyn> sa dynamique de développement </dyn> avec une taille raisonnable , en offrant à un quart d' heure de tout point un accès aux services métropolitains ( <lieu type=obj>université</lieu> , shopping , culture ) mais aussi <lieu type=loc>à une plage</lieu> , un kayak , un voilier , <lieu type=obj>un bois</lieu> , une piste de ski , un horizon . 
+C'est aussi <lieu type=obj>cela la Métropole</lieu> . 
+<lieu type=obj>Helsinki</lieu> , métropole verte et multipolaire : plan directeur , 2002 . 
+Écoquartier de <lieu type=obj>Viikki</lieu> <lieu type=loc>à Helsinki</lieu> , 1995-2014 . 
+<lieu type=obj>Quartier</lieu> de <lieu type=obj>Vuosaari</lieu> <lieu type=loc>à Helsinki</lieu>: <lieu type=obj>la forêt</lieu> préparée pour <dyn> accueillir <lieu type=obj>la ville</lieu> de demain ,</dyn> 2008 . 
+Arabianranta , <lieu type=loc>à Helsinki</lieu> , <lieu type=loc>entre rive</lieu> et tramway : vues sur <dyn> le paysage habité </dyn> et plan en peigne . 
+Comment représenter un projet urbain ? 
+La complexité appelle la simplicité * <act>Frédéric Bonnet</act> [*] Publié une première fois dans <act>Ariella Masboungi</act> ( dir .), <dyn> <lieu type=obj>Dessine-moi une ville</lieu> ,</dyn> <lieu type=obj>Paris</lieu> , <act>Éditions du Moniteur</act> , coll . 
+, <act>Projet urbain</act> ,, <lieu type=obj>2010 .</lieu> 
+Carte de , l' urbadiversité ,, règles du jeu , alternatives au plan de masse sur <dyn> les 700 ha du <lieu type=obj>quartier</lieu> de <lieu type=obj>Gerland</lieu> .</dyn> 
+Projet mené avec <act>Alain Marguerit</act> pour <dyn> <lieu type=obj>le Grand Lyon</lieu> </dyn> ( en cours ). 
+Trois figures simples pour <dyn> le devenir du <lieu type=obj>secteur</lieu> de <lieu type=obj>Senia</lieu> </dyn> ( <lieu type=obj>pôle Orly-Rungis</lieu>), à trois échelles territoriales : métropole , <lieu type=obj>région</lieu> , <lieu type=obj>communes</lieu> . 
+<lieu type=obj>Marché</lieu> de définition pour l' <act>EPA-Orsa</act> , 2007 
+Notre génération est , à cheval , sur <dyn> la mutation des outils de dessin </dyn> : ayant appris à dessiner exclusivement à la main , nous avons apprivoisé les premiers logiciels de dessin dignes de ce nom . 
+<dyn> L'exposition permanente du <lieu type=obj>Pavillon de l</lieu>' <lieu type=obj>Arsenal</lieu> <lieu type=loc>à Paris</lieu> , que <act>Bruno Fortier</act> a réalisée et que j'ai illustrée , a été l' occasion de montrer les premières cartes faites </dyn> sur Illustrator . 
+À <dyn> <lieu type=obj>l' agence Obras</lieu> ,</dyn> cette double culture nous pousse à utiliser les deux modes de représentation . 
+Nous associons les pictogrammes ou croquis les plus élémentaires , effectués à la main , à <dyn> des animations très élaborées ,</dyn> faites à partir des systèmes d' information géographique ( SIG ) et de logiciels contemporains comme Flash . 
+Depuis <lieu type=obj>Alicante</lieu> <dyn>( projet <act>Europan 3</act> </dyn> réalisé par <act>Obras</act> ), nous travaillons sur les outils de représentation et , bien au-delà , sur les méthodes de travail du projet urbain , lesquelles jouent sur deux plans : <lieu type=obj>— l' organisation</lieu> de la pensée ( le , tri des idées ,, leur hiérarchie , le rapport entre temps et <lieu type=obj>espace</lieu> , entre réflexion et action ) ; 
+— les outils graphiques qui aident à partager les idées <dyn> d' un projet , à comprendre les enjeux , à discuter et donc à prendre des décisions .</dyn> 
+C'est une sorte de , <dyn> recherche-développement ,</dyn> au sein de <lieu type=obj>l' agence</lieu> , pour mieux répondre aux questions posées , souvent paradoxales . 
+Comment réduire sans la caricaturer <dyn> <lieu type=obj>la complexité des territoires</lieu> , aussi bien en termes de compréhension et d' analyse qu'en termes de gouvernance et de modes opératoires </dyn> ? 
+Comment intégrer les incertitudes temporelles dans <dyn> le projet territorial ,</dyn> les variations des limites ? 
+Comment penser <dyn> la discontinuité </dyn> — tout ne <lieu type=obj>se fabrique</lieu> pas selon une logique de , plan-masse , cohérent et décidé une fois pour toutes ? 
+Comment rendre compte de <dyn> la diversité des points de vue ( politiques , techniques )</dyn> ? 
+Comment <dyn> rendre mieux accessibles les concepts , les expliquer ou les diffuser </dyn> ? 
+Comment assurer les conditions du débat démocratique ? 
+Comment <dyn> , entrelacer , les échelles , c'est-à-dire parler de la qualité des lieux ( matérialité , ambiances , usages )</dyn> non pas après mais en même temps que des grandes lignes stratégiques ? 
+Comment répondre à la fois aux préoccupations sectorielles ( les réseaux , <lieu type=obj>les espaces naturels</lieu> , <dyn> l' habitat , etc .)</dyn> et à l' exigence de transversalité et de synthèse ? 
+La réflexion que nous menons est aussi une forme de résistance à <dyn> une approche technocratique des questions territoriales et architecturales .</dyn> 
+Face à la complexité , la tendance à <dyn> hiérarchiser et à séparer les sujets </dyn> est grande , comme si l' on pouvait réduire une action ou une vision à un sommaire de thèmes dissociés pouvant être traités par des experts différents . 
+Cela rejoint les deux grandes alternatives sur <dyn> la , <lieu type=obj>ville durable</lieu> ,</dyn> : celle qui compartimente et réglemente , celle qui relie et unifie . 
+<dyn> L'autre tendance est de faire confiance à une vision sensible et synthétique ( un récit génial , porté par un concepteur et / ou un élu visionnaire ).</dyn> 
+Or <dyn> construire une vision simple du <lieu type=obj>territoire</lieu> </dyn> est indispensable , mais elle ne peut se dédouaner d' une approche plus complexe . 
+Vouloir associer , <dyn> relier , unifier ,</dyn> tout en restituant la complexité du <lieu type=obj>monde</lieu> et de <lieu type=obj>son organisation socio-économique</lieu> , est une gageure . 
+C'est notre engagement , <lieu type=loc>à l' agence</lieu> comme dans l' enseignement . 
+Voici <dyn> <lieu type=obj>cinq pistes</lieu> que nous développons et qui sont toujours in process , jamais définitives , souvent combinées .</dyn> 
+Les figures thématiques , pour comprendre et associer sans définir ( échelles ) 
+Le plus difficile est <dyn> d' éviter le piège du plan-masse , par défaut ,.</dyn> 
+Soit parce que <dyn> <lieu type=obj>le territoire</lieu> est trop vaste ( <lieu type=loc>par exemple Seine-Aval )</lieu> </dyn> pour faire l' objet d' un tracé synthétique unique , soit parce que les temporalités induites par la complexité du <lieu type=obj>site</lieu> ( comme <lieu type=loc>sur le site</lieu> du <lieu type=obj>Seniaau nord</lieu> d' <lieu type=obj>Orly</lieu>) rendent illusoires l' ordre serein et la stabilité d' un plan masse . 
+Cela ne signifie pas que le plan ne soit pas un outil opératoire : il arrive un moment où il faut bien régler les choses et les agencer dans le temps , de manière précise , découper le sol , <dyn> mettre en place les réseaux ...</dyn> 
+Mais le dessin a priori est impossible . 
+Comment garder toutefois une certaine précision ? 
+Comment répondre peu à peu à des questions sectorielles <dyn>( le foncier , les transports )</dyn> sans engager la totalité du plan ? 
+Comment discuter avec les acteurs , avec <dyn> leurs préoccupations techniques ou politiques ,</dyn> sans engager trop tôt la vision générale ? 
+Comment mettre en commun des actions très dissociées ? 
+<dyn> L'approche thématique permet à la fois de trouver des points de convergence <lieu type=loc>entre des secteurs techniques</lieu> </dyn> et d' être précis , sans préjuger de l' ensemble . 
+Les catégories techniques demeurent trop isolées des <dyn> logiques de projet </dyn> ( ex . : transports en commun , hydrographie ...). 
+De plus , leurs composants ne méritent plus aujourd'hui <dyn> d' être identifiés par un travail spécifique </dyn> puisque les SIG les rendent immédiatement disponibles , aussi bien en termes de données que graphiquement . 
+Il faut donc trouver des thèmes plus transversaux , qui <dyn> associent des questions très différentes et sont opératoires à diverses échelles .</dyn> 
+À <lieu type=obj>Seine-Aval</lieu> , nous avons proposé six thèmes , dont la figuration très simple est devenue <dyn> l' emblème du projet : <lieu type=obj>parc métropolitain</lieu> , fluvialité , transversales , milieux , proximités , intensités .</dyn> 
+<dyn> La complexité est ainsi réduite mais pas au point de la transformer en une seule image ,</dyn> pour ne pas confondre réduction et simplification . 
+<act>Simple</act> n'est pas simpliste . 
+Le récit pour partager 
+Cette démarche a été initiée dès <dyn> notre </dyn> premier projet <lieu type=loc>à Alicante</lieu> , en 1994 . 
+Étrangers au lieu , confrontés à la nécessiter de dialoguer ( avec les habitants , les politiques , les commerçants , les techniciens , les associations , etc .), sans programme ni périmètre ni budget , nous <dyn> avons réussi à fédérer les énergies autour d' une vision commune pour <lieu type=obj>la colline</lieu> de <lieu type=obj>la Ereta</lieu> , <lieu type=obj>qui domine la ville historique</lieu> et <lieu type=obj>la mer</lieu> .</dyn> 
+En <lieu type=obj>Espagne</lieu> , alors , tout <lieu type=obj>le monde</lieu> <dyn> dessinait des plans en noir et blanc , à la main , et était pourtant fasciné par les images de synthèse , spectaculaires ,</dyn> ; 
+on nous demandait de , faire une image ,. 
+Nous avons choisi une approche plus patiente , moins spectaculaire , qui <dyn> s'est avérée plus efficace </dyn> ; 
+nos croquis et cartes , et les nombreuses discussions sur place se sont construits en parallèle avec le programme du projet , comme un récit dans une sorte de livre racontant thème par thème <dyn> une possible transformation de <lieu type=obj>la colline</lieu> </dyn> : avec des chapitres , des protagonistes , un début et une fin . 
+Ce récit <dyn> s'appuie sur des mots-clés , des images simples , des évocations et des dialogues , des cartes et des dessins plus précis .</dyn> 
+Une manière de lier la raison ( les cartes thématiques , du genre : comment <dyn> arrose-t-on ?)</dyn> avec la sensibilité et le plaisir ( <lieu type=obj>les fontaines</lieu> ) ; 
+faire rêver tout en construisant un programme , convaincre sur la technique tout en accompagnant <dyn> une reconquête collective d' <lieu type=obj>un site</lieu> .</dyn> 
+Et les mots et les concepts ont pris leur place , collectivement , <dyn> liant rêve et stratégie , associant par le langage des questions d' ordres très différents .</dyn> 
+Contre toute attente , cette attitude lente , progressive et participative nous a permis de formaliser et de <dyn> réaliser notre premier chantier </dyn> sur les 7 ha de <lieu type=obj>colline historique</lieu> , pour 11 , 5 millions d' euros . 
+Deux diagrammes pour <lieu type=obj>le projet Plaine Achille</lieu> <lieu type=loc>à Saint-Étienne</lieu> . 
+<lieu type=obj>Marché</lieu> de définition , <act>Epase</act> , 2009 
+Quelle que soit la mesure du projet , <dyn> les formes urbaines </dyn> sont mises en scène avec leur sol , les éléments du paysage , l' infrastructure , le bâti existant . 
+Ici : <lieu type=obj>Nanterre La Défense</lieu> , <dyn> Saint-A <lieu type=obj>mand-les-Eaux</lieu> , <lieu type=obj>Orly</lieu> , Ors , <lieu type=obj>Ruminghem</lieu> , <lieu type=obj>Raismes</lieu> , <lieu type=obj>Wavrans-sur-l' Aa</lieu> ,</dyn> <lieu type=obj>Eppe-Sauvage</lieu> . 
+L<act>'abstraction pour réduire la complexité</act> 
+La complexité peut-être ordonnée pour paraître moins brouillonne . 
+( C'est ce que font <dyn> les études d' impact , souvent faussement scientifiques et rigoureuses .)</dyn> 
+Elle peut être réduite de façon arbitraire , en décidant de ne retenir que quelques points , <dyn> gommant tous les autres ,</dyn> au risque d' incompatibilités et d' impasses . 
+En position médiane , les figures de projet <dyn> assimilent la variété des approches dans un dispositif simple à comprendre , mais riche de diversité .</dyn> 
+Cela suppose une , abstraction ,. 
+Paradoxalement , les élus , les habitants comme les acteurs techniques ont une forte capacité à <dyn> l' abstraction : un schéma , s'il , colle , avec évidence à un lieu et ses dynamiques ,</dyn> peut être parfaitement assimilé et devenir opératoire , comme un fil d' Ariane , par sa puissance didactique . 
+Cette apparente simplicité suppose <dyn> un important travail de synthèse en atelier .</dyn> 
+Nous <dyn> privilégions le dessin en 2D par rapport à la 3D </dyn> : le plan et la coupe , schématiques ou non , associent la mesure à l' abstraction . 
+C'est donc à la fois <dyn> un outil de conception et de représentation .</dyn> 
+Ainsi , sur Seine-Aval , <act>Finn Geipel</act> , l' une des trois équipes mobilisées avec <act>Antoine Grumbach</act> et nous-mêmes , prenait le parti de réaliser une maquette de grande dimension de <lieu type=obj>la vallée</lieu> ( 15 m ) sur laquelle il fallait marcher pour <dyn> , visiter , différents lieux ,</dyn> et ainsi perdre le rapport de , totalité , du dessin du <lieu type=obj>territoire</lieu> assuré par la feuille de papier posée sur la table , à portée de main et d' un unique cadre visuel . 
+À l' opposé , notre réponse à la démesure du <lieu type=obj>site</lieu> , à la fois opposée et complémentaire , fut de <dyn> réaliser </dyn> un objet numérique de petite taille ( un écran ), consultable en tout lieu , pouvant être décomposé , unifié , observé selon plusieurs points de vue . 
+Ce <dyn> n'est plus vraiment un plan ni un croquis ni un schéma .</dyn> 
+<dyn> La feuille qui devient écran </dyn> est disponible en exposition , <lieu type=loc>au bureau</lieu> , mais aussi chez soi via Internet . 
+On entretient avec lui une relation familière <dyn> <lieu type=obj>l' interactivité réserve</lieu> des surprises — , plus proche de la culture numérique des nouvelles générations , habituées aux jeux de simulation et aux tamagotchis .</dyn> 
+L<act>'animation</act> pour <act>transcrire les temporalités et les incertitudes</act> 
+<dyn> Les projets contemporains </dyn> ne sont plus des , grands tracés , définis une fois pour toutes . 
+Il y a des incertitudes , des revirements . 
+Le temps et la discontinuité sont des facteurs aussi importants que les , dessins , qui permettent de maîtriser <dyn> les actions </dyn> dans la durée . 
+<lieu type=obj>Le territoire</lieu> de projet devient , discret ,. 
+Parmi les lignes que l' on trace , certaines sont , dures , et stables , <dyn> d' autres plus incertaines et instables .</dyn> 
+La nature des limites change . 
+De périmètres de <lieu type=obj>zone</lieu> , elles deviennent épaisseurs , porosités . 
+Ainsi en va-t-il des rapports <lieu type=loc>entre ville</lieu> et nature , que nous développions notamment <lieu type=loc>à Seine-Aval</lieu> ou encore dans la proposition pour <dyn> <lieu type=obj>l' île</lieu> de <lieu type=obj>Nantes</lieu> .</dyn> 
+Le , périmètre , <lieu type=obj>demeure</lieu> un outil opératoire , mais <dyn> les logiques d' action ou les figures géographiques sont des supports de projet ,</dyn> où les cadres de gouvernance ne se superposent ni ne s'emboîtent . 
+Figurer les , périmètres , ainsi entremêlés , les incertitudes et les temporalités du projet , appelle des animations : pour représenter le flou d' une limite ou sa variabilité , l' enchevêtrement des actions et des gouvernances , ou les différentes étapes possibles <dyn> d' une transformation .</dyn> 
+<dyn> L'interactivité pour exprimer la <act>diversité</act> des <act>points de vue</act> ,</dyn> débattre , diffuser 
+L'interactivité consiste à <dyn> présenter , sur support numérique hypertexte ( avec des liens obtenus par des , clics ,), une série de documents de diverse nature ,</dyn> selon une structure thématique , diachronique ( récit ), temporelle ... 
+<dyn> Cette construction interactive </dyn> correspond à plusieurs besoins : — la liberté de construire un récit ou une exploration , en commençant par le thème souhaité ( économie , gestion , réseaux ...), et la capacité à adapter le discours en fonction du parcours que l' on choisit pour les images : on n'est pas obligé de tout montrer , on peut aller directement à une image ; 
+— la simultanéité des informations , <dyn> l' accessibilité immédiate , notamment lors des débats , interactifs , avec les acteurs du projet .</dyn> 
+Plutôt qu'un discours subi ( présentation , puis questions-réponses ), <dyn> l' accès immédiat aux images permet de faire varier les illustrations ou les données ,</dyn> en temps réel , au fur et à mesure des réactions des interlocuteurs . 
+Par ailleurs , l' interactivité est un support de diffusion des projets . 
+Plus <dyn> qu'une présentation multimédia ( qui reste très dirigiste ,</dyn> même si elle est plus didactique que des panneaux ou qu'un diaporama ). 
+Avec l' habitude de la navigation Internet , toujours plus étendue et partagée , le support interactif permet une prise de connaissance progressive et , à la carte , des concepts et des descriptions <dyn> d' un projet territorial ( ou architectural ).</dyn> 
+Quelle sophistication des outils ? 
+La main et le , high tech , Pour <lieu type=obj>Alicante</lieu> , des croquis à la main , assez délocalisés , exprimant les ambiances potentielles , illustrant un récit , une , vision , à partager pour <dyn> la réappropriation de <lieu type=obj>la colline</lieu> </dyn> <lieu type=loc>par la ville</lieu> voisinaient avec des cartes réalisées sur Illustrator  , un logiciel qui était encore perçu comme , graphique ,. 
+Le croquis à la main n'est pas seulement plus rustique , plus <dyn> aisé à réaliser ,</dyn> plus interactif ( on peut le faire en direct en réunion , sur un paperboard ), il est aussi plus familier ( comme les dessins de presse ou la bande dessinée ) et donc plus facilement assimilable . 
+Le croquis permet de représenter avec clarté sans surdéfinir , alors que l' image de synthèse impose souvent une saisie ( et une définition matérielle ) de <dyn> l' objet ,</dyn> très précisément construite ( quelles baies , quelles mesures , quels matériaux ?). 
+Le croquis donne vie à <dyn> un dispositif qui peut rester suffisamment indéfini .</dyn> 
+À <dyn> l' autre extrême , la combinatoire entre les systèmes d' information géographique ( SIG ), les logiciels graphiques et les logiciels d' animation </dyn> est très sophistiquée . 
+Même si les logiciels sont <dyn> chaque fois plus intercompatibles ,</dyn> les allers-retours ( entre Flash  et Illustrator  par exemple , ou entre les SIG et les logiciels graphiques ) ne sont pas simples . 
+La manipulation des images est complexe , et <dyn> l' interactivité nécessaire du processus de projet </dyn> ( qui procède par repentirs et tests d' hypothèses successives ) est difficile . 
+Elle oblige à définir très en amont un cadre méthodologique , puis une structure qui donne à <dyn> chaque élément de la démonstration une place dans un système à la fois suffisamment stable pour tenir dans le temps du projet et suffisamment ouvert pour accueillir les concepts apparus au fur et à mesure de la réflexion .</dyn> 
+Quant à <dyn> l' interactivité fondée sur la navigation ( type Internet ), elle incorpore aussi une mutation générationnelle en cours </dyn> : nous parions en effet sur l' émergence du caractère intuitif et l' auto-apprentissage qui fondent le rapport cognitif des générations nouvelles ( un enfant de quatre ans qui ne sait ni lire ni écrire est capable de manipuler un logiciel d' exploration numérique ). 
+Les autres générations ont appris à utiliser Internet et l' hypertexte en optimisant leur culture de la , table des matières , ou du sommaire , comme dans une publication , c'est-à-dire en accédant à des données selon <dyn> une arborescence linéaire et organisée ,</dyn> facilement perceptible , le , menu ,. 
+<dyn> La navigation du futur est moins linéaire , davantage exploratoire — au sens des premiers navigateurs , qui ne disposaient pas de la carte , mais dessinaient progressivement les contours des terrae incognitae .</dyn> 
+Les langages de programmation utilisés par les logiciels <dyn> ont beaucoup évolué .</dyn> 
+Flash  ou Java  <dyn> ont apporté au format HTML des premiers <lieu type=obj>sites</lieu> des dimensions nouvelles .</dyn> 
+Les recherches effectuées <lieu type=loc>sur Seine-Aval</lieu> , par exemple , parient plutôt sur <dyn> la transformation progressive de notre rapport au numérique .</dyn> 
+Le , guide d' utilisation , devient optionnel ; 
+<dyn> la découverte par la navigation , plus intuitive , donne à l' opérateur ( public , technicien , politique ) le temps de se familiariser , à sa manière , avec une certaine vision du <lieu type=obj>territoire</lieu> ,</dyn> sans qu'une structure préétablie ne lui impose un parcours . 
+Par quoi commence-t-on ? 
+Ce que l' on souhaite , précisément . 
+<act>Qu'</act>est-ce qui est essentiel ? 
+À chacun ses priorités . 
+Pour conclure , quelques idées simples : 1 . 
+Il est nécessaire <dyn> d' adapter les représentations ,</dyn> et ce n'est pas une question d' outils : les images ne changent pas parce que les outils évoluent , mais parce que les questions de projet sont différentes . 
+<dyn> Penser la complexité de <lieu type=obj>Seine-Aval</lieu> ,</dyn> c'est forcément s'éloigner du plan et de la perspective , et ne pas se contenter de la carte . 
+2 . 
+Il y a un rapport entre <dyn> les structures théoriques du projet ( catégories , identifiants , dispositifs , dynamiques )</dyn> et les structures de la représentation . 
+Ce parallélisme est fécond , et rendu possible par les nouveaux outils qui permettent à la fois interactivité , <dyn> structure hypertexte complexe et animation .</dyn> 
+3 . 
+<dyn> La sophistication des outils n'a rien à voir avec la complexité des projets </dyn> : il est toujours pertinent , quel que soit le sujet , d' utiliser un simple croquis ou bien les montages numériques les plus sophistiqués . 
+4 . 
+La concertation et le principe <dyn> d' un , urbanisme démocratique ,</dyn> imposent de nouveaux modes de représentation : de la bande dessinée au croquis , en passant par les mots ( raconter une histoire ) ou l' interactivité . 
+5 . 
+<dyn> L'abstraction a de belles heures devant elle </dyn> : contrairement à ce que l' on pourrait penser , les élus comme les autres acteurs ont une grande capacité à comprendre l' abstraction , pour peu qu'elle soit connectée étroitement avec une réalité physique . 
+Une fois ce lien identifié , <dyn> ce mariage entre figure et matière </dyn> est très opératoire . 
+<dyn> Cette , cristallisation ,</dyn> sur une figure simple a des effets potentiels pour la gouvernance : identifier un sujet commun , à partager , qui relie les préoccupations de chacun . 
+6 . 
+Représenter <dyn> <lieu type=obj>les territoires</lieu> contemporains ,</dyn> c'est à la fois résister à la complexité ( qui voudrait que plus rien ne soit globalement compréhensible ) et trouver en <lieu type=obj>chaque site</lieu> un ensemble réduit de questions partagées , qui le singularisent et constituent le support d' une stratégie . 
+Trouver des appuis , en quelque sorte . 
+<dyn> <lieu type=obj>La place Micoulaud</lieu> , <lieu type=obj>quartier</lieu> <lieu type=obj>des Izards</lieu> </dyn> <lieu type=loc>à Toulouse</lieu>: croquis de <act>Frédéric Bonnet</act> , 2009 . 
+O<act>bras</act> , It was team work , you see , Telle était paraît-il l' expression de <dyn> l' architecte finlandais <act>Viljo Revell</act> ...</dyn> 
+Le travail et l' engagement reconnus par le jury du Grand Prix de <dyn> l' urbanisme </dyn> constituent un ouvrage collectif . 
+C'est d' abord la complicité amicale de tre<act>n</act>te a<act>n</act> <act>n</act>ées fructueuses avec <act>Marc Bigar<act>n</act>et</act> — <act>n</act>ous étio<act>n</act>s e<act>n</act> première a<act>n</act> <act>n</act>ée e<act>n</act>semble , <lieu type=loc>à Sai<act>n</act>t-Étie<act>n</act> <act>n</act>e</lieu>— qui a permis <dy<act>n</act>> le projet d' Alica<act>n</act>te pour Europa<act>n</act> 3 </dy<act>n</act>> e<act>n</act> 1994 , puis <lieu type=obj>la fo<act>n</act>datio<act>n</act> </lieu> d' Obras e<act>n</act> 2003 . 
+<act>Obras</act> repose sur le travail passionné et les savoir-faire de ses collaborateurs : depuis plusieurs années , sur <dyn> les principaux projets ,</dyn> <act>Thomas Nouailler</act> , <act>Alexandre Dubure</act> , <act>Jenny Reuillard</act> , <act>Anne-Emmanuelle Passerieux</act> , ainsi qu'<act>Olivier Malclès</act> , <act>Yvan Okotnikoff</act> et <act>Aurélien Delchet</act> . 
+Je souhaite les remercier très chaleureusement . 
+Je pense au partenariat fondateur avec <act>Philippe Villien</act> , architecte urbaniste , enseignant , théoricien hors pair , pour <dyn> son éveil perpétuel </dyn> envers lequel j'ai une grande dette ; 
+avec <act>Jérôme Mazas</act> , paysagiste , dont la poésie savante nous a accompagnés dans <dyn> les beaux projets du <lieu type=obj>Havre</lieu> , de <lieu type=obj>Bordeaux</lieu> , de <lieu type=obj>Saint-Étienne</lieu> et de <lieu type=obj>Toulouse</lieu> ,</dyn> avec un engagement sans faille ; 
+avec <act>David Chambolle</act> ( <act>Evp</act> ), qui est l' ingénieur créatif de toutes <dyn> nos structures urbaines </dyn> ; 
+avec <act>Jean-Michel Roux</act> , économiste avisé ; 
+avec <act>François Monjal</act> , dont nous regrettons tous les idées novatrices et l' énergie , qu'il a heureusement su transmettre à <dyn> son équipe formidable d' <lieu type=obj>Al phaville</lieu> .</dyn> 
+Je remercie <act>Akari-Lisa Ishii</act> , maître de la mise en lumière , <act>Jean-François Morel</act> , ingénieur d' exception ( Mageo ), ainsi que <act>Sidoine Dupont</act> , <act>Jérôme Joubert</act> et <act>Christophe Seto</act> , jeunes ingénieurs talentueux , avec qui nous avons conçu <lieu type=obj>nos espaces</lieu> <dyn> publics .</dyn> 
+Nous souhaitons faire mention de tous ceux qui ont travaillé avec nous et qui ont tous , chacun à leur manière , beaucoup apporté à <dyn> ce travail commun .</dyn> 
+<act>Frédéric Bonnet</act> Engagements 
+L'urbaniste doit favoriser <dyn> l' action et le résultat , sans jamais altérer son regard critique sur la société contemporaine .</dyn> 
+Nous parlons par exemple <dyn> d' un développement , durable ,</dyn> depuis près de vingt sans que les transformations effectives n'infléchissent vraiment le cours des choses . 
+Ce décalage entre discours et action est inquiétant : nous <dyn> savons comment mieux faire ,</dyn> mais il nous est collectivement difficile de faire le pas en avant . 
+Une triple crise économique , écologique et sociale est évoquée . 
+Ne devrait-on pas plutôt parler <dyn> d' une crise politique ,</dyn> qui rend difficiles — presque impossibles ! — à la fois l' expression de l' intérêt commun et la prise de décision ? 
+<act>Frédéric Bonnet</act> Tissu urbain vivant <lieu type=obj>Quartier</lieu> de la gare des Groues , <lieu type=obj>Nanterre Quartier</lieu> Bac d' Asnières et Valiton-Petit , Clichy-la-Garenne <lieu type=obj>Quartier</lieu> de <lieu type=obj>la Cité</lieu> Blanche , <lieu type=obj>Toulouse Quartier</lieu> de <lieu type=obj>la Plaine</lieu> Achille , Saint-Étienne 
+La nature structure <dyn> l' urbain </dyn> <lieu type=obj>Vallée du Hédas</lieu> , <lieu type=obj>Pau Val</lieu> d' Argens , Var Anglet , <lieu type=obj>Pyrénées-Atlantiques Estuaire</lieu> de la Seine La , responsabilité , de l' architecture Seine-Aval Vallée de l' Orne , <lieu type=obj>Lorraine Quartier</lieu> Monges , <lieu type=obj>Cornebarrieu</lieu> , <lieu type=obj>Grand <lieu type=obj>Toulouse</lieu> </lieu> Économie et <lieu type=obj>frugalité Campus de</lieu> Rangueil , <lieu type=obj>Toulouse</lieu> 
+<lieu type=obj>Le balcon des Groues</lieu> , <lieu type=obj>Nanterre Quartier</lieu> des Izards , Toulouse Pôle métropolitain <lieu type=obj>Nantes-Saint-Nazaire Quartier durable</lieu> de Saint-Amand-les-Eaux , Nord Matérialité et esprit des lieux <lieu type=obj>Parc portuaire</lieu> du Havre Cœur de <lieu type=obj>ville</lieu> de Saint-Étienne <lieu type=obj>Espace</lieu> Saint-Michel , <lieu type=obj>Bordeaux</lieu> 
+La contrainte comme <lieu type=obj>levier Parc</lieu> de la Ereta , <lieu type=obj>Alicante Val</lieu> de <lieu type=obj>Tours Secteur</lieu> <dyn> <lieu type=obj>des Isles et Pirmil</lieu> ,</dyn> <lieu type=obj>Rezé</lieu> et <lieu type=obj>Nantes</lieu> 
+<lieu type=obj>Tous</lieu> urbains , tous ruraux <lieu type=obj>Parcs naturels régionaux</lieu> du Nord-Pas-de-Calais Place de <lieu type=obj>village</lieu> à Odenas , Beaujolais Tissu urbain vivant Comment <dyn> favoriser une diversité des tissus urbains ,</dyn> tout en usant de règles urbaines et d' une trame d' infrastructures cohérentes ? 
+Comment éviter l' effet , trop neuf , et uniforme des nouveaux <lieu type=obj>quartiers</lieu> qui mettent du temps à <dyn> s'animer ,</dyn> à s'enrichir d' usages et d' accidents que seule la durée apporte , où la sédimentation propre au , palimpseste ,, décrit par <act>André Corboz</act> , n'a que peu de prise ? 
+Susciter quelque complexité de forme et d' âge aux <dyn> tissus urbains à régénérer </dyn> est un beau défi . 
+Cette richesse ne peut <dyn> s'inventer </dyn> de manière artificielle , par la , composition ,. 
+Le travestissement pittoresque d' un désir déjà séculaire — <act>Camillo Sitte</act> a publié <dyn> L'Art de bâtir <lieu type=obj>les villes</lieu> </dyn> en 1889 — n'est guère une solution . 
+Des grilles régulières <dyn> construites d' un bloc </dyn> ont l' avantage d' être très opérationnelles , mais il faut alors lutter pour éviter de n'y accueillir que des produits immobiliers standardisés , avec le risque d' une égale <lieu type=obj>banalisation des espaces publics</lieu> . 
+Quelles sont les alternatives ? 
+Une première réponse réside dans le processus lui-même : <dyn> la substitution progressive ,</dyn> parcelle par parcelle , tout en laissant une grande place à ce qui existe et <lieu type=obj>demeure</lieu> , sans grand changement de la trame urbaine existante , est une piste de travail féconde . 
+À <lieu type=obj>Clichy-la-Garenne</lieu> , en bord de <lieu type=obj>Seine</lieu> , nous <dyn> remplaçons ainsi progressivement <lieu type=obj>une partie</lieu> du bâti ,</dyn> pour l' adapter aux enjeux métropolitains , en le densifiant . 
+Parce que <dyn> chaque modification </dyn> tient compte du voisinage , qui évoluera — mais plus tard — , les typologies plus denses , qui sont introduites , doivent se déformer , adopter des formes plus polies vis-à-vis des parcelles voisines . 
+Par exemple , au lieu <dyn> d' adosser une héberge aveugle à un futur voisin ,</dyn> l' édifice se positionne perpendiculairement à la parcelle , créant une césure dans l' alignement de <lieu type=obj>la rue</lieu> et <lieu type=obj>un jardin</lieu> traversant tout l' îlot . 
+<dyn> La densification </dyn> s'accompagne d' une fragmentation des formes bâties , et d' <lieu type=obj>une démultiplication des espaces</lieu> non bâtis , ne se limitant plus <lieu type=loc>à la rue</lieu> et aux cours . 
+La proximité de <lieu type=obj>la Seine</lieu> et la présence <dyn> d' <lieu type=obj>un parc</lieu> aménagé </dyn> ( <act>HYL</act> paysagistes , 2012 ) <lieu type=loc>sur le terrain</lieu> rehaussé d' une ancienne <lieu type=obj>usine</lieu> de gaz conduisent à proposer de nouveaux types de <lieu type=obj>bâtiments</lieu> . 
+L'école primaire se positionne le long d' une rampe conduisant <lieu type=loc>au parc</lieu> , et <dyn> s'étage ainsi en gradin </dyn> autour de trois cours . 
+De nouveaux types naissent de ces frictions avec <dyn> le contexte urbain complexe .</dyn> 
+La prise en compte des infrastructures existantes , y compris <dyn> des réseaux primaires enterrés ,</dyn> conduit aussi à des géométries en plan très irrégulières , sans avoir recours à l' artifice pour y introduire variations et singularités . 
+À <lieu type=obj>la Cité Blanche</lieu> du <lieu type=obj>quartier</lieu> <lieu type=obj>des Izards</lieu> , au nord de <lieu type=obj>Toulouse</lieu> , la présence de réseaux , <dyn> la réutilisation de <lieu type=obj>voies</lieu> </dyn> héritées du plan d' une ancienne <lieu type=obj>cité-jardin</lieu> , combinées à la structure géométrique d' un parcellaire de faubourg orienté nord-sud a conduit à une forme complexe . 
+Sans les clefs de cette hybridation progressive , on peine à comprendre les raisons des <dyn> nombreux </dyn> rachats les tailles très diverses des parcelles . 
+En conséquence , les types d' <lieu type=obj>espaces publics</lieu> sont variés et hiérarchisés . 
+<lieu type=obj>Un parc</lieu> traverse <lieu type=obj>le quartier</lieu> et <dyn> se relie au reste du <lieu type=obj>territoire</lieu> ,</dyn> <lieu type=obj>une rue</lieu> se révèle une liaison majeure à l' échelle urbaine , alors que certaines autres sont plutôt des cours domestiques . 
+Les contrastes dimensionnels des parcelles obligent à <dyn> associer des édifices différents , qui s'allient au caractère de faubourg de <lieu type=obj>ce site</lieu> en lisière nord de <lieu type=obj>Toulouse</lieu> .</dyn> 
+Cette inventivité vaut aussi pour <dyn> <lieu type=obj>la programmation des bâtiments</lieu> et rez-de-chaussée ,</dyn> <lieu type=obj>les espaces publics</lieu> , la mutualisation des usages . 
+Préconisons <dyn> des écarts aux habitudes ,</dyn> un doux et pugnace combat contre la routine ! 
+À <lieu type=obj>Nanterre</lieu> , <dyn> accompagner une trame viaire minimaliste d' élargissements irréguliers ,</dyn> de recoins domestiques , déduits de la géométrie complexe du <lieu type=obj>terrain</lieu> <lieu type=obj>des Groues</lieu> , pour des noues , <lieu type=obj>jardins</lieu> , vélos , <lieu type=obj>abris</lieu> , terrasses . 
+La mesure de base du profil <lieu type=obj>des rues</lieu> <lieu type=obj>demeure</lieu> très mesurée , les respirations nécessaires à <dyn> la densité forte </dyn> sont acquises par les déhanchements des édifices , créant autant d' écarts . 
+Le profil en long <lieu type=obj>des voies</lieu> est hétérogène . 
+On prend ainsi acte que les commerces <dyn> n'occuperont pas tout le linéaire des rez-de-chaussée ,</dyn> mais seulement quelques points d' articulation des flux , ensoleillés et plus larges . 
+<lieu type=obj>Les jardins</lieu> et les noues sont aussi une occasion pour <dyn> mettre </dyn> en retrait du trottoir les rez-de-chaussée habités . 
+<dyn> Négocier aux <lieu type=obj>Izardsune césure</lieu> jardinée </dyn> qui soit à la fois l' entrée de la cour , la terrasse du boulanger , le cadre du salon de coiffure ; 
+y <dyn> construire une place en briques </dyn> et , pour convaincre un aréopage d' ingénieurs têtus aller filmer en <lieu type=obj>Flandre</lieu> le balayage de places de <lieu type=obj>marché</lieu> ; 
+défendre <lieu type=loc>au Havre</lieu> que <dyn> l' activité portuaire des radoubs , lieu de travail ,</dyn> est non seulement compatible avec les vues <lieu type=obj>des logements</lieu> et la promenade , mais en magnifie le paysage ... 
+Nous militons pour <dyn> <lieu type=obj>une ville</lieu> enrichie de ces écarts </dyn> : rugosité , friction , puissance du contact , de l' interstice . 
+[1] 
+Outre la lecture du , <lieu type=obj>Territoire</lieu> comme palimpseste , ( 1983 ), la revue Le Visiteur et le travail mené par <act>Sébastien Marot</act> , pour diffuser en <lieu type=obj>France</lieu> <dyn> l' œuvre de <act>Corboz</act> ,</dyn> ont eu beaucoup d' impact sur le travail d' <act>Obras</act> . 
+Je pense par exemple au texte d' <act>André Corboz</act> , <dyn> <lieu type=obj>La Suisse</lieu> comme hyperville </dyn> , ( Le Visiteur , no 6 , 2000 ). 
+J'ai aujourd'hui plaisir à travailler avec <act>Sébastien Marot</act> à <dyn> <lieu type=obj>l' École</lieu> d' architecture de <lieu type=obj>la ville</lieu> et <lieu type=obj>des territoires</lieu> de Marne-la-Vallée , notamment au sein de l' <act>Observatoire de la condition suburbaine</act> </dyn> ( laboratoire dirigé par <act>Paul Landauer</act> ). 
+[2] 
+À l' origine terme d' architecture , , rachat , désigne une articulation géométrique pour <dyn> installer une figure régulière </dyn> ( une cour carrée , une salle majeure ovale ) dans une parcelle irrégulière , rattrapage en général effectué dans l' épaisseur des éléments servant le plan ( escaliers , vestibules , petites pièces de service ). 
+[3] 
+Le principe de ces écarts vient d' <lieu type=obj>une observation patiente des villes historiques européennes</lieu> : <lieu type=obj>Paris</lieu>( le travail sur L'Atlas de <lieu type=obj>Paris</lieu> avec <act>Bruno Fortier</act> a été fécond ), dont l' intérêt vient aussi des écarts entre la règle et les variations héritées des accidents de l' histoire , de la topographie ou de l' usage , ou encore <lieu type=obj>Venise</lieu> , <lieu type=obj>Lisbonne</lieu> ou <lieu type=obj>Porto</lieu> , où les largos — mot sans équivalent français — <dyn> s'insèrent avec ambiguïté <lieu type=loc>entre les rues</lieu> et les places .</dyn> 
+<lieu type=obj>Quartier</lieu> de <dyn> <lieu type=obj>la gare des Groues</lieu> ,</dyn> <lieu type=obj>Nanterre</lieu> , 2012-2014 Plan de référence Plan de référence du <lieu type=obj>quartier</lieu> de la gare . 
+Les écarts de tracé <lieu type=obj>augmentent l' espace public</lieu> . 
+Élaboration des tracés : règle et écarts triangulaires . 
+<act>Kaléidoscope</act> 
+À deux pas de <lieu type=obj>l' Arche de la Défense</lieu> et des terrasses de <lieu type=obj>Nanterre</lieu> , deux nouvelles gares <dyn> s'installent </dyn> <lieu type=obj>côte</lieu> <lieu type=loc>à côte</lieu> <lieu type=loc>sur la friche ferroviaire des Groues</lieu>: <lieu type=obj>Éole</lieu>( <act>RFF</act> ) dès 2020 , suivi de près <lieu type=loc>par la station</lieu> souterraine du <lieu type=obj>Grand Paris Express</lieu> . 
+Chargé de <dyn> l' aménagement urbain <lieu type=loc>sur cette zone</lieu> , <lieu type=obj>l' Établissement public</lieu> d' aménagement de la Défense Seine-Arche ( Epadesa ) nous a demandé d' imaginer le nouve<lieu type=loc>au quartier</lieu> </dyn> autour des deux gares et les liens avec les autres <lieu type=obj>quartiers</lieu> . 
+Ce plan de référence , réalisé entre 2012 et 2014 , fait suite <lieu type=loc>au marché</lieu> de définition auquel nous avions participé avec <act>KC</act>AP et <act>Alexandre Chemetoff</act> pour <dyn> l' ensemble du , faisceau , ferroviaire <lieu type=loc>entre l' Arche de la Défense</lieu> et <lieu type=obj>la Seine</lieu> .</dyn> 
+À cause de la position métropolitaine et stratégique de <lieu type=obj>ce secteur</lieu> , la densité est élevée , et nous devions trouver un juste équilibre entre les souhaits de <lieu type=obj>la Ville de Nanterre</lieu>— comme <dyn> l' adaptation aux bâtis environnants </dyn> — et le nécessaire équilibre financier demandé par l' aménageur . 
+Par une démarche très interactive nous avons coordonné des programmes très techniques ( les gares , <dyn> la transformation de <lieu type=obj>la RD914</lieu> en boulevard urbain )</dyn> et des maîtres d' ouvrages aussi différents que <lieu type=obj>le Conseil général des Hauts-de-Seine</lieu> , <act>Réseau ferré de France</act> ( <act>RFF</act> ) ou la <act>Société du Grand Paris</act> ( <act>SGP</act> ). 
+L'objectif est <dyn> d' accueillir ces équipements </dyn> et les 300 000 m2 qui les accompagnent avec un réseau d' <lieu type=obj>espaces publics</lieu> parfaitement intégrés aux <lieu type=obj>quartiers voisins</lieu> . 
+Avec <act>Jérôme Mazas</act> ( <act>Horizon Paysage</act> ), paysagiste . 
+Maîtrise d' ouvrage : <dyn> <lieu type=obj>Établissement public</lieu> d' aménagement de la Défense Seine-Arche </dyn> ( <act>Epadesa</act> ). 
+<lieu type=obj>Quartier Bac d</lieu>' <lieu type=obj>Asnières</lieu> et <lieu type=obj>Valiton-Petit</lieu> , <lieu type=obj>Clichy-la-Garenne</lieu> , depuis 2007 Maîtrise d' œuvre urbaine , conception , <dyn> réalisation et suivi de Zac </dyn> Plan de masse de la Zac de bord de <lieu type=obj>Seine</lieu> . 
+Alignements , discontinuités , variations . 
+<lieu type=obj>Les bâtiments</lieu> dessinés par les architectes <act>Hamonic</act> & <act>Masson</act> . 
+<lieu type=obj>Mosaïque</lieu> 
+La SEM 92 nous a confié en 2007 l' étude et le suivi de <dyn> <lieu type=obj>la Zac Valiton-Petit / Bac d' Asnières</lieu> </dyn> <lieu type=loc>à Clichy la Garenne</lieu> . 
+<dyn> <lieu type=obj>Le terrain</lieu> est en bord de <lieu type=obj>Seine</lieu> , contre <lieu type=obj>la voie</lieu> ferrée qui forme limite avec <lieu type=obj>Levallois</lieu> .</dyn> 
+<lieu type=obj>Le site</lieu> <dyn> était à l' origine occupé <lieu type=loc>par une usine</lieu> de gaz mêlée <lieu type=loc>à des immeubles</lieu> de faubourg ,</dyn> dont certains demeurent sur des parcelles de taille très variées . 
+<lieu type=obj>Le quartier</lieu> s'organise autour d' <lieu type=obj>un parc</lieu> , <dyn> réalisé </dyn> <lieu type=loc>par l' agence</lieu> de paysage HYL , et comportera à terme 700 nouveaux <lieu type=obj>logements</lieu> , <lieu type=obj>une école</lieu> et des activités tertiaires au droit du <lieu type=obj>pont d' Asnières</lieu> . 
+<lieu type=obj>Les bâtiments</lieu> <dyn> sont édifiés </dyn> au fur et à mesure de la disponibilité des parcelles : leurs variations de type , de hauteur , d' épaisseur , leur rapport <lieu type=loc>à l' espace public</lieu> jouent en fonction de la forme des parcelles , de leur voisinage et de leur position relative dans le tissu urbain . 
+<lieu type=obj>La zone inondable impose</lieu> de <dyn> laisser libres les deux tiers du sol .</dyn> 
+<lieu type=obj>Les logements</lieu> <dyn> prennent alors le soleil au sud ( <lieu type=obj>côté parc</lieu> )</dyn> et offrent la vue <lieu type=loc>sur Seineau nord</lieu> . 
+<dyn> Apparente contradiction que nous avions intégrée dans le cahier des charges .</dyn> 
+<dyn> Le premier projet ( Hamonic et <act>Masson</act> ) adopte ainsi une forme urbaine dense mais découpée </dyn> de manière inédite . 
+La contrainte de la règle offre en définitive <dyn> une exceptionnelle qualité résidentielle , avec des typologies plus étroites et de multiples orientations vers le paysage .</dyn> 
+Maîtrise <dyn> d' ouvrage : <lieu type=obj>Syndicat</lieu> mixte de Clichy-la-Garenne ,</dyn> <lieu type=obj>Département des Hauts-de-Seine</lieu> , <lieu type=obj>Commune de Clichy-la-Garenne</lieu>/ <lieu type=obj>SEM 92</lieu> . 
+<lieu type=obj>Quartier de la Cité Blanche</lieu> , <lieu type=obj>Toulouse</lieu> , depuis 2009 Maîtrise d' œuvre urbaine , conception , réalisation et suivi d' un plan de <lieu type=obj>quartier</lieu> <lieu type=obj>Plan de référence de la Cité Blanche</lieu> . 
+Un tracé majeur croise la trame ancienne . 
+La complexité naît d' assemblages élémentaires . 
+<lieu type=obj>Palimpseste</lieu> 
+Dans le cadre du projet de renouvellement urbain <lieu type=obj>des Izards</lieu> <lieu type=loc>à Toulouse</lieu> , <lieu type=obj>le Nouveau Logis méridional</lieu> , propriétaire d' une centaine de <lieu type=obj>maisons</lieu> accolées des années 1930 , nous demande <dyn> d' aménager les 2 ha de sa parcelle .</dyn> 
+Il s'agit de <dyn> diversifier l' offre de <lieu type=obj>logements</lieu> </dyn> et de la multiplier par trois . 
+Quelle trame adopter ? 
+Le dessin proposé est apparemment très irrégulier . 
+Cela vient de la rencontre très pragmatique de contraintes techniques ( réseaux primaires non déplaçables ), de la maille de <lieu type=obj>la cité-jardin</lieu> originelle et du système de <lieu type=obj>parc</lieu> du nouveau projet , <dyn> désenclavant <lieu type=obj>le site</lieu> ,</dyn> qui s'y superpose . 
+Le résultat est <dyn> une série de parcelles de tailles très différentes et de formes multiples .</dyn> 
+Nous aurions pu redonner une plus grande régularité par une nouvelle grille pour <dyn> harmoniser les îlots .</dyn> 
+Mais nous avons choisi de tirer parti de cette bizarrerie non préméditée pour <dyn> démultiplier </dyn> la forme et le caractère <lieu type=obj>des espaces publics</lieu> et des parcelles sans toutefois entraîner le chaos : quatre types simples d' édifices se combinent dans ce motif hasardeux , à la fois répétitifs et jamais semblables , puisque la forme de leur support varie . 
+Le premier îlot de 35 <lieu type=obj>logements</lieu> vient d' être construit . 
+Il combine trois <dyn> typologies bâties ,</dyn> de <lieu type=obj>la maison</lieu> au plot , qui s'accordent avec les contrastes du faubourg existant . 
+Avec <act>Jérôme Mazas</act> ( <act>Horizon Paysage</act> ), paysagiste . 
+Maîtrise d' ouvrage : Nouve<lieu type=loc>au Logis méridional</lieu> . 
+<lieu type=obj>Quartier</lieu> de <lieu type=obj>la Plaine</lieu> <act>Achille</act> , <lieu type=obj>Saint-Étienne</lieu> , 2008 <lieu type=obj>Marché</lieu> d' études de définition ( concours perdu ) <lieu type=obj>Un parc</lieu> dans <dyn> un ensemble plus ample .</dyn> 
+Trois vocations urbaines bordent les trois côtés du <lieu type=obj>parc</lieu> . 
+Un vaste <lieu type=obj>espace public</lieu> au cœur du projet <dyn> sans création de <lieu type=obj>voies</lieu> .</dyn> 
+<lieu type=obj>La lisière d' un parc</lieu> 
+<lieu type=obj<act>> </act>Ce terrain</lieu<act>> </act> situé <lieu type=loc<act>> </act>entre le centre-ville</lieu<act>> </act> et <lieu type=obj<act>> </act>la grande zone d</lieu<act>> </act>' <lieu type=obj<act>> </act>activité de l</lieu<act>> </act>' <lieu type=obj<act>> </act>Est stéphanois</lieu<act>> </act> est l' objet <dyn<act>> </act> d' une grande opération d' aménagement </dyn<act>> </act> menée <lieu type=loc<act>> </act>par l' <act<act>> </act>Établissement public d' aménagement de Saint-Étienne</</act<act>> </act>lieu<act>> </act>( Epase ). 
+La , <lieu type=obj>Plaine Achille</lieu> , rassemble <dyn> de grands équipements stéphanois </dyn> : <lieu type=obj>Palais des sports</lieu> , <lieu type=obj>piscine olympique</lieu> et patinoire , à deux pas des anciens <lieu type=obj>établissements</lieu> de <lieu type=obj>la Manufacture</lieu> d' armes ( qui accueillent la <act>biennale du Design</act> ), de la nouvelle <lieu type=obj>école</lieu> des Beaux-Arts , de la , <lieu type=obj>Platine</lieu> ,, construite pour <lieu type=obj>la Cité du design</lieu> , et d' <lieu type=obj>une partie</lieu> <lieu type=obj>des laboratoires</lieu> de <lieu type=obj>l' Université</lieu> , cela sans ordre particulier composant des objets sans liens entre eux . 
+<dyn> La libération du <lieu type=obj>terrain</lieu> </dyn> <lieu type=loc>autour du Palais des sports</lieu> crée un vaste <lieu type=obj>parc</lieu> et des liens interquartiers , nouvelle halte ferroviaire , nouvelles constructions . 
+Nous <dyn> avions disposé l' intégralité des nouveaux édifices </dyn> <lieu type=obj>— université</lieu> , <lieu type=obj>logements</lieu> , <lieu type=obj>bureaux</lieu> — <lieu type=loc>autour de ce parc</lieu> sans créer aucune voirie . 
+La configuration du <lieu type=obj>terrain</lieu> , en plan aussi bien qu'en coupe , les dénivelés et les irrégularités de la limite de <lieu type=obj>ce parc</lieu> , héritées <dyn> d' actions successives </dyn> sont le support d' une grande richesse de positions relatives <lieu type=loc>au parc</lieu> , d' interstices , de <lieu type=obj>passages</lieu> , de terrasses et rampes <lieu type=loc>sur le parc</lieu> : on habite en désordre autour d' une grande respiration urbaine , avec vue <lieu type=loc>sur les montagnes</lieu> qui constituent l' horizon stéphanois . 
+<act>Obras</act> finaliste , <dyn> le concours a finalement été remporté par <act>Alexandre Chemetoff</act> .</dyn> 
+Avec <act>Jérôme Mazas</act> ( <act>Horizon Paysage</act> ), paysagiste . 
+Maîtrise d' ouvrage : <dyn> <lieu type=obj>Établissement public</lieu> d' aménagement de Saint-Étienne </dyn> ( Epase ) et <lieu type=obj>Ville de Saint-Étienne</lieu> . 
+La nature structure l' urbain 
+Une nette résistance semble opposer en <lieu type=obj>France</lieu> nature et <lieu type=obj>ville</lieu> . 
+La nature serait soit en péril , soit périlleuse . 
+Pourtant la nature est une matrice , une richesse , un bien commun <dyn>( <lieu type=obj>la Seine commune</lieu> <lieu type=loc>au Grand Paris</lieu>),</dyn> elle transcende les césures administratives . 
+La nature relève aussi d' une autre durée , très étirée ; 
+c'est une complice puissante , qui offre <dyn> d' immenses potentiels à celui qui sait garder le sens de la mesure .</dyn> 
+La nature est aussi le vivant , le sol , le climat , <dyn> <lieu type=obj>l' eau</lieu> , le jour , la nuit , le vent ...</dyn> 
+Cette force irrigue <lieu type=obj>la ville</lieu> , merveilleuse , capable de réenchanter l' urbanisme . 
+La nature est hors mode , hors temps . 
+Elle nous fait changer de rythme , suppose <dyn> l' implication de tous au fil du temps ,</dyn> offre de nouvelles pratiques et expériences . 
+<dyn> La dynamique des écosystèmes </dyn> introduit dans l' urbanisme une tout autre temporalité : c'est une révolution . 
+<lieu type=obj>Helsinki</lieu> comme référence ... 
+La nature y est d' abord une structure qui rend intelligibles <dyn> ses étapes de développement .</dyn> 
+Effet magique : <act>Aalto</act> proposa en 1960 de <dyn> situer les équipements métropolitains </dyn> autour de la baie de Töölö , en plein <lieu type=obj>centre</lieu> , où la gare puis le parlement siégeaient . 
+Il y <dyn> construisit <lieu type=obj>le Finlandia Hall</lieu> </dyn> pour la conférence internationale de 1975 . 
+Son plan n'a pas été suivi à la lettre mais , trente ans plus tard , il a guidé <dyn> l' implantation </dyn> de l' opéra , du <lieu type=obj>musée d</lieu>' <lieu type=obj>art contemporain</lieu> de <act>Steven Holl</act> et , vingt ans après , celle du philharmonique et de la bibliothèque . 
+Quel meilleur fil d' Ariane que cet élément de nature ? 
+La nature est une alternative au plan , <dyn> structure </dyn> durable <lieu type=obj>des villes</lieu> trop longtemps portée par la seule maille <lieu type=obj>des routes</lieu> . 
+Après des milliers de kilomètres à vélo aux <lieu type=obj>Pays-Bas</lieu> , en <lieu type=obj>Scanie</lieu> , <lieu type=loc>à Copenhague</lieu> , <lieu type=obj>Zurich</lieu> , <lieu type=obj>Berlin</lieu> , <lieu type=obj>Stockholm</lieu> ou <lieu type=obj>Helsinki</lieu> , je sais que <lieu type=obj>les espaces naturels</lieu> <dyn> offrent une autre façon de se déplacer .</dyn> 
+La marche et le vélo sont plus efficaces — car les séquences géographiques sont longues et continues , sans <dyn> l' interruption des carrefours </dyn> —, plus agréables et beaucoup moins onéreux , car ils s'insèrent dans la géographie , nécessitent peu d' infrastructures et un faible coût d' exploitation . 
+Objectifs de santé publique et stratégies urbaines <dyn> ne tarderont pas à se combiner , et cette mobilité frugale et aérée </dyn> sera un atout maître . 
+À Pau , nous avons révélé que <lieu type=obj>le val</lieu> du <lieu type=obj>Hédas</lieu> est <dyn> un magnifique <lieu type=obj>chemin</lieu> <lieu type=loc>entre le centre</lieu> et le paysage du <lieu type=obj>gave de Pau</lieu> ,</dyn> au pied <lieu type=obj>des Pyrénées</lieu> , ceci en cinq minutes sans croiser de véhicules . 
+Mieux encore , comme nous l' avons vu <lieu type=loc>sur le territoire</lieu> du <lieu type=obj>Grand Genève</lieu> , les trams-trains , le tramway , les chronobus <dyn> autorisent une urbanisation </dyn> par paquets denses et discontinus , séparés <lieu type=loc>par des champs</lieu> , <lieu type=obj>des bois</lieu> , <lieu type=obj>des étangs</lieu> ou <lieu type=obj>des parcs</lieu> , sans que l' efficacité des parcours en pâtisse . 
+<dyn> <lieu type=obj>Champs</lieu> et prairies , <lieu type=obj>étangs</lieu> , <lieu type=obj>rivières</lieu> , <lieu type=obj>forêts</lieu> sont inclus dans les métropoles .</dyn> 
+<dyn> La gestion et le devenir de <lieu type=obj>ces terrains</lieu> </dyn> font donc <lieu type=obj>partie</lieu> du projet métropolitain , les acteurs de l' agriculture et <lieu type=obj>des espaces naturels</lieu> deviennent associés au projet urbain . 
+Cela renforce les solidarités entre bourgs ruraux et <lieu type=obj>centres métropolitains</lieu> . 
+<dyn> Le pôle métropolitain de <lieu type=obj>l' estuaire de la Seine</lieu> est ainsi une constellation de <lieu type=obj>villes interdépendantes</lieu> </dyn> où le grand paysage , figure géographique sous-jacente , joue un rôle prédominant . 
+Dans <dyn> ce système ouvert , les mobilités et les complémentarités programmatiques entre fragments très hétérogènes </dyn> deviennent un enjeu politique , car seule la mutualisation des ressources permet de réduire les écarts de valeur et de revenu . 
+Prendre acte de l' importance de <dyn> ces vastes étendues </dyn> dans la structure urbaine donne de la valeur aux lisières . 
+Dans <lieu type=obj>le val d' Argens</lieu> , <lieu type=obj>la vallée inondable</lieu> préservée de <dyn> l' urbanisation </dyn> <lieu type=obj>distingue la région</lieu> du reste de <lieu type=obj>la Côte d</lieu>' <lieu type=obj>Azur</lieu>— maltraitée par l' étalement urbain ; 
+sur les marges de <lieu type=obj>la plaine agricole</lieu> , <dyn> les formes urbaines peuvent être différentes , orientées vers le paysage réservé , comme si se démultipliait le linéaire du <lieu type=obj>littoral</lieu> .</dyn> 
+Les cultures retrouvent comme le reste du tissu urbain <dyn> une certaine mixité ,</dyn> sous la forme d' un , <lieu type=obj>parc agricole</lieu> , accessible aux loisirs , promenades , recherche et production et <lieu type=obj>marchés</lieu> . 
+Les habitants ont tout à gagner de <dyn> la collaboration nature / agriculture / <lieu type=obj>ville</lieu> .</dyn> 
+La comm<dyn> une </dyn> d' <lieu type=obj>Anglet</lieu> , <lieu type=loc>au Pays basque</lieu> , vit avec le souvenir d'<dyn> une </dyn> <lieu type=obj>ville</lieu> maraîchère ouverte <lieu type=loc>sur l' océan</lieu> , même si , très attractive , elle est aux prises avec <dyn> une </dyn> densification peu respectueuse <lieu type=obj>des parcs</lieu> , <lieu type=obj>des jardins</lieu> , des rares <lieu type=obj>champs</lieu> qui restent . 
+Le plan local d' urbanisme a été l' occasion de montrer , par des simulations architecturales détaillées , les effets de <dyn> cette dégradation </dyn> et les alternatives possibles . 
+En s'appuyant sur la structure géographique <lieu type=obj>des ruisseaux</lieu> presque effacés et <lieu type=obj>des terrains agricoles</lieu> , on <dyn> peut construire davantage </dyn> sur les lisières , restaurer le plaisir des vues <lieu type=loc>sur la vallée</lieu> de <lieu type=obj>l' Adour</lieu> , <lieu type=obj>les Pyrénées</lieu> , <lieu type=obj>Bayonne</lieu> ou <lieu type=obj>l' océan</lieu> . 
+Le travail multiscalaire concilie , à grande échelle , <dyn> densification </dyn> et qualité du paysage et <lieu type=obj>des espaces naturels</lieu> : toutes <lieu type=obj>les villes</lieu> n'ont pas vocation à devenir compactes et minérales , et le devenir suburbain passe par une alliance plus mesurée avec la nature . 
+[1] 
+Cette question est aussi celle des architectes . 
+<act>Leon Battista Alberti</act> écrivait en 1485 , en premier lieu , <dyn> n'entreprends rien qui dépasse les forces humaines , et n'accepte rien qui doit manifestement entrer en conflit avec la nature .</dyn> 
+Car la force de la nature est telle que , même s'il est parfois possible de lui faire obstacle en lui opposant <dyn> des constructions gigantesques ,</dyn> ou de la détourner par quelque moyen , elle n'aura de cesse de parvenir à vaincre et à abattre tout ce qui est susceptible de lui résister et de l' entraver . 
+<dyn> La persévérance tenace et assidue de sa défense </dyn> brise et écrase avec l' aide du temps tout l' acharnement , pour ainsi dire , que manifestent les choses à son endroit . 
+, <dyn>( <act>L</act>'<act>Art d' édifier</act> ,</dyn> traduit du latin par <act>Françoise Choay</act> et <act>Pierre Caye</act> , <act>L</act>ivre II , chapitre 2 , <lieu type=obj>Paris</lieu> , <lieu type=obj>Seuil</lieu> , <lieu type=obj>2004 ,</lieu> p . 101 ). 
+[2] 
+En 2008 dans le cadre du <lieu type=obj>projet Paca<dyn>( Périmètres</lieu> d' aménagement coordonné d' <lieu type=obj>agglomération</lieu> ),</dyn> pour <lieu type=obj>l' État de Genève</lieu> , <lieu type=loc>sur un secteur</lieu> transfrontalier <lieu type=loc>entre la gare de Cornavin</lieu> et <lieu type=obj>Saint-Genis</lieu>( voir : <lieu type=obj>Genève Agglo 2030</lieu> , un projet pour dépasser les frontières , <lieu type=obj>Marseille</lieu> , <act>Parenthèses</act> , 2010 , p . 148 ). 
+<lieu type=obj>Vallée du Hédas</lieu> , Pau , depuis 2011 <act>Étude</act> urbaine 
+<lieu type=obj>La vallée</lieu> du <lieu type=obj>Hédas</lieu> <dyn> s'insère dans un système de <lieu type=obj>parc</lieu> ,</dyn> en lien avec le grand paysage du <lieu type=obj>gave de Pau</lieu> et <lieu type=obj>des Pyrénées</lieu> . 
+Le long du <lieu type=obj>vallon</lieu> encaissé , <lieu type=obj>l' espace public</lieu> <dyn> <lieu type=obj>relie des passages</lieu> , des cours et <lieu type=obj>des jardins</lieu> </dyn> avec le système de <lieu type=obj>parc</lieu> . 
+Pau : la vil<dyn> le </dyn>-paysage La Vil<dyn> le </dyn> a mobilisé trois équipes sur <dyn> le </dyn> devenir de l' ancienne <lieu type=obj>vallée industrieuse</lieu> du <lieu type=obj>Hédas</lieu> , en p<dyn> le </dyn>in <lieu type=obj>centre-vil<dyn> </lieu> le </dyn> . 
+Passant au pied <dyn> des </dyn> fortifications du <lieu type=obj>château</lieu> , le , <lieu type=obj>ravin</lieu> , du <lieu type=obj>Hédas</lieu> est caché et fut maltraité par <dyn> des </dyn> aménagements qui l' ont traité comme arrière-cour . 
+Mais la discrétion et la richesse de <dyn> ses cours et <lieu type=obj>jardins</lieu> sont appréciées des riverains , associés au projet .</dyn> 
+Nous avons été lauréats de la consultation en 2013 . 
+<lieu type=obj>Ville-pays</lieu> age , Pau est complice de la nature qui l' environne ; 
+<dyn> <lieu type=obj>le château d' Henri IV</lieu> , le balcon <lieu type=loc>sur les Pyrénées</lieu> , le belvédère <lieu type=loc>entre le val du Hédas</lieu> et <lieu type=obj>le gave de Pau</lieu> ,</dyn> le tracé <lieu type=obj>des voies</lieu> s'y installe avec habileté sur le sol . 
+Notre proposition s'inscrit dans cette belle alliance avec <lieu type=obj>la géographie</lieu> . 
+Depuis <lieu type=obj>le centre-ville</lieu> , le promeneur du <lieu type=obj>Hédas</lieu> découvrira <dyn> cet univers protégé , les contreforts de <lieu type=obj>la ville</lieu> d' <act>Henri IV</act> puis <lieu type=obj>les jardins</lieu> du bord du gave .</dyn> 
+<dyn> Pratiquement sans croiser de <lieu type=obj>route</lieu> , il parvient jusqu'aux <lieu type=obj>rives</lieu> du <lieu type=obj>gave de Pau</lieu> ,</dyn> en pleine nature . 
+<lieu type=obj>La ville ancienne</lieu> est ainsi rendue plus attractive . 
+On <dyn> peut en quelques minutes aller se reposer </dyn> en bord de <lieu type=obj>rivière</lieu> . 
+<dyn> L'accès <lieu type=loc>au val</lieu> </dyn> est favorisé , tout en préservant son caractère intimiste : savant mélange de mousse et de galets , cours renforcées par de nouveaux <lieu type=obj>logements</lieu> et <lieu type=obj>jardins</lieu> de <lieu type=obj>vallon</lieu> . 
+Maîtrise d' ouvrage : <act>Société immobilière de l' aménagement du Béarn</act> ( <act>SIAB</act> ). 
+<lieu type=obj>Val d</lieu>' <lieu type=obj>Argens</lieu> , Var , depuis 2013 Étude stratégique — <act>Atelier national</act> , <dyn> <lieu type=obj>Territoires</lieu> en mutation </dyn> soumis aux risques , L'inondabilité assure la pérennité de <lieu type=obj>l' espace agricole</lieu> du <lieu type=obj>val</lieu> d' <lieu type=obj>Argens</lieu> . 
+Habiter au bord du <lieu type=obj>parc agricole</lieu> préservé . 
+<lieu type=obj>Le parc agricole</lieu> fait le lien entre les polarités . 
+<lieu type=obj>Un parc agricoleL'Atelier national</lieu> propose de réfléchir avec les collectivités à <dyn> un projet territorial </dyn> sur l' ensemble du <lieu type=obj>val d' Argens</lieu> . 
+La , <lieu type=obj>vallée</lieu> rose , de <lieu type=obj>l' Argens</lieu> tenait son nom des cultures de pêchers , qui <dyn> ont cédé la place à une agriculture plus rentable .</dyn> 
+Mais les fruitiers s'accommodaient des <dyn> <lieu type=obj>crues</lieu> ,</dyn> ce qui n'est pas <lieu type=obj>le cas des serres</lieu> : <lieu type=obj>la vallée</lieu> est ainsi devenue plus vulnérable . 
+Cette fragilité est pourtant une chance pour <lieu type=obj>la région</lieu> , dont le paysage exceptionnel <dyn> n'a pas été laminé </dyn> comme d' autres lieux de <lieu type=obj>la Côte d</lieu>' <lieu type=obj>Azur</lieu> . 
+<lieu type=obj>Les villes</lieu> alentour ont tout à gagner de <dyn> la préservation de cette vaste respiration .</dyn> 
+<dyn> Le développement urbain </dyn> sera l' allié du renforcement progressif d' une agriculture plus résiliente . 
+<dyn> Les nouveaux <lieu type=obj>terrains</lieu> urbanisés </dyn> tireront parti des réseaux existants — notamment les gares , dont le faisceau sera libéré par la nouvelle ligne à grande vitesse . 
+<dyn> Situés en lisière <lieu type=obj>des champs</lieu> , ils profiteront directement des vues pérennes <lieu type=loc>sur le paysage des Maures</lieu> et du <lieu type=obj>rocher de Roquebrune</lieu> .</dyn> 
+<lieu type=obj>Les berges</lieu> de <lieu type=obj>l' Argens</lieu> <dyn> aménagées ,</dyn> les seuils hydrauliques , certaines parcelles en déprise forment un réseau vert traversant <lieu type=obj>la vallée</lieu> : un lien territorial <lieu type=loc>entre mer</lieu> et montagne , entre versants et bourgs , mais aussi l' occasion de nouveaux programmes associés à l' agriculture : loisirs , sport , vente directe ... Avec <act>Mageo</act> , <act>Alphaville</act> , <act>RR&A</act> , <act>Burgeap</act> , <act>Franck Boutté</act> . 
+Maîtres d' ouvrage : Ministère du <lieu type=obj>Logement</lieu> de <lieu type=obj>l' Égalité des territoires</lieu> , <act>Ministère de l' Écologie , du Développement durable et de l' Énergie</act> , Direction générale de <dyn> l' Aménagement , du <lieu type=obj>Logement</lieu> et de la Nature , <act>Direction générale de la Prévention des risques</act> .</dyn> 
+<lieu type=obj>Anglet</lieu> , <lieu type=obj>Pyrénées-Atlantiques</lieu> , 2010-2012 Révision du plan local d' urbanisme 
+Le plan d' aménagement et de développement durable superpose six figures liées à la géographie et à <dyn> <lieu type=obj>la fondation</lieu> du <lieu type=obj>site</lieu> </dyn> : <lieu type=obj>Adour</lieu> , <lieu type=obj>Littoral</lieu> , <lieu type=obj>val d' Aritxague</lieu> , <lieu type=obj>route</lieu> d' <lieu type=obj>Espagne</lieu> , <lieu type=obj>agglomération Côte basque- Adour</lieu> , , V , des deux axes urbains . 
+<act>Renouer avec la géographie</act> 
+<lieu type=obj>La côte basque</lieu> est soumise à <dyn> une très forte pression foncière .</dyn> 
+<lieu type=obj>Anglet</lieu> , naguère ville-jardin <lieu type=loc>entre Biarritz</lieu> et <lieu type=obj>Bayonne</lieu> , <dyn> a vu peu à peu ses parcelles se densifier ,</dyn> parfois exagérément , et <lieu type=obj>ses réserves foncières</lieu> s'épuiser : toutes <lieu type=obj>les zones</lieu> non construites et non protégées étaient classées , à urbaniser , avant le nouveau PLU . 
+Avant cela , le plan <dyn> d' aménagement et de développement durable </dyn> ( PADD ) nous a mobilisés durant deux années d' échanges et de pédagogie . 
+Au-delà du clivage individuel / collectif , nous avons proposé une analyse fine d' une vingtaine de typologies , selon trois catégories : <dyn> la ville-jardin luxuriante ,</dyn> la ville-parc ouverte sur l' horizon et la ville-rue pour les centralités . 
+De même , le zonage d' origine <dyn> a été déconstruit </dyn> pour installer des séquences fondées sur la géographie : les anciennes <lieu type=obj>routes</lieu> , les coteaux en <lieu type=obj>belvédères</lieu> <lieu type=loc>sur les Pyrénées</lieu> ou <lieu type=obj>la mer</lieu> , les plateaux surmontant <lieu type=obj>l' Adour</lieu> et <lieu type=obj>Bayonne</lieu> , les nombreux <lieu type=obj>ruisseaux</lieu> et <lieu type=obj>vals</lieu> trop urbanisés . 
+Le nouveau zonage et le règlement — testés à nombreuses reprises — autorisent <dyn> une densification hiérarchisée </dyn> selon les séquences , plus respectueuse du caractère du paysage et <lieu type=obj>des jardins</lieu> , tirant profit des vues et des discontinuités du bâti . 
+C'est ainsi que 80 ha de <lieu type=obj>zones</lieu> à urbaniser <dyn> ont été rendus </dyn> à l' agriculture ( A ) ou à la nature ( N ). 
+Avec <act>Cécile Benoît</act> , avocate . 
+Maîtrise d' ouvrage : <lieu type=obj>Ville</lieu> d <lieu type=obj>'Anglet</lieu> , <lieu type=obj>Agence</lieu> d' urbanisme de <lieu type=obj>l' agglomération</lieu> <lieu type=obj>Côte</lieu> Basque / <lieu type=obj>Adour Est uaire</lieu> de la Seine , 2011-2012 Étude stratégique de grand <lieu type=obj>territoire</lieu> <lieu type=obj>Chaque village</lieu> peut bénéficier de <dyn> la dynamique métropolitaine ,</dyn> dans le grand paysage de <lieu type=obj>l' est uaire</lieu> . 
+La ville-constellation : interdépendances et solidarités . 
+<act>Boucle de <dyn> transport en commun</act> en <lieu type=obj>site propre</lieu> </dyn> <lieu type=loc>dans le parc industriel et naturel de l</lieu>'estuaire <lieu type=obj>Étendue métropolitaine , ville constellation</lieu> 
+Comment tout <lieu type=obj>le territoire</lieu> de <lieu type=obj>l' estuaire de la Seine</lieu> , de <lieu type=obj>Fécamp</lieu> <lieu type=loc>à Lisieux</lieu> , <dyn> se relie </dyn> à la dynamique métropolitaine de <lieu type=obj>l' axe Paris-Le Havre</lieu>( <lieu type=obj>port</lieu> , LGV ...) ? 
+Nous avons pris part , avec quatre autres experts , à une série d' échanges avec une soixantaine de maires , pour aider à <dyn> constituer le pôle métropolitain .</dyn> 
+La mission pilotée par <act> <</act>act>Antoine Rufenacht<act> <</act>/act> , ancien maire du <act> <</act>lieu type=obj>Ha<act>vre</act> <act> <</act>/lieu> , nous avait été confiée par <act> <</act>dyn> <act> <</act>lieu type=obj>l' <act> <</act>act>Agence<act> <</act>/act> <act> <</act>/lieu> <act> <</act>act>d' urbanisme<act> <</act>/act> de <act> <</act>lieu type=obj>la région<act> <</act>/lieu> du <act> <</act>lieu type=obj>Ha<act>vre</act> <act> <</act>/lieu> <act> <</act>/dyn> ( AURH ). 
+Cette , métropole , particulière est <dyn> une constellation de lieux habités , en réseau ,</dyn> dont les atouts locaux complémentaires pourraient mieux profiter à l' ensemble . 
+Dans <dyn> cette nouvelle forme de <lieu type=obj>ville</lieu> ,</dyn> <lieu type=obj>les villes</lieu> ne s'opposent plus aux <lieu type=obj>villages</lieu> , ni <lieu type=obj>la campagne</lieu> à l' urbain , ni <lieu type=obj>la mer</lieu> <lieu type=loc>à la terre</lieu> , ni les vallées aux plateaux , ni l' industrie à l' agriculture . 
+De manière très concrète , on <dyn> peut habiter <lieu type=loc>dans un village</lieu> , étudier <lieu type=loc>à la ville</lieu> ou bien travailler <lieu type=loc>dans une usine</lieu> et se détendre dans un paysage naturel .</dyn> 
+<dyn> L'ossature de toutes <lieu type=obj>les communes</lieu> , partagée par les habitants , est bien la géographie , les grands paysages de l' estuaire et <lieu type=obj>les zones naturelles</lieu> .</dyn> 
+Ils ne sont pas <dyn> <lieu type=obj>l' envers des villes</lieu> , mais ils forment la continuité de l' ensemble </dyn> et offrent à tous de nouveaux usages , de nouvelles ressources . 
+<dyn> Cette étude a fait l' objet d' un livre à destination des élus et de <lieu type=obj>leurs institutions</lieu> .</dyn> 
+Avec <act>Chris Younès</act> , <act>Olivier Mora</act> , <act>Jacques Leenhardt</act> , <act>Martin Vanier</act> . 
+Maîtrise d' ouvrage : <lieu type=obj>Agence</lieu> <dyn> d' urbanisme de <lieu type=obj>la Région</lieu> du Havre-Estuaire de la Seine </dyn> ( AUHR ) 
+La , responsabilité , de l' architecture 
+<dyn> Les , grands projets ,</dyn> restent d' actualité , mais , exceptions économiques trop isolées , ils ne suffisent pas à relever la qualité des lieux que nous habitons , tous les lieux . 
+Comment mieux recourir à l' intelligence des <dyn> transformations plus courantes du <lieu type=obj>territoire</lieu> </dyn> <lieu type=obj>— dix logements</lieu> , une place , une crèche , <lieu type=obj>des bureaux</lieu> ... ? 
+Cela vaut tant pour l' architecture que pour les infrastructures . 
+Si chaque édifice apportait à <dyn> <lieu type=obj>son site</lieu> </dyn> un cadeau , <lieu type=obj>la ville</lieu> y gagnerait beaucoup sans autre dépense : <lieu type=obj>un passage</lieu> pour les usages , une vue pour le paysage , de l' énergie , <lieu type=obj>un jardin</lieu> pour la biodiversité , etc . 
+Même avec une vision d' ensemble , il faut retrouver confiance dans <dyn> l' architecture , dans le pas à pas .</dyn> 
+Le , petit , peut être responsable du , grand ,, l' architecture soutenant ici <dyn> l' urbanisme </dyn> : plus d' effets pour moins d' efforts . 
+Cette responsabilité particulière de <dyn> l' architecture , prise au sens large et historique — infrastructures , paysage , <lieu type=obj>espaces publics</lieu> , édifices —</dyn> , est indissociable de notre héritage disciplinaire . 
+<act>Alberti</act> , <act>Michel-Ange</act> , <act>Labrouste</act> ou <act>Alvar Aalto</act> n'avaient pas d' autres engagements qu'une architecture urbaine , accordée <lieu type=loc>à son territoire</lieu> , exigeante d' inventions pour <dyn> s'adapter aux évolutions sociétales et économiques , pour réinventer un contexte , <lieu type=obj>un espace public</lieu> ,</dyn> apporter à la structure de <lieu type=obj>la ville</lieu> bien plus que son propre usage et sa propre logique . 
+<lieu type=obj>Les écoles</lieu> d' architecture ont donc un rôle important à jouer pour <lieu type=obj>le territoire</lieu> , au-delà du <dyn> projet urbain </dyn> : transmettre aux générations à venir cet héritage attentionné , ce potentiel créatif , cette exigence dans la moindre de nos actions . 
+<dyn> La dissociation entre objet et contexte , comme s'il s'agissait des compétences de deux métiers différents , a eu des effets pervers .</dyn> 
+Mais pas seulement . 
+La commande est aussi responsable de la question posée à <dyn> l' architecte </dyn> et se cantonne trop souvent à l' objet . 
+Voilà pourquoi nous travaillons sur <dyn> des études stratégiques </dyn> très en amont . 
+Cela explique aussi pourquoi je suis devenu <act>architecte-conseil de l' État</act> . 
+Faire en sorte que le bon programme , même le plus ordinaire , soit disposé au bon endroit et <dyn> bonifie son voisinage ,</dyn> c'est aussi la question de l' urbanisme . 
+Sur les 40 km de <lieu type=obj>Seine Aval</lieu> , l' étude de , composition urbaine et paysagère ,, menée pour <dyn> <lieu type=obj>l' É tablissement public d</lieu>' <lieu type=obj>aménagement du Mantois Seine-Aval</lieu> </dyn> ( Epamsa ), ne pouvait conduire à un grand geste , un grand projet . 
+Pas seulement par manque de moyens ou d' une gouvernance adaptée , mais surtout parce que tirer profit des qualités paysagères exceptionnelles de <lieu type=obj>ce territoire</lieu> ne peut se faire que pas à pas , au gré des <dyn> petits projets ,</dyn> en l' articulant avec une vision construite et partagée à grande échelle . 
+Cette évidence n'en est pas une , puisqu'on a eu tôt fait de constater que <dyn> les constructions nouvelles </dyn> tournaient le dos <lieu type=loc>à la vallée</lieu> et contribuaient en chaque lieu à amenuiser le trésor paysager . 
+<dyn> L'approche multiscalaire ,</dyn> rendue par un outil hypertexte inspiré d' Internet , a tenté de rétablir le lien de responsabilité des petites actions sur l' ensemble . 
+L'architecture peut répondre à une question urbaine . 
+Sur <dyn> <lieu type=obj>le quartier</lieu> <lieu type=obj>Monges-Croix-du-Sud</lieu> ,</dyn> la maille et l' infrastructure sont très peu présentes . 
+L'invention typologique et <dyn> l' expression architecturale de l' édifice dans le paysage d' ensemble </dyn> sont alors décisives . 
+Le travail d' urbaniste a donc été ici plus précis que d' habitude , puisque nous avons induit la forme de <dyn> chaque objet construit </dyn> dans le dispositif général — et cela vaut aussi pour <lieu type=obj>les barrages</lieu> , <lieu type=obj>les passerelles</lieu> et <lieu type=obj>les ponts</lieu> que nous avons dessinés . 
+Cette précision offre paradoxalement une grande liberté architecturale aux auteurs qui se sont succédé , sans doute plus ample que si un plan d' alignement calait des adossements : la position radicale de <act>Gilles Perraudin</act> et <dyn> ses empilements de <lieu type=obj>pierre massive</lieu> ,</dyn> les textures savantes de <act>Ballot</act> & <act>Franck</act> , le motif des patios de <act>Carlos Ferrater</act> ou de <act>Puig-Pujol</act> , l' entrelacement végétal de <act>Duncan Lewis</act> , <lieu type=obj>les immeubles</lieu> de <act>Francisco Mangado</act> rythmant le cours du <lieu type=obj>ruisseau</lieu> , en sont autant de démonstrations ... 
+Plus récemment , nous sommes allés plus loin , proposant <lieu type=loc>dans la vallée lorraine</lieu> de <lieu type=obj>l' Orne</lieu> <dyn> des dispositifs constructifs pour bâtir </dyn> <lieu type=loc>à proximité des centres</lieu> équipés des cités ouvrières tout en s'adaptant aux risques d' effondrement <lieu type=obj>des sols hérités des mines</lieu> de fer . 
+Cette expérimentation , appuyée par le <act>Cerema</act> et les filières de construction locales , propose une réponse possible à un paradoxe urbain : sans cette recherche , on ne peut que renoncer à <dyn> se développer </dyn> en continuité avec <lieu type=obj>le territoire</lieu> urbanisé , condamné en quelque sorte à l' étalement urbain . 
+La diversité des questions territoriales appelle une très grande invention , dans laquelle l' architecture , y compris dans <dyn> sa dimension constructive ,</dyn> a toute sa place . 
+L'enseignement et la recherche gagneraient à aborder ces interactions . 
+C'est un principe du diplôme de spécialisation et d' approfondissement ( DSA ), pour les architectes et paysagistes diplômés , de <dyn> <lieu type=obj>l' École</lieu> d' architecture de <lieu type=obj>la ville</lieu> et <lieu type=obj>des territoires</lieu> de Marne-la-Vallée .</dyn> 
+Plus généralement , la recherche et l' enseignement de l' architecture <lieu type=loc>dans les écoles</lieu> pourraient mieux intégrer les dimensions multiscalaires de <dyn> chaque projet ,</dyn> même pour l' édifice le plus élémentaire . 
+[1] <act>Cerema</act> , <lieu type=obj>Centre</lieu> d' études et d' expertise sur les risques , l' environnement , la mobilité et <dyn> l' aménagement ,</dyn> <lieu type=obj>établissement public</lieu> créé en janvier 2014 et regroupant l' activité des <act>CETE</act> et du <act>Certu</act> . 
+[2] 
+Cette formation a été créée par <act>Yves Lion</act> qui est , avec d' autres auxquels il faut rendre hommage , le fondateur de <dyn> <lieu type=obj>l' École</lieu> d' architecture de <lieu type=obj>la ville</lieu> et <lieu type=obj>des territoires</lieu> de Marne-la-Vallée .</dyn> 
+<dyn> <act>Seine-Aval</act> , <act>2008-2009</act> Étude de composition urbaine et paysagère ,</dyn> <lieu type=obj>marché</lieu> de définition à laquelle ont également participé <act>Lin</act> et <act>Antoine Grumbach</act> 
+La qualité de chaque projet engage le tout . 
+La vision d' ensemble se construit par éléments plus petits 
+<lieu type=obj>La vallée de la Seine-Aval</lieu> Quarante kilomètres , cinquante et <lieu type=obj>une communes</lieu> : nous avons , malgré <dyn> l' ampleur du <lieu type=obj>territoire</lieu> , <lieu type=obj>arpenté la vallée</lieu> ,</dyn> et il nous a suffi de peu de temps pour réaliser à quel point le paysage , extraordinaire , était la ressource de <lieu type=obj>cette vallée</lieu> portée par l' industrie ( <act>Renault</act> , <act>EDF</act> , <act>EADS</act> ...). 
+Comment représenter ses potentiels ? 
+Pour nourrir nos échanges nombreux avec les maires , nous avons développé un outil interactif et hypertexte , multiscalaire , pour rendre compte de la diversité du <lieu type=obj>territoire</lieu> : <dyn> ses grandes séquences paysagères ,</dyn> marquées par des césures agricoles , <lieu type=obj>ses bassins</lieu> de vie multiples et ses liaisons métropolitaines . 
+L'outil multiscalaire permet d' éviter l' écueil d' une représentation univoque . 
+À partir de situations emblématiques ( <lieu type=obj>boucles des méandres</lieu> , coteaux , vallées <lieu type=obj>affluentes</lieu> , pôles urbains ), des dispositifs architecturaux sont proposés comme autant d' échantillons de ce qu'il est possible de faire : on s'aperçoit <dyn> qu'en changeant légèrement les typologies ,</dyn> en les organisant résolument en <lieu type=obj>fonction des propriétés locales</lieu> du grand paysage , on peut retrouver , par l' architecture , une certaine cohérence . 
+Ceci pas à pas , sans grand geste dispendieux , en réintégrant le souci <dyn> des atouts du paysage ,</dyn> dans les projets ordinaires — de la crèche <lieu type=loc>à l' immeuble</lieu> de <lieu type=obj>logements</lieu> . 
+Maîtrise d' ouvrage : <lieu type=obj>Établissement public</lieu> d' aménagement du Mantois Seine-Aval ( <act>Epam</act>sa ) <lieu type=obj>Vallée de l</lieu>' <lieu type=obj>Orne</lieu> , <lieu type=obj>Lorraine</lieu> , depuis 2013 Étude stratégique — Atelier national , <lieu type=obj>Territoires</lieu> en mutation soumis aux risques , Variations avec les modules de 32 m2 et des pièces , fusibles ,, pour de nouvelles <lieu type=obj>cités-jardins</lieu> résilientes . 
+Vue d' <lieu type=obj>Homécourt</lieu> et de <lieu type=obj>Jouef</lieu> , <lieu type=obj>Vallée de l' Orne</lieu> . 
+<act>Construire autrement</act> 
+La sidérurgie <lieu type=obj>partie</lieu> , <lieu type=obj>la vallée</lieu> de <lieu type=obj>l' Orne</lieu> <dyn> <lieu type=obj>demeure</lieu> habitée et très bien équipée </dyn> — sport , théâtre , <lieu type=obj>écoles</lieu> , les services sont encore tous présents , parmi des cités ouvrières très bien tracées selon la topographie . 
+Mais les exploitants <lieu type=obj>des mines</lieu> ont laissé à la collectivité un cruel héritage : <lieu type=obj>les galeries</lieu> inondées <dyn> peuvent s'effondrer ,</dyn> compromettant le développement urbain . 
+Ainsi , <dyn> des lotissements commencent à apparaître </dyn> sur les plateaux agricoles , dépourvus de service urbain . 
+Dans toutes <lieu type=obj>les zones centrales</lieu> où les risques <dyn> d' effondrement </dyn> sont modérés , les constructions sont admises sous conditions : 32 m2 sans contact avec les voisines , bâties en ossature contreventée . 
+L'invention architecturale peut permettre <dyn> d' édifier </dyn> là où cela est sur le plan urbain le plus raisonnable , donc près des services . 
+Pour <dyn> de nouvelles <lieu type=obj>maisons</lieu> ,</dyn> nous avons proposé des juxtapositions multiples de modules élémentaires , leur lien étant assuré par une pièce , fusible , dont la réparation a un coût limité — pièce faisant tour <lieu type=loc>à tour office</lieu> de <lieu type=obj>jardin</lieu> d' hiver , de remise , d' entrée . 
+Les assemblages autorisent une diversité à <dyn> l' image du patrimoine remarquable des cités ouvrières .</dyn> 
+La solution constructive consacre aussi <dyn> l' habitat pavillonnaire ,</dyn> qui marque ici le paysage . 
+Avec <act>Mageo</act> , <act>Alphaville</act> , <act>RR&A</act> , <act>Burgeap</act> , <act>Franck Boutté</act> . 
+Maîtres d' ouvrage : Ministère du <lieu type=obj>Logement</lieu> de <lieu type=obj>l' Égalité des territoires</lieu> , <act>Ministère de l' Écologie , du Développement durable et de l' Énergie</act> , Direction générale de <dyn> l' Aménagement , du <lieu type=obj>Logement</lieu> et de la Nature , <act>Direction générale de la Prévention des risques</act> .</dyn> 
+<lieu type=obj>Quartier Monges</lieu> , <lieu type=obj>Cornebarrieu</lieu> , <lieu type=obj>Grand Toulouse</lieu> , depuis 2003 <act>Maîtrise d</act>' œuvre urbaine , accord-cadre pour la conception , <dyn> la réalisation et le suivi d' une Zac </dyn> <lieu type=obj>Le quartier</lieu> s'organise autour d' <lieu type=obj>un parc</lieu> . 
+<lieu type=obj>Chemin creux</lieu> contre l' édifice des architectes <act>Ballot</act> & <act>Franck</act> . 
+<lieu type=obj>L'espace Monges</lieu> , construit par <act>Obras</act> <lieu type=loc>dans le parc</lieu> . 
+<lieu type=obj>Les maisons-gradins</lieu> , conçues par les architectes <act>Puig</act> <act>&</act> <act>Pujol</act> . 
+Habitant-pêcheur : <dyn> <lieu type=obj>les bassins</lieu> de rétention construits </dyn> <lieu type=loc>sur le ru du Rouchet</lieu> sont désormais des lieux de détente ... 
+Les sept types élémentaires <dyn> d' <lieu type=obj>organisation</lieu> du bâti </dyn> qui ont guidé les consultations d' architectes , avec une bonne marge d' interprétation . 
+<lieu type=obj>Le parc habité Cornebarrieu</lieu> est <lieu type=loc>à la fois un village</lieu> et <lieu type=obj>la partie</lieu> très active d' une grande métropole : <lieu type=obj>les usines</lieu> <act>Airbus</act> de l' A380 y <dyn> sont implantées .</dyn> 
+L'aménageur nous demandait <dyn> de construire plus de 1 000 <lieu type=obj>logements</lieu> ,</dyn> sur le paysage de <lieu type=obj>campagne</lieu> de ce bourg situé au nord-ouest de l' aéroport . 
+Le nouve<lieu type=loc>au quartier</lieu> renoue avec les grandes séquences géographiques : 1 km de <lieu type=obj>parc unitaire</lieu> , trait d' union entre l' ancien <lieu type=obj>village</lieu> et <dyn> le projet ,</dyn> <lieu type=obj>un parc</lieu> autour duquel doivent <lieu type=obj>être disposés les logements</lieu> . 
+Le plan <dyn> n'est pas organisé par une trame viaire ,</dyn> mais selon la topographie , le soleil et les vues . 
+La typologie et la position des architectures ont été prédéfinies pour qu'elles jouent entre elles comme dans une grande scénographie , <dyn> <lieu type=obj>jalonnant le parc</lieu> .</dyn> 
+L'architecture retrouve sa capacité à inventer un paysage . 
+Associant collectif et individuel , <lieu type=obj>les bâtiments</lieu> utilisent la pente , <dyn> s'ouvrent </dyn> vers l' horizon , selon des formes inédites qui s'éloignent des produits immobiliers standard . 
+<dyn> <lieu type=obj>La pierre massive</lieu> , <lieu type=obj>le bois</lieu> et le béton renforcent cette singularité .</dyn> 
+Une série de promenades et <lieu type=obj>un parkway</lieu> dessert <lieu type=obj>les logements</lieu> , <dyn> complètent les structures paysagères </dyn> d' <lieu type=obj>un ruisseau</lieu> et d' <lieu type=obj>un chemin creux</lieu> existant . 
+<lieu type=obj>Ce quartier métropolitain tire</lieu> parti des ressources du <lieu type=obj>site</lieu> d' origine . 
+On y pêche déjà , les enfants <dyn> vont <lieu type=loc>à l' école</lieu> à vélo , <lieu type=loc>à travers le parc</lieu> .</dyn> 
+Cela compte , in fine . 
+Avec <act>Bruno Fortier</act> , architecte urbaniste et <act>Michel Desvigne</act> , paysagiste . 
+Maîtrise <dyn> d' ouvrage : <act>SEM Oppidea</act> ( ex <act>SEM Constellation</act> )</dyn> Économie et frugalité 
+L'urbanisme nourrit son imaginaire d' énergies souvent colossales . 
+Mais sait-on toujours doser l' effort ? 
+Nous pensons que <dyn> les projets à venir </dyn> rechercheront la juste mesure , loin des grands gestes , tirer parti de chaque ressource , développer des solutions low tech , des dispositifs qui résolvent avec le minimum d' effort le maximum de questions . 
+Intégration , <dyn> optimisation ,</dyn> le futur de l' urbaniste est un art de l' économie . 
+L'autre difficulté est de fédérer les acteurs économiques dont les valeurs sont de plus en plus financières autour de l' intérêt général , sans lequel il <dyn> n'y a pas d' urbanité .</dyn> 
+Il s'agit alors de démontrer la logique économique des <dyn> , dépenses actives </dyn> ,. 
+, Frugalité , ne peut se confondre avec médiocrité . 
+<dyn> Être sobre </dyn> n'est pas punition mais intelligence collective , partage , et optimisation . 
+L'histoire commence avec le foncier . 
+Avec l' architecte-urbaniste <act>Philippe Villien</act> et le paysagiste <act>Christophe Delmar</act> , nous avons en 1992 réalisé <dyn> un premier plan directeur du campus de <lieu type=obj>Rangueil</lieu> <lieu type=loc>à Toulouse</lieu> </dyn> ( 200 ha , 30 000 étudiants ). 
+Reprenant pendant vingt ans cette tâche , avec deux nouveaux plans universitaires , j'ai insisté sur <dyn> l' importance de la ressource foncière disponible .</dyn> 
+Dans une métropole soumise à forte pression démographique et foncière , nous <dyn> disposions d' une surface , publique ,</dyn> équivalente <lieu type=loc>à la ville</lieu> de <lieu type=obj>Tarbes</lieu> ou d' <lieu type=obj>Albi</lieu> . 
+Nous avons défendu la nécessité de <dyn> la création d' une <act>SPLA</act> </dyn> pour conduire l' opération et d' un contrat entre l' État propriétaire , <lieu type=obj>l' Université</lieu> et la collectivité pour valoriser ces dizaines d' hectares sagement préservés . 
+Comme <lieu type=loc>dans certains pays</lieu> , <lieu type=obj>l' Université</lieu> aurait pu ainsi bénéficier des revenus des loyers , <lieu type=obj>la ville</lieu> <dyn> d' opérations moins coûteuses </dyn> et la vie du campus d' une diversité d' usages . 
+Cette idée prometteuse peine toutefois à se mettre en place . 
+Il serait dommage que faute <dyn> d' imagination collective on passe à côté d' un tel trésor .</dyn> 
+Dans <lieu type=obj>le quartier</lieu> <lieu type=obj>des Izards</lieu> , nous avons pu convaincre les élus de <lieu type=obj>Toulouse</lieu> <dyn> d' éviter une Zac dispendieuse </dyn> en établissant des partenariats avec les bailleurs propriétaires de la majeure <lieu type=obj>partie</lieu> du sol , complétés par des acquisitions stratégiques . 
+Une taxe sur <dyn> l' aménagement </dyn> permettra de financer les ouvrages utiles à tous : décision courageuse et juste . 
+La rente foncière ne peut être le seul guide de <dyn> l' aménagement </dyn> urbain , sa modération est une condition première de la nouvelle économie urbaine . 
+L'optimisation des infrastructures est une autre piste . 
+Les projets urbains sont concentrés <lieu type=loc>sur la ville existante</lieu> . 
+Services , bâti et trame viaire sont déjà là . 
+Cela change la donne . 
+À <lieu type=obj>Saint-Amand-les-Eaux</lieu> , <lieu type=loc>dans le Nord</lieu> , le plan pour <lieu type=obj>un quartier</lieu> de 700 <lieu type=obj>logements proches</lieu> de la gare , <lieu type=loc>sur un parc</lieu> boisé , au bord de <lieu type=obj>la Scarpe</lieu> , prudemment acquis <lieu type=loc>par la Ville</lieu> , <dyn> se réalise </dyn> sans créer un mètre linéaire de voirie . 
+Toutes <dyn> les opérations </dyn> <lieu type=obj>ont un accès côté parc</lieu> , avec des continuités pour les piétons et les vélos , et <lieu type=loc>sur les voies existantes</lieu> pour les véhicules . 
+<dyn> Cessons de construire <lieu type=obj>des rues</lieu> inutiles ,</dyn> en dépit des résistances ! 
+<lieu type=obj>Sobri</lieu> été ne signifie pas non plus <dyn> renoncer à investir ,</dyn> mais dépenser mieux , en optimisant l' effort . 
+Or , <dyn> la logique technique , sectorielle , procède par addition plutôt que par hybridation .</dyn> 
+Comment démultiplier les effets de chaque euro dépensé ? 
+Cela est essentiel pour <dyn> l' insertion </dyn> urbaine de <lieu type=obj>la gare des Groues</lieu> <lieu type=loc>à Nanterre</lieu>: une gare du Grand <lieu type=obj>Paris</lieu> Express , <lieu type=obj>une gare Éole</lieu> , un boulevard urbain et <lieu type=obj>quatre ponts</lieu> relevant de maîtres d' ouvrage différents . 
+Avec un peu d' effort et le soutien de <lieu type=obj>l' Établissement public</lieu> d' aménagement de <lieu type=obj>la Défense Seine -Arche</lieu>( Epadesa ) et de <lieu type=obj>la Ville de Nanterre</lieu>— faut-il dire de lutte ? —, les sommes dépensées <dyn> instaureront aussi la qualité urbaine du <lieu type=obj>quartier</lieu> .</dyn> 
+Cette version augmentée de la technique ne va pas de soi , il fallut d' abord écarter <dyn> la dispendieuse couverture <lieu type=obj>des voies</lieu> ,</dyn> puis convaincre les ingénieurs par la précision des tracés . 
+Cette alliance avec les experts est un défi . 
+Trop d' investissements se dissipent sans rien donner <lieu type=loc>au territoire</lieu> . 
+L'architecte urbaniste doit être précis , savant et stratégique pour que <dyn> l' infrastructure serve l' urbain .</dyn> 
+Cela n'est pas simple . 
+Malgré une prise de conscience , <dyn> faire changer de trajectoire </dyn> à un gros navire après que le capitaine a tourné la barre prend du temps . 
+Mais la barre a-t-elle vraiment tourné ? 
+L'air de rien , nous fonctionnons dans la logique techniciste des années 1960 , qui multiplie les dispositifs pour résoudre les questions isolément , augmentant le réseau des règles contradictoires , la complexité décisionnelle et la dépendance à <dyn> la croissance .</dyn> 
+Est-ce une défaillance de gouvernance , une incapacité d' imaginer qu'un <lieu type=obj>monde</lieu> <dyn> puisse être plus économe </dyn> sans que la vie en pâtisse ? 
+Une rupture se produira sans doute , et sera économique . 
+L'alternative est aussi immatérielle , dans le bonheur à <dyn> utiliser les choses que l' on possède déjà .</dyn> 
+[1] <act>Société publique locale d' aménagement</act> , c'est-à-dire un outil pour <dyn> aménager et gérer <lieu type=obj>le site</lieu> </dyn> sur la durée . 
+[2] 
+La <act>Caisse des Dépôts</act> a préféré <dyn> lancer une opération , écocampus ,</dyn> basée principalement sur la biodiversité et la frugalité de l' éclairage , sujets importants certes , mais le foncier me paraissait une priorité . 
+[3] 
+Je renvoie le lecteur à la revue <act> <act>Tous urbains</act> </act> , dans laquelle j'ai écrit , avec mes confrères rédacteurs , <dyn> plusieurs articles à ce sujet </dyn> ( cf . <act> <act>Tous urbains</act> </act> , no 0 et no 5 ). 
+[4] 
+Les urbanistes doivent beaucoup à <act>Alexandre Chemettoff</act> pour <dyn> son patient travail pour <lieu type=obj>la Samoa</lieu> </dyn> <lieu type=loc>sur l' île de Nantes</lieu> . 
+[5] 
+Les adjoints du maire de <lieu type=obj>Saint-Amand</lieu> ont tenu à <dyn> <lieu type=obj>une voie nouvelle</lieu> , inutile .</dyn> 
+Sur un autre projet <lieu type=loc>à Vitry-sur-Seine</lieu> , même le directeur de l' <act>Atelier international du Grand Paris</act> doutait de <dyn> la possibilité d' urbaniser sans nouvelles <lieu type=obj>voies</lieu> .</dyn> 
+[6] Projet que nous menons suite à <dyn> l' étude du faisceau , réalisant le plan de référence du <lieu type=obj>quartier</lieu> de gare <lieu type=obj>des Groues</lieu> ,</dyn> pour <lieu type=obj>l' E padesa</lieu>( en cours ). 
+[7] <lieu type=obj>La Zac Massena</lieu> , au-dessus <lieu type=obj>des voies d' Austerlitz</lieu> , <dyn> est bien réalisée .</dyn> 
+Mais <lieu type=obj>les logements</lieu> <dyn> s'y vendent entre 9 000 et 11 000 euros le mètre carré .</dyn> 
+Le coût du béton de la dalle y vaut pour un tiers ... <lieu type=obj>Campus de Rangueil</lieu> , <lieu type=obj>Toulouse</lieu> , 1992-2004 Schéma directeur d' aménagement Nouveaux édifices dans le plan de masse d' <act>Egger</act> . 
+Le campus <dyn> s'inscrit dans le grand paysage du <lieu type=obj>canal du midi</lieu> .</dyn> 
+La trame du campus support d' <lieu type=obj>un parc métropolitainSol public</lieu> , sol durable 
+Au sud-est de <lieu type=obj>Toulouse</lieu> , le campus de <lieu type=obj>Rangueil</lieu> <dyn> s'étend sur 200 ha ,</dyn> accueillant trente mille étudiants : l' équivalent de la population de <lieu type=obj>Périgueux</lieu> ou <lieu type=obj>Tarbes</lieu> . 
+Depuis vingt ans , nous avons accompagné <dyn> les mutations de <lieu type=obj>ce site</lieu> ,</dyn> à l' occasion de l' arrivée du métro ( 2004 ) mais surtout des grands plans de financement de l' État : <lieu type=obj>Université</lieu> 2000 , U3M et Plan Campus . 
+Le plan directeur a proposé de <dyn> positionner les nouveaux <lieu type=obj>bâtiments</lieu> </dyn> en préservant le foncier abondant , le connectant au mieux au réseau d' <lieu type=obj>espace public</lieu> , profitant de chaque opération pour renforcer la structure paysagère . 
+Les interfaces avec le métro et la pugnacité des services d' exploitation du campus <dyn> ont permis de créer des allées nouvelles </dyn> pour les piétons et les vélos — le campus , dessiné par l' architecte <act>René Egger</act> en 1969 , était surtout desservi par les voitures , jusqu'à ce que le <act>Pôle de recherche et d' enseignement supérieur</act> investisse dans un projet paysager d' envergure en 2012 . 
+<lieu type=obj>Le site</lieu> , <dyn> mieux connecté au reste de <lieu type=obj>la ville</lieu> ,</dyn> complété <lieu type=loc>par des logements</lieu> étudiants , aura alors plus d' animation urbaine . 
+Placé idéalement au bord du <lieu type=obj>canal du Midi</lieu> , ce sol public ainsi maillé et préservé pourrait être l' occasion <dyn> d' un aménagement , durable ,</dyn> où l' attention environnementale rejoindrait les enjeux économiques : la maîtrise d' un tel foncier n'est-elle pas un trésor en ces temps de crise ? 
+Maîtrise <dyn> d' ouvrage : <act>Rectorat</act> de <act>Toulouse Sacim</act> </dyn> ( 1992-1993 ) et SGE ( 1999-2000 ). 
+Le balcon des Groues , <lieu type=obj>Nanterre</lieu> , depuis 2014 Maîtrise d' œuvre d' <lieu type=obj>espace public</lieu> <dyn> Effacer </dyn> l' impact des deux gares : <lieu type=obj>espaces publics</lieu> continus , vues sur le paysage de <lieu type=obj>la Défense</lieu> et du <lieu type=obj>val de Seine</lieu> . 
+Le balcon est une promenade piétonne de 700 m , plein sud , qui <dyn> met <lieu type=loc>à distance les voies</lieu> ferrées .</dyn> 
+Le balcon s'inscrit dans <dyn> un réseau plus vaste d' <lieu type=obj>espaces publics</lieu> ,</dyn> de <lieu type=obj>la Défense</lieu> <lieu type=loc>à la Seine</lieu> . 
+Une promen<act>a</act>de fédère deux g<act>a</act>res métropolit<act>a</act>ines Suite <act>a</act>u pl<act>a</act>n de référence du <lieu type=obj>qu<act>a</act>rtier <lieu type=obj>des Groues</lieu> </lieu> , l' <<act>a</act>ct>Ét<act>a</act>blissement public d' <act>a</act>mén<act>a</act>gement de l<act>a</act> Défense Seine-Arche</<act>a</act>ct> ( <<act>a</act>ct>Ep</<act>a</act>ct> <act>a</act>des<act>a</act> ) nous <act>a</act> confié ( <act>a</act>vec Arteli<act>a</act> ) <dyn> l<act>a</act> ré<act>a</act>lis<act>a</act>tion de 700 m de promen<act>a</act>de piétonne </dyn> domin<act>a</act>nt les voies d' Éole , dite , b<act>a</act>lcon <lieu type=obj>des Groues</lieu> ,, de l<act>a</act> pl<act>a</act>ce de l<act>a</act> g<act>a</act>re et des liens entre le nouve<lieu type=loc> <act>a</act>u qu<act>a</act>rtier</lieu> et le b<act>a</act>lcon . 
+Le promeneur y profite de <dyn> l' heureuse ouverture vers l' horizon et le paysage de <lieu type=obj>la Défense</lieu> ,</dyn> offerts par la césure <lieu type=obj>des voies</lieu> ferrées . 
+Le balcon met à distance <dyn> les façades des édifices ,</dyn> dont le rez-de-chaussée domine de 8 m les rails . 
+Accès à la gare , il fait aussi <lieu type=obj>partie</lieu> <dyn> d' un parcours étendu de <lieu type=obj>la Défense</lieu> <lieu type=loc>à la Seine</lieu> ,</dyn> sur 3 km . 
+Prenant acte de <lieu type=obj>la présence des voies</lieu> en tirant parti du paysage , <dyn> renonçant à couvrir <lieu type=obj>le chemin</lieu> de fer ,</dyn> le projet réduit considérablement les coûts d' infrastructure . 
+Dans le bilan financier de <dyn> l' opération ,</dyn> cette réduction de dépenses modère les coûts de vente <lieu type=obj>des logements</lieu> . 
+Il faut , pour convaincre sur ce point , insister sur les dimensions qualitatives dans des études d' infrastructures urbaines plutôt centrées sur la technique : nous cherchons à susciter cette petite révolution méthodologique , en revenant à l' approche transversale des ingénieurs du XVIIIe siècle , pour lesquels <dyn> toute infrastructure était aussi une architecture magnifiquement dessinée .</dyn> 
+Avec <act>Artelia</act> , <act>BET génie civil</act> . 
+Maîtrise d' ouvrage : <dyn> <lieu type=obj>Établissement public</lieu> d' aménagement de la Défense Seine-Arche </dyn> ( <act>Epadesa</act> ). 
+<lieu type=obj>Quartier des Izards</lieu> </lieu> , <lieu type=obj>Toulouse</lieu> , depuis 2008 Maîtrise d' œuvre urbaine ( accord-cadre ), <dyn> renouvellement urbain d' <lieu type=obj>un quartier</lieu> </dyn> Au nord <lieu type=obj>les champs</lieu> préservés , au sud <lieu type=obj>les Izards</lieu> renouvelés . 
+La trame paysagère se relie à un plus grand <lieu type=obj>site</lieu> . 
+Au nord , <dyn> les cultures préservées </dyn> sont l' occasion d' un lien entre métro et <lieu type=obj>quartiers</lieu> , comme <lieu type=loc>dans un parc</lieu> . 
+Les variations architecturales autorisent à la fois l' accueil des nouveaux <lieu type=obj>logements</lieu> et <dyn> l' adaptation au tissu de faubourg .</dyn> 
+La nouvelle <lieu type=obj>place Micoulaud</lieu> , autour du métro . 
+Construction progressive de <lieu type=obj>la place Micoulaud</lieu> . 
+La texture en briques de <dyn> la nouvelle place </dyn> identifie le cœur de <lieu type=obj>quartier</lieu> . 
+Une approche pragmatique 
+La demande d' origine , en 2008 portait sur <dyn> un écoquartier de 15 ha sur les meilleures <lieu type=obj>terres agricoles</lieu> restant encore sur l' aire urbaine toulousaine .</dyn> 
+Nous avons gagné la consultation en proposant de <dyn> doubler le nombre de <lieu type=obj>logements</lieu> prévu </dyn> et de les placer plutôt <lieu type=loc>autour de la station</lieu> de <lieu type=obj>métro Trois-Cocus</lieu> située 500 m plus au sud , au cœur du <lieu type=obj>quartier</lieu> <lieu type=obj>des Izards</lieu> , ainsi renouvelé . 
+Au nord , l' agriculture <dyn> est renforcée ,</dyn> <lieu type=obj>les champs</lieu> sont protégés par des haies bordant <lieu type=obj>des chemins publics apportant</lieu> <lieu type=loc>au quartier</lieu> un grand <lieu type=obj>parc public</lieu> et de nouvelles traversées . 
+Nous réalisons en parallèle une mission de maîtrise d' œuvre urbaine pour <lieu type=obj>le Grand Toulouse</lieu> , l' actualisation du PLU <lieu type=loc>sur le secteur</lieu> , la maîtrise d' œuvre <lieu type=obj>des espaces publics structurants</lieu> et les plans , partiels , du renouvellement des <dyn> <lieu type=obj>sites</lieu> </dyn> de chaque bailleur : nouveaux maillages et liens , démolitions et fiches de <lieu type=obj>lots des immeubles nouveaux</lieu> , suivi des opérations . 
+<lieu type=obj>La place Micoulaud</lieu> , <dyn> réalisée en brique posée sur lit de sable — un procédé économique inspiré du savoir-faire flamand — est le premier aménagement réalisé ,</dyn> livré en 2014 . 
+Tous <dyn> les changements ont été discutés lors d' ateliers très fructueux avec les habitants , une participation associée au projet </dyn> et animée <lieu type=loc>par le bureau</lieu> de conseil <act>Res Publica</act> . 
+Avec <act>Jérôme Mazas</act> ( <act>Horizon Paysage</act> ), paysagiste . 
+Maîtrise d' ouvrage : <dyn> <lieu type=obj>Communauté urbaine du Grand Toulouse</lieu> , <lieu type=obj>Ville de Toulouse</lieu> .</dyn> 
+<dyn> <lieu type=obj>P ôle métropolitain Nantes-Saint-Nazaire</lieu> ,</dyn> depuis 2013 Étude de composition urbaine et paysagère ( dialogue compétitif , avec Phytolab ) 
+<dyn> <lieu type=obj>Six sites</lieu> en réseau pour de nouvelles pratiques métropolitaines ,</dyn> chaque projet apportant sa pierre à l' ensemble . 
+De <dyn> Savenay et du <lieu type=obj>sillon de Bretagne</lieu> aux <lieu type=obj>marais de Lavau</lieu> .</dyn> 
+<lieu type=obj>Port Rozé</lieu> et l' étendue des marais <lieu type=obj>de Brière</lieu> . 
+<lieu type=obj>Eau et paysage</lieu> 
+Comment exprimer <dyn> l' idée de la métropole en tirant parti du paysage spectaculaire de <lieu type=obj>l' estuaire de la Loire</lieu> </dyn> <lieu type=loc>sur les six sites</lieu> sélectionnés <lieu type=loc>par le pôle métropolitain Nantes-Saint-Nazaire</lieu> ? 
+<lieu type=obj>La diversité des sites</lieu> est une chance : balcon sur l' horizon ligérien , <lieu type=obj>canal de <lieu type=obj>Nantes</lieu> à Brest</lieu> , vallées bocagères toutes proches du centre de <lieu type=obj>Nantes</lieu> , <lieu type=obj>marais de Brière</lieu> , <lieu type=obj>alliance des monuments industriels</lieu> <lieu type=obj>des usines</lieu> et de <dyn> l' étendue <lieu type=obj>des berges</lieu> </dyn> <lieu type=obj>— chaque site</lieu> peut constituer un jalon à l' échelle métropolitaine . 
+Avec <act>Loïc Mareschal</act> de <dyn> <lieu type=obj>l' agence</lieu> de paysage </dyn> Phytolab , nous avons insisté sur deux principes d' action . 
+D'une part , <dyn> la mise en réseau de <lieu type=obj>ces sites</lieu> </dyn> ( avec un très grand nombre d' autres , trésors , paysagers identifiés sur l' estuaire ) est la première condition pour que chaque intervention trouve sa dimension métropolitaine . 
+À <lieu type=obj>l' instar des Pays-Bas</lieu> , <dyn> une autre manière de se déplacer se dessine ,</dyn> qui active les liens entre bacs , vélos , promenades et trains . 
+Ceci est simple , nous montrons que peu de maillons manquent à <dyn> ce réseau étendu .</dyn> 
+D'autre part , <dyn> la vision métropolitaine peut se construire </dyn> sans grand geste , à partir d' actions courantes déjà programmées de chaque commune . 
+Une salle des fêtes , <dyn> un aménagement de quai ,</dyn> une petite Zac , <lieu type=obj>un café</lieu> répondraient ainsi à un usage local , tout en s'inscrivant dans la métropole . 
+Avec Phytolab , <act>Loïc Mareschal</act> paysagiste . 
+Maîtrise d' ouvrage : Pôle métropolitain Nantes-Saint-Nazaire . 
+<dyn> <lieu type=obj>Quartier durable</lieu> de <lieu type=obj>Saint-Amand-les-Eaux</lieu> , <lieu type=obj>Nord</lieu> , 2011-2012 Maîtrise d' œuvre urbaine , plan de référence pour <lieu type=obj>un quartier durable</lieu> </dyn> 
+<dyn> <lieu type=obj>Un quartier</lieu> de 700 <lieu type=obj>logements</lieu> à côté de la gare , autour d' <lieu type=obj>un parc</lieu> , sans <lieu type=obj>voie nouvelle</lieu> </dyn> est-il possible ? 
+Vue depuis <lieu type=obj>la Scarpe canalisée</lieu> . 
+<lieu type=obj>Un quartier</lieu> sans voiries nouvelles 
+Le maire de <lieu type=obj>Saint-Amand-les-Eaux</lieu>— <lieu type=obj>ville proche</lieu> de <lieu type=obj>Lille</lieu> où les flux pendulaires augmentent — <dyn> souhaitait un , <lieu type=obj>quartier durable</lieu> ,</dyn> à proximité de la gare . 
+Juste à l' est de la gare et à quelques centaines de mètres du <lieu type=obj>centre historique</lieu> , un vaste <lieu type=obj>parc</lieu> , traversé <lieu type=loc>par la Scarpe canalisée</lieu> , <dyn> accueillera <lieu type=obj>le centre</lieu> de balnéothérapie </dyn> de <lieu type=obj>cette ville</lieu> d' <lieu type=obj>eau</lieu> . 
+Nous <dyn> avons situé les nouveaux <lieu type=obj>logements</lieu> </dyn> <lieu type=loc>autour de ce parc</lieu> , jouissant d' une vue directe sur le paysage . 
+Aucune voirie nouvelle n'est nécessaire : les lots <dyn> seront connectés directement aux <lieu type=obj>voies existantes</lieu> ,</dyn> aux capacités suffisantes . 
+Il n'y a pas pour autant d' impasses , car <dyn> les continuités du maillage des modes doux </dyn> sont assurées <lieu type=loc>à travers le parc</lieu> . 
+Dans l' équilibre recettes-dépenses de <dyn> l' opération ,</dyn> l' économie des coûts d' infrastructures et la sage politique foncière de la municipalité ( le foncier est gratuit ) peuvent servir <lieu type=obj>la qualité des logements</lieu> sans renchérir le coût d' acquisition . 
+Le plan favorise une autre manière de se déplacer , notamment les modes actifs : les enfants <dyn> peuvent aller <lieu type=loc>à l' école</lieu> à pied ou à vélo , les habitants faire leurs courses à pied </dyn> <lieu type=loc>dans le village</lieu> . 
+À plus grande échelle , <lieu type=obj>ce parc</lieu> habité <dyn> est </dyn> relié à la gare et , au sud , aux promenades s'ouvrant sur l' étendue <lieu type=obj>des étangs</lieu> et de <lieu type=obj>la forêt de Saint-Amand</lieu> . 
+Maîtrise d' ouvrage : <lieu type=obj>Communauté</lieu> d' <lieu type=obj>agglomération</lieu> Porte du Hainaut . 
+<lieu type=obj>Matérialité et esprit des lieux</lieu> 
+<lieu type=obj>Ce qui attache</lieu> chacun à un lieu , et fait de <dyn> tout voyage un bonheur est un subtil équilibre entre ce qui nous est étrange et familier : éloge d' une diversité qui fait que <lieu type=obj>Milan</lieu> </lieu> <lieu type=obj>est <lieu type=obj>Milan</lieu> </lieu> , <lieu type=obj>Lisbonne</lieu> ou Malmö bien autre chose .</dyn> 
+Cette diversité est singulière , elle ne s'obtient ni par des collections bigarrées ni par des collages hasardeux , mais par la friction et les continuités avec l' existant , le patrimoine — historique , moderne ou ordinaire — , <dyn> <lieu type=obj>les espaces</lieu> intermédiaires ,</dyn> l' invention typologique , les rapports avec le paysage , le caractère et <lieu type=obj>la matérialité des sites</lieu> , la précision de leur dessin . 
+, Comme avant , mais en mieux ,... ainsi s'exprimait un habitant du <lieu type=obj>parc portuaire du Havre</lieu> où , à l' interface de <lieu type=obj>la ville</lieu> et du <lieu type=obj>port</lieu> , nous <dyn> avions bouleversé 5 km de quais .</dyn> 
+Cette mutation manifeste mais discrète relève d' une éthique d' intervention . 
+Lorsque nous <dyn> <lieu type=obj>réalisons les espaces publics</lieu> ,</dyn> nous cherchons comme <lieu type=obj>au Havre</lieu> à relier les choix constructifs à une géographie . 
+Le végétal évoque <lieu type=obj>le fleuve proche</lieu> ; 
+<dyn> les kilomètres de bordures en fonte </dyn> laissent s'épancher la rouille sur le silex des bétons de sol , et leur donnent bien avant l' usure un âge ; 
+les mousses <dyn> se combinent au pavement des lames de grès ,</dyn> et cette texture incertaine stimule le souvenir des quais . 
+Pour les places du cœur de <lieu type=obj>Saint-Étienne</lieu> , <dyn> réalisées en béton ,</dyn> les objets sont fabriqués <lieu type=loc>par des entreprises régionales</lieu> selon un processus inédit : <lieu type=obj>la visite des entreprises</lieu> a précédé les premières esquisses , le trait a été guidé par les potentiels merveilleux de l' industrie . 
+Verre soufflé , acier et fonte mettent en scène <dyn> le savoir-faire d' ouvriers qui sont aussi des habitants de la métropole .</dyn> 
+Ce n'est pas une ode aux <dyn> <act>circuits courts</act> ,</dyn> mais un manifeste culturel . 
+La manière de faire relie <dyn> le projet à des histoires concrètes ,</dyn> <lieu type=loc>sur un territoire</lieu> qui a ses ressources propres , et lui donne un sens commun . 
+Nous allons pour cela , en amont , au-<lieu type=loc>devant des entreprises</lieu> , des gens , <lieu type=obj>des usines</lieu> , des métiers : la matière et l' économie ne doivent plus être l' ultime ligne des consultations de <dyn> maîtrise d' œuvre ,</dyn> mais venir en première page de la vision politique . 
+Autour de <lieu type=obj>la basilique Saint-Michel</lieu> <lieu type=loc>à Bordeaux</lieu> </lieu> , ou plus récemment <lieu type=loc>à Montreux</lieu> </lieu> en bord de <lieu type=obj>lac Léman</lieu> , la précision topographique de la matrice élaborée <lieu type=loc>par l' agence</lieu> fait correspondre point par point le nouveau sol à la géographie du <lieu type=obj>site</lieu> : la rencontre , en plan et en coupe , des lignes de <lieu type=obj>la route cantonale</lieu> et de <lieu type=obj>la côte</lieu> <lieu type=loc>à Montreux</lieu> </lieu> , <lieu type=loc>à Bordeaux</lieu> </lieu> le croisement des lignes issues du coteau de <lieu type=obj>la Garonne</lieu> et de celles <dyn> liant <lieu type=obj>le plateau</lieu> <lieu type=loc>à la rive</lieu> ,</dyn> témoin de la lente genèse du motif du parcellaire . 
+<dyn> Le savoir-faire de l' architecte , fait de précision , est ici indispensable à l' urbaniste .</dyn> 
+<dyn> Cette exigence ne va pas de soi mais <lieu type=obj>elle est source</lieu> d' émotion et de plaisir .</dyn> 
+Nous la partageons sur bien <dyn> des projets avec <act>Jérôme Mazas</act> , paysagiste et partenaire d' Obras </dyn> depuis l' origine . 
+Un journaliste du magazine Topos nous demanda un jour , suite à l' envoi de photographies du <dyn> <lieu type=obj>parc portuaire</lieu> achevé </dyn> : , <lieu type=obj>Le site</lieu> est magnifique , avez-vous des images du projet ? ,. 
+<dyn> Cette </dyn> disparition ne s'improvise pas , elle demande un travail plus important encore , issu d' une longue expérience . 
+Une part croissante de notre énergie est consacrée à cette élaboration patiente , le plus souvent contre les logiques techniques , lesquelles banalisent , séparent , désignent trop expressément les fonctions , <dyn> spécialisent <lieu type=obj>les espaces</lieu> .</dyn> 
+La belle idée de <dyn> , milieu habité ,</dyn> explorée avec <act>Chris Younès</act> est fragilisée . 
+Le milieu , c'est l' équilibre , une manière de se situer entre les choses , de ne pas croire aux , débuts , ex nihilo , mais à <dyn> des transformations plus patientes </dyn> ; 
+avoir conscience des <dyn> interdépendances ,</dyn> se méfier des certitudes des manuels et des normes . 
+Le milieu , c'est <dyn> la fin des périmètres technocratiques ,</dyn> dont il faudra bien se dégager . 
+Peu à peu pourtant , avec <dyn> l' assentiment silencieux des habitants et la participation active de certains groupes d' ingénierie ,</dyn> la spécificité des lieux devient plus difficile à défendre . 
+Nous sommes parmi ceux qui résistent à <dyn> cette érosion ,</dyn> à la marge , dans des contextes trop souvent exceptionnels <lieu type=obj>— Bordeaux</lieu> , <lieu type=obj>Saint-Étienne</lieu> , <lieu type=obj>Le Havre</lieu> sont advenus aussi avec le soutien explicite d' un maire convaincu . 
+Il n'y a pas d' autre recette qu'une attention constante , et le temps consacré par toute l' équipe d' <act>Obras</act> à la qualité du dessin , et à <dyn> la réalisation .</dyn> 
+Ce temps est un engagement : parce que nous ne sommes plus rémunérés pour assurer cette tâche , nous <dyn> nous y consacrons de manière militante .</dyn> 
+Cette pugnacité vaut aussi pour l' architecture . 
+<dyn> C'est ce que nous apprit <act>Bruno Fortier</act> qui , urbaniste , ne laisse rien au hasard .</dyn> 
+Comme lui , nous essayons d' aider les architectes des édifices à faire leur travail , pour <dyn> le bien de <lieu type=obj>la ville</lieu> ,</dyn> dans l' intérêt général , contre des logiques techniques et financières qui nous en éloignent très souvent . 
+<dyn> C'est une lutte que nous menons avec optimisme : le plaisir des lieux ,</dyn> bien trop grand , nous dépasse largement , et aura raison par-devers tout . 
+<lieu type=obj>Parc portuaire</lieu> du Havre , 2003-2006 Maîtrise d' œuvre d' <lieu type=obj>espace public</lieu> et maîtrise d' œuvre urbaine Vue aérienne de <lieu type=obj>la partie</lieu> sud : <lieu type=obj>le jardin fluvial</lieu> , <lieu type=obj>le quartier</lieu> de <lieu type=obj>l' Eure</lieu> et <dyn> les nouveaux <lieu type=obj>logements</lieu> en construction .</dyn> 
+Axonométrie type du <lieu type=obj>jardin fluvial</lieu> . 
+Axonométrie type de <lieu type=obj>la promenade Bellot</lieu> . 
+<lieu type=obj>Le parc</lieu> s'ouvre sur l' horizon <lieu type=obj>des bassins</lieu> , les signaux industriels et <dyn> l' activité portuaire .</dyn> 
+Les textures construites font écho aux météores changeants . 
+<lieu type=obj>Béton</lieu> , fonte , pavés récupérés , rails , enrobé . 
+<lieu type=obj>Inter</lieu> face ville-port 
+<dyn> <lieu type=obj>La ville</lieu> dessinée par <act>Auguste Perret</act> </dyn> demeurait séparée de <lieu type=obj>son port</lieu> , du <lieu type=obj>quartier</lieu> de <lieu type=obj>l' Eure</lieu> et des équipements des docks . 
+<dyn> La réappropriation de 30 ha de quais ,</dyn> sur plus de 4 km , a recréé un lien désormais accessible à tous les habitants . 
+Nous avons ici dessiné <lieu type=obj>les espaces publics</lieu> , et <dyn> coordonné l' implantation des programmes </dyn> <lieu type=obj>— centre commercial</lieu> dessiné par <act>Reichen</act> et <act>Robert</act> , <lieu type=obj>Centre aquatique</lieu> de <act>Jean Nouvel</act> , <lieu type=obj>logements</lieu> coordonnés par <act>Bruno Fortier</act> , etc . 
+L'horizon des quais , le paysage portuaire , la présence du ciel et l' air du <lieu type=obj>fleuve</lieu> et de l' estuaire , <dyn> l' usure des sols des quais </dyn> avaient une force considérable — force que avons cherché à garder dans le dessin . 
+La continuité obtenue résulte du choix des matériaux , le béton de silex , la fonte des <dyn> 11 km de bordures </dyn> ou le grès des lames de parquet dont les joints enherbés se mêlent à la prairie . 
+<dyn> Le nivellement </dyn> magnifie l' horizon de <lieu type=obj>l' eau</lieu> , mais aussi les effets d' épaisseur du sol , marqué par la masse des quais . 
+Les végétaux sont ceux du bord du <lieu type=obj>fleuve</lieu> , à peine distant mais invisible , révélé ici sur <dyn> les quais .</dyn> 
+<dyn> Le maintien des formes de <lieu type=obj>radoub</lieu> </dyn> joue aussi son rôle , la promenade , qui les longe , au pied <lieu type=obj>des logements</lieu> ouverts sur l' horizon des grues , est simplement séparée par un rideau d' inox tricoté . 
+Le projet sert ainsi <lieu type=obj>la ville</lieu> hédoniste des promeneurs . 
+Avec <act>Jérôme Mazas</act> ( <act>Horizon Paysage</act> ), paysagiste . 
+Maîtrise d' ouvrage : <lieu type=obj>Ville</lieu> du <lieu type=obj>Havre Cœur de ville de Saint-Étienne</lieu> , 2009-2013 Maîtrise d' œuvre <dyn> d' <lieu type=obj>espace public</lieu> et maîtrise d' œuvre urbaine </dyn> ( accord-cadre ) 
+La place de <lieu type=obj>l' hôtel de ville</lieu> rendue aux piétons . 
+La vasque de <lieu type=obj>la fontaine</lieu> construite par les chaudronniers . 
+La lumière traverse le verre soufflé <lieu type=loc>à Saint-Just</lieu> . 
+<act>L'industrie</act> associée au projet 
+Pour <dyn> concevoir <lieu type=obj>la place de la Mairie</lieu> , <lieu type=obj>la place Dorian</lieu> et <lieu type=obj>les rues</lieu> adjacentes du cœur de <lieu type=obj>ville</lieu> , nous avons visité plusieurs dizaines d' <lieu type=obj>entreprises</lieu> <lieu type=loc>autour de Saint-Étienne</lieu> , ceci avant même de dessiner la place .</dyn> 
+<dyn> Le tissu industriel stéphanois , que l' on imagine trop souvent fragilisé ,</dyn> est en réalité très inventif et organisé en un réseau de compétences remarquables . 
+<dyn> Les objets en métal <lieu type=obj>— fontaine</lieu> , bordures , mobilier — et les mâts d' éclairage en verre soufflé </dyn> ont été conçus avec <lieu type=obj>ces entreprises locales</lieu> , réunies en consortium et sélectionnées selon un accord-cadre parallèle à celui de nos études . 
+Le savoir-faire stéphanois est ainsi mis en scène sur <dyn> <lieu type=obj>l' espace emblématique</lieu> de <lieu type=obj>la ville</lieu> .</dyn> 
+Le travail rigoureux de continuité du sol en béton sert finalement toutes les pratiques , les parcours , favorisant <lieu type=obj>le passage</lieu> des piétons , qui <dyn> s'approprient désormais ces places , où l' accès des véhicules pour le stationnement et les livraisons n'a pas été complètement supprimé .</dyn> 
+Le nivellement souligne <lieu type=obj>le Furan</lieu> , <lieu type=obj>torrent enterré</lieu> <lieu type=obj>dont le passage</lieu> oriente <dyn> l' axe fondateur de la trame stéphanoise .</dyn> 
+Ces deux places apportent un complément à celles qui avaient été <dyn> réalisées </dyn> précédemment , une ambiance autre , pour d' autres usages : on passe de l' une à l' autre comme lorsque , <lieu type=loc>dans une maison</lieu> , on passe d' une pièce à l' autre . 
+Avec <act>Jérôme Mazas</act> ( <act>Horizon Paysage</act> ), paysagiste . 
+Maîtrise d' ouvrage : <lieu type=obj>Ville</lieu> de <lieu type=obj>Saint-Étienne</lieu> . 
+<lieu type=obj>Espace</lieu> Saint-Michel , <lieu type=obj>Bordeaux</lieu> , depuis 2012 Maîtrise d' œuvre d' <lieu type=obj>espace public</lieu> 
+Le tracé appuyé sur la géographie du coteau unifie les fragments de places autour de <dyn> <lieu type=obj>la basilique</lieu> et de la flèche .</dyn> 
+<act>Nivellement et planimétrie</act> , extrait . 
+La vie du chantier , septembre 2014 . 
+La précision d' un tracé <lieu type=obj>Espace Saint-Michel</lieu>: toute l' ambiguïté et la richesse des lieux sont révélées par cette appellation imparfaite , , <lieu type=obj>espace</lieu> , — <dyn> complexe assemblage de quatre places et de <lieu type=obj>plusieurs rues</lieu> .</dyn> 
+Dans <lieu type=obj>la trame des espaces publics</lieu> bordelais organisés en arc <lieu type=loc>autour du Port de la lune</lieu> , les places ont un tracé régulier , <dyn> rachetant </dyn> sur leurs marges les variations de la trame urbaine ou s'assemblant en une figure composée . 
+À <lieu type=obj>Saint-Michel</lieu> , <lieu type=obj>cet espace</lieu> n'a pas été intentionnellement fondé . 
+Parmi les grands <lieu type=obj>espaces publics</lieu> de <lieu type=obj>Bordeaux</lieu> , voici une place héritée , dont la forme complexe résulte <dyn> des déformations du tissu urbain voisin </dyn> et des démolitions et recompositions successives , comme des clairières taillées <lieu type=loc>dans la ville</lieu> . 
+Or , une équation existe , presque mathématique , lisible , pour rassembler ici les contours complexes des façades , assurer <lieu type=obj>la position urbaine des monuments</lieu> , restaurer la diversité des <dyn> lieux ,</dyn> ceci en un tracé simple et presque évident ; 
+unitaire , il suggère la puissance de la géographie de <lieu type=obj>cette rive</lieu> , <dyn> bord de terrasse alluviale ,</dyn> la grande diversité des flux — le lieu est un nœud de convergences et de <lieu type=obj>passages</lieu> — et le jeu de la vie urbaine , où tous les usages se combinent , changent , selon l' heure du jour , l' endroit ou la saison . 
+<dyn> Un peu comme aux échecs ,</dyn> où une grille élémentaire offre toutes les combinaisons . 
+Avec <act>Jérôme Mazas</act> ( <act>Horizon Paysage</act> ), paysagiste . 
+Maîtrise d' ouvrage : <lieu type=obj>Ville</lieu> de <lieu type=obj>Bordeaux</lieu> . 
+La contrainte comme levier <dyn> Certains projets sont a priori improbables </dyn> : contraintes techniques , contexte économique et politique complexe ... 
+L'urbaniste contribue pourtant souvent à retourner <dyn> des situations difficiles </dyn> pour faire en sorte que la principale difficulté soit en réalité un atout . 
+Ces , inversions du regard ,, dirait l' architecte-urbaniste <act>Bernard Reichen</act> , correspondent à une vision transversale , qui relie des contraintes apparemment contradictoires pour <dyn> dénouer les blocages .</dyn> 
+Cela s'oppose à <dyn> la juxtaposition analytique des diagnostics </dyn> sans tentative holistique pour les combiner . 
+<dyn> L'intuition a sa place dans cette démarche , ainsi que le savoir du projet comme synthèse ,</dyn> et une part d' intelligence politique de la situation . 
+Ainsi en va-t-il des risques . 
+Dans le cadre de l' <act>Atelier</act> national sur <dyn> les </dyn> <lieu type=obj>territoires</lieu> en mutations soumis aux risques , <dyn> les </dyn> aléas des phénomènes naturels ( parfois anthropiques ) se révèlent représenter une ressource refondatrice pour <dyn> les </dyn> <lieu type=obj>territoires</lieu> pour peu qu'on change de focale . 
+Soit on sait traiter l' aléa pour libérer de la contrainte <lieu type=obj>le terrain</lieu> d' étude , soit on considère que <dyn> sa préservation </dyn> est un atout , à plus grande échelle , pour <lieu type=obj>le territoire</lieu> étendu . 
+<lieu type=obj>Le val de Tours</lieu> risque <dyn> la submersion brutale </dyn> en cas de rupture des digues de <lieu type=obj>protections des crues</lieu> de <lieu type=obj>la Loire</lieu> . 
+Une part renonce à <dyn> l' urbanisation </dyn> : la , sanctuarisation , <lieu type=obj>des territoires agricoles</lieu> de la presqu'île <lieu type=loc>entre la Loire</lieu> et <lieu type=obj>le Cherest positive</lieu> pour <lieu type=obj>l' agglomération</lieu> , pour peu qu'on les solidarise avec le devenir de l' ensemble urbain dont ils constitueraient une salutaire respiration . 
+<dyn> Le confortement des digues ,</dyn> ouvrages techniques centrés sur leur seule logique infrastructurelle , se combine à un projet urbain ambitieux , dépassant les frontières de chaque commune ; 
+il devient l' action fondatrice <dyn> d' un retournement de <lieu type=obj>l' agglomération</lieu> </dyn> <lieu type=loc>sur la Loire</lieu> . 
+Ce lien historique , que les élus évoquent avec émotion tant il est douloureusement nié , peut ménager <dyn> une grande promenade habitée <lieu type=loc>sur les berges</lieu> , face au paysage des coteaux .</dyn> 
+Ce peut-être l' occasion , pour <lieu type=obj>Tours</lieu> et ses voisines , de trouver le souffle métropolitain que <lieu type=obj>Bordeaux</lieu> <dyn> a su reconquérir </dyn> avec <lieu type=obj>le projet des berges</lieu> de <lieu type=obj>la Garonne</lieu> . 
+La contrainte s'est inversée et suscite l' espoir d' un renouvellement considérable . 
+Nous avions anticipé <dyn> ce renversement <lieu type=loc>à Rezé</lieu> , <lieu type=loc>sur le secteur des Isles</lieu> ,</dyn> au sud de <lieu type=obj>l' île de Nantes</lieu> . 
+En plein cœur de la métropole nantaise , <dyn> <lieu type=obj>ce secteur</lieu> encore suburbain </dyn> est principalement occupé — outre <lieu type=obj>les villages historiques</lieu> — par des , boîtes , commerciales banales . 
+En grande <lieu type=obj>partie inondable</lieu> , <lieu type=obj>le secteur</lieu> <dyn> n'était que peu constructible </dyn> en fonction d' un plan de prévention du risque inondation ( PPRI ) en cours de mise au point . 
+Nous avons proposé une collaboration entre services de <lieu type=obj>la <act>Direction départementale des territoires et de la mer</act> </lieu>( DDTM ) et collectivités pour envisager la règle en fonction <dyn> du projet .</dyn> 
+Plutôt que se limiter à une démarche sectorielle qui analyse des aléas , le projet territorial a mis en lumière les avantages <dyn> d' un aménagement .</dyn> 
+<dyn> Restaurer la biodiversité ,</dyn> renforcer <lieu type=obj>la qualité des paysages des rives</lieu> et leur dimension métropolitaine , rendre disponible <lieu type=obj>ce territoire</lieu> bien desservi en cœur de métropole , correspondaient aux objectifs d' autres politiques publiques , bénéfiques pour <lieu type=obj>toute la région</lieu> . 
+<dyn> Le projet reste ouvert ainsi que la définition de son programme et de ses temporalités .</dyn> 
+Mais le <act>PPRI</act> n'est plus un obstacle à la réflexion . 
+Mieux , l' inondabilité caractérisera l' identité de <lieu type=obj>ce secteur</lieu> , le différenciant d' autres <lieu type=obj>quartiers</lieu> plus minéraux , <dyn> plus construits ou plus suburbains .</dyn> 
+Mieux qu'un dénouement technique , le travail sur l' inondabilité et l' aléa porte l' idée fondatrice et fédératrice des transformations à <dyn> venir .</dyn> 
+Ces retournements ont des effets concrets et intellectuellement jubilatoires . 
+Éminemment politique , l' urbanisme a aussi une dimension poétique . 
+<dyn> <lieu type=obj>Le parc de la Ereta</lieu> ,</dyn> conçu avec <act>Marc Bigarnet</act> , fait <lieu type=obj>partie</lieu> de ces miracles . 
+Improbable — nous étions deux Français de vingt-huit ans en <lieu type=obj>Espagne</lieu>—, <lieu type=obj>le parc</lieu> avait de bonnes raisons de <dyn> ne jamais advenir </dyn> : une pente escarpée presque insurmontable , des averses torrentielles destructrices , <lieu type=obj>des quartiers</lieu> alentour dégradés , à la population paupérisée . 
+Dix années de travail collectif ont retourné la difficulté . 
+Nous sommes revenus sur les lieux , onze ans après l' ouverture ... 
+Il paraît aujourd'hui évident de courir là face <lieu type=loc>à la mer</lieu> , de <dyn> s'allonger sous les oliviers </dyn> en contemplant le miroitement du soleil sur la méditerranée , d' oublier l' excitation de <lieu type=obj>la ville</lieu> pour s'immerger dans le chant immense des oiseaux qui nichent <lieu type=loc>dans le parc</lieu> . 
+Le récit poétique initial a pris corps . 
+<dyn> Éboulements et coulées de boue ont pris fin , <lieu type=obj>l' eau</lieu> est collectée par le moindre dessin des sols et <lieu type=obj>des murs</lieu> , <lieu type=obj>les quartiers</lieu> reliés <lieu type=loc>par le parc</lieu> se sont renouvelés ,</dyn> retrouvant le contact avec <lieu type=obj>la mer</lieu> et le cœur historique . 
+Les questions techniques sont résolues , transcendées <lieu type=loc>par l' espace public</lieu> . 
+<dyn> Cette expérience fut une leçon , dont nous tirons chaque jour bénéfice : de la difficulté des phénomènes naît , in fine la beauté des lieux .</dyn> 
+<lieu type=obj>Parc</lieu> de la <act>Ereta</act> , <lieu type=obj>Alicante</lieu> , 1993-2003 Programmation , étude urbaine , maîtrise d' œuvre d' <lieu type=obj>espace public</lieu> et d' architecture Plan du projet du <lieu type=obj>parc</lieu> : <dyn> les constructions </dyn> sont des formes simples se lovant dans la topographie complexe de <lieu type=obj>la colline</lieu> . 
+Le chantier en 2002 . 
+<lieu type=obj>Un désert</lieu> <lieu type=obj>devenu forêt</lieu> urbaine . 
+<lieu type=obj>Le parc</lieu> <dyn> relie <lieu type=loc>entre eux les quartiers</lieu> du <lieu type=obj>centre historique</lieu> </dyn> ; vue du <lieu type=obj>château Santa Barbara</lieu> , 2013 . 
+La muraille , le restaurant , la salle d' expositions , 2003 . 
+Les rampes d' accès du <lieu type=obj>seuil du Puente</lieu> , 2012 . 
+La pergola de <lieu type=obj>Kerto</lieu> tressé <dyn> rafraîchit ,</dyn> dès l' entrée du <lieu type=obj>parc</lieu> , et oriente les vues sur l' horizon marin . 
+Le paysage pour <lieu type=obj>la ville</lieu> Suite au concours <act>Europan</act> , <lieu type=obj>la Ville d</lieu>' <lieu type=obj>Alicante</lieu> et la <act>Generalitat Valenciana</act> nous ont confié <dyn> la réalisation d' <lieu type=obj>un parc</lieu> </dyn> et de ses édicules , projet dont nous avons défini le programme , la stratégie urbaine , le budget et le périmètre , avant d' en dessiner le moindre détail et de le réaliser . 
+Au départ , <dyn> les ouvrages du <lieu type=obj>parc</lieu> sont directement associés au risque que <lieu type=obj>la colline</lieu> représente pour le reste de <lieu type=obj>la ville historique</lieu> située en contrebas </dyn> : à chaque orage , <lieu type=obj>des torrents</lieu> de boue et <lieu type=obj>des rochers</lieu> dévalaient la pente . 
+<lieu type=obj>Le site</lieu> , contraint à <dyn> l' abandon </dyn> par une vieille servitude militaire , était une friche et un péril au cœur de <lieu type=obj>la cité</lieu> , <lieu type=loc>entre des quartiers</lieu> trop séparés : <lieu type=obj>le centre ancien</lieu> , le bord de <lieu type=obj>mer</lieu> et <lieu type=obj>les quartiers</lieu> plus populaires du nord . 
+Le projet transforme un problème urbain ( <lieu type=obj>quartiers</lieu> dissociés ) et technique ( nécessité de contenir <lieu type=obj>la colline</lieu> et de retenir <lieu type=obj>l' eau</lieu> ) en atout paysager : <lieu type=obj>un parc</lieu> pour tous , support du <dyn> renouveau de <lieu type=obj>la ville</lieu> constituée .</dyn> 
+<lieu type=obj>Le parc</lieu> a été financé dans le cadre d' une convention négociée tous les quatre ans <lieu type=loc>entre la Région</lieu> et <lieu type=obj>la Ville</lieu> pour <dyn> la réhabilitation du <lieu type=obj>centre historique d' Alicante</lieu> </dyn> : l' investissement de 11 millions d' euros correspond à 25 % de ce plan quadriennal . 
+Les trois quarts restants sont affectés à <dyn> des </dyn> opérations de <lieu type=obj>logements</lieu> , équipements et <lieu type=obj>espaces publics</lieu> . 
+Maîtres d' ouvrage : <act>Generalitat Valenciana</act> , <lieu type=obj>Ville</lieu> d' Alicante . 
+<lieu type=obj>Val de ToursÉtude stratégique</lieu> — <act>Atelier national</act> , <dyn> <lieu type=obj>Territoires</lieu> en mutation </dyn> soumis aux risques , Tout <lieu type=obj>le val</lieu> est inondable , mais c'est là que sont l' histoire , la densité , les transports , les services ... il faut s'adapter . 
+La digue renforcée devient promenade et support de formes architecturales adaptées à <dyn> l' inondation .</dyn> 
+<lieu type=obj>La <lieu type=obj>Loire</lieu> </lieu> retrouvée Entre <lieu type=obj>Loire</lieu> </lieu> et <lieu type=obj>Cher</lieu> , <lieu type=obj>le val de Tours</lieu> est menacé <lieu type=loc>par les crues</lieu> ligériennes et le risque important <dyn> d' une rupture dévastatrice d' une digue .</dyn> 
+Conséquence de cette contrainte : <lieu type=obj>l' agglomération</lieu> <dyn> tend à s'étaler </dyn> sur les plateaux , alors que <lieu type=obj>la gare TGV</lieu> , les principaux équipements , <lieu type=obj>le centre</lieu> animé historique sont en <lieu type=obj>zone inondable</lieu> . 
+<dyn> Les travaux de confortement des digues ,</dyn> associés à l' actualisation de l' infrastructure de <lieu type=obj>l 'A10</lieu> qui sépare <lieu type=obj>Tours</lieu> de <lieu type=obj>Saint-Pierre-des-Corps</lieu> , changent la donne . 
+Selon une approche transversale associant déplacements , gestion des risques , développement urbain , paysage et grandes dynamiques programmatiques , il s'avère qu'il serait plus profitable d' utiliser <dyn> ces travaux d' infrastructure comme un levier pour conserver au cœur de <lieu type=obj>l' agglomération</lieu> une forte capacité de développement .</dyn> 
+Le projet permettrait de construire <dyn> davantage </dyn> le long des digues renforcées , en s'inspirant des expériences d' habitat sur pilotis ou surélevé , mises en œuvre <lieu type=loc>par Saint-Pierre-des-Corps</lieu> . 
+Les habitants retrouveraient <dyn> <lieu type=obj>le fleuve disparu</lieu> </dyn> et le spectacle de ses coteaux . 
+La digue-parc <dyn> deviendrait ainsi un trait d' union , une marque de solidarité urbaine </dyn> <lieu type=loc>entre les communes</lieu> , jusqu'à celles de la confluence dédiée à l' agriculture et aux loisirs , pour le bien de toutes les autres . 
+Avec <act>Mageo</act> , <act>Alphaville</act> , <act>RR&A</act> , <act>Burgeap</act> , <act>Franck Boutté</act> . 
+Maîtres d' ouvrage : Ministère du <lieu type=obj>Logement</lieu> de <lieu type=obj>l' Égalité des territoires</lieu> , <act>Ministère de l' Écologie , du Développement durable et de l' Énergie</act> , Direction générale de <dyn> l' Aménagement , du <lieu type=obj>Logement</lieu> et de la Nature , <act>Direction générale de la Prévention des risques</act> .</dyn> 
+<lieu type=obj>Secteur des Isles et Pirmil</lieu> , <lieu type=obj>Rezé</lieu> et <lieu type=obj>Nantes</lieu> , depuis 2011 Maîtrise <dyn> d' œuvre urbaine ,</dyn> étude d' aménagement 
+<lieu type=obj>Le site</lieu> de 2 km de <lieu type=obj>rives</lieu> <dyn> s'inscrit dans la trame paysagère de la , métropole verte ,</dyn> ; 
+<lieu type=obj>le fleuve</lieu> est fédérateur . 
+La présence de <lieu type=obj>la Loire</lieu> et de <lieu type=obj>la Sèvre suggère</lieu> <dyn> d' habiter <lieu type=obj>une ville</lieu> paysage en plein cœur métropolitain ,</dyn> offres alternatives . 
+La métropole verte Nantes Métropole 
+Aménagement nous a confié une étude prospective sur <dyn> <lieu type=obj>le site des Isles</lieu> et de <lieu type=obj>Pirmil</lieu> ,</dyn> 2 km de long au sud de <lieu type=obj>l' île</lieu> de <lieu type=obj>Nantes</lieu> . 
+Alors que N<dyn> a </dyn>ntes <lieu type=obj>Métropole <</lieu> dyn>a </dyn> été désignée C<dyn> a </dyn>pit<dyn> a </dyn>le verte de l' Europe en 2013 , <lieu type=obj>ce site</lieu> est l' occ<dyn> a </dyn>sion d' une nouvelle urb<dyn> a </dyn>nité , centr<dyn> a </dyn>le , mixte , bien desservie , bien qu'immergée d<dyn> a </dyn>ns l<dyn> a </dyn> n<dyn> a </dyn>ture . 
+Pour ce faire , <dyn> le plan de prévention du risque inondation </dyn> ( PPRI ) a été élaboré en concertation avec les services de l' État et les collectivités , sur la base d' hypothèses de projet , de manière interactive . 
+Ce qui est au départ une difficulté et un paradoxe <dyn>( construire </dyn> en <lieu type=obj>centre</lieu> de métropole , mais en <lieu type=obj>zone inondable</lieu> ) s'avère positif : le paysage singulier du <lieu type=obj>site</lieu> , son caractère , sa spécificité dans le reste de <lieu type=obj>l' agglomération</lieu> viendra finalement de la qualité propre <lieu type=obj>des espaces publics</lieu> et du paysage , dont les aménagements permettraient une certaine continuité des usages quotidiens en période de crue . 
+<dyn> Ce développement </dyn> offrirait clairement une alternative à l' étalement périphérique : , Si je souhaite habiter dans la nature , avec une vue sur le grand paysage , des occasions de promenade et de détente dans un grand <lieu type=obj>parc urbain</lieu> , habité et animé , tout en étant bien <lieu type=loc>dans la ville</lieu> ( et non pas loin de tout ), c'est <lieu type=loc>sur le secteur des Isles</lieu> que je devrais pouvoir le faire . 
+, Maîtrise d' ouvrage : <act>Nantes Métropole Aménagement</act> . 
+Tous urbains , tous ruraux , Tous urbains ,... 
+Cofondateur de la revue éponyme , je suis persuadé que l' urbain marque l' ensemble du <lieu type=obj>territoire</lieu> , que <dyn> la métropolisation </dyn> est une chance . 
+Mais pas plus qu'il ne suffit de dire que tout est artifice pour aborder la question de la nature , défions-nous d' une définition générique de <dyn> l' urbain .</dyn> 
+L'urbaniste révèle les différences et s'en nourrit . 
+Or , <lieu type=obj>les territoires</lieu> , même interdépendants , sont bel et bien contrastés . 
+<lieu type=obj>Les territoires ruraux</lieu> , eux , se caractérisent par <dyn> des modes de vie , une économie , des ressources et des paysages singuliers ,</dyn> infiniment variables . 
+Ils ne sont pas la périphérie de l' urbain ; 
+ils sont une autre ressource <lieu type=loc>dans un territoire</lieu> indivisible . 
+À ce titre , travailler dans <dyn> une petite commune du <lieu type=obj>Beaujolais</lieu> ou de <lieu type=obj>l' Avesnois</lieu> </dyn> est un acte militant . 
+Nous sommes aussi , tous ruraux ,. 
+, <dyn> <lieu type=obj>Le territoire</lieu> est le patrimoine commun de la nation </dyn> ,, énonce l' article inaugural du <lieu type=obj>Code de</lieu> <lieu type=obj>l 'urbanisme</lieu> . 
+Mais la plupart <lieu type=obj>des communes</lieu> sont dépourvues d' ingénierie , et subissent une double peine : peu de moyens , <dyn> peu de projets .</dyn> 
+Être <act>architecte-conseil</act> de l' <act>État</act> est <dyn> un engagement pour agir <lieu type=loc>sur le territoire</lieu> </dyn> au sens large du terme . 
+Au sein des services déconcentrés de l' État , les architectes-conseils de l' État apportent leur vision transversale pour accompagner <dyn> les politiques publiques ,</dyn> notamment le changement d' échelle de la planification . 
+Il n'y a pas de contradictions entre <dyn> la </dyn> décentralisation et l' évolution récente du cadre légis<dyn> la </dyn>tif , très volontariste . 
+Nous pouvons aider à contextualiser ces lois républicaines dans <dyn> les projets locaux , aidés par ces orientations plus durables .</dyn> 
+Tout <lieu type=obj>territoire</lieu> mérite réflexion . 
+Les petites <lieu type=obj>villes</lieu> gagnent à <dyn> être mieux connectées aux métropoles </dyn> mais — et on oublie trop cette réciprocité — les métropoles ont tout à gagner à ce que <lieu type=obj>ce territoire</lieu> plus étendu , souvent à l' origine de leur prospérité historique , évolue favorablement . 
+Les ressources alimentaires , les matériaux , <lieu type=obj>l' eau potable</lieu> , la prévention des risques , l' écosystème , la qualité de l' air , l' attractivité pour certaines activités ( loisirs , recherche , formation ) dépendent beaucoup de <dyn> la bonne <lieu type=obj>santé des territoires ruraux</lieu> .</dyn> 
+Je travaille <lieu type=loc>dans le canton du Tessin</lieu> en <lieu type=obj>Suisse</lieu> avec le <dyn> la </dyn>boratoire <lieu type=obj>Città Ticino</lieu> , qui étudie <dyn> la </dyn> métropolisation de <lieu type=obj>cette région</lieu> naguère rurale , qui capte l' énergie mi<dyn> la </dyn>naise . 
+Les mobilités en sont une clef . 
+<lieu type=obj>La Suisse</lieu> inclut les petites <lieu type=obj>villes</lieu> dans <dyn> la dynamique d' ensemble </dyn> grâce à un soutien public fort au réseau de transport public , performant comme dans une métropole . 
+<dyn> L'extension des échelles de projet </dyn> dénoue les paradoxes intégrant le sujet dans un ensemble plus vaste . 
+Reste que l' évaluation financière et la mutualisation des investissements demeurent un défi pour <dyn> l' avenir ,</dyn> et suppose une solidarité territoriale pas toujours assumée en <lieu type=obj>France</lieu> . 
+Le rural est un sujet d' urbanisme . 
+Ainsi nous avons travaillé <lieu type=loc>sur trois communes des parcs naturels régionaux</lieu>( <lieu type=obj>PNR ) du Nord-Pas-de-Calais</lieu> , dans <dyn> une étude d' urbanisme , rural ,</dyn> pilotée par les PNR , avec <lieu type=obj>la participation des communes</lieu> . 
+Nous nous sommes très vite accordés sur les spécificités de <lieu type=obj>chacun des territoires</lieu> , et sur les <dyn> stratégies d' aménagement .</dyn> 
+Toutes ménageaient <lieu type=obj>les espaces</lieu> ouverts et , très économes en <lieu type=obj>voies nouvelles</lieu> , <dyn> positionnaient les nouveaux <lieu type=obj>logements</lieu> </dyn> en lisière des paysages extraordinaires de <lieu type=obj>chacun des villages</lieu> . 
+Il fut plus difficile <dyn> d' intégrer les autres dimensions : la multi appartenance culturelle , qui correspond pourtant aux modes de vie contemporains ,</dyn> n'est pas facile à assumer en <lieu type=obj>France</lieu> . 
+Paradoxalement , cette difficulté à <dyn> relier les échelles </dyn> vient bien plus du <lieu type=obj>centre des métropoles — Lille</lieu> peinant à considérer <lieu type=obj>la communauté</lieu> de destin avec <lieu type=obj>les territoires ruraux</lieu> — que <lieu type=obj>des villages</lieu> eux-mêmes , qui savent bien les effets des grandes <lieu type=obj>villes</lieu> sur l' emploi , les déplacements et l' offre de service . 
+Dans <lieu type=obj>ces villages</lieu> , les moyens d' étude étaient plus faibles . 
+Mais la sobriété n'exclut pas un haut niveau d' expertise . 
+Prenons l' exemple du <lieu type=obj>village</lieu> d <lieu type=obj>'Ors</lieu> . 
+Comment <dyn> implanter <lieu type=obj>dix logements abordables</lieu> </dyn> au bord de la prairie bocagère conçue comme <lieu type=obj>un parc agricole</lieu> de cœur de <lieu type=obj>ville</lieu> ( aller <lieu type=loc>à l' école</lieu> ou à la boulangerie à pied ...) ? 
+Dans <lieu type=obj>une ville</lieu> , on aurait payé un expert . 
+Un des élus , agriculteur , évalua <dyn> le prix de gestion de la prairie .</dyn> 
+Ces rencontres directes font <dyn> les projets ruraux </dyn> : une question , une réponse . 
+L'emploi d' outils urbains pour <dyn> construire </dyn> a en revanche posé des difficultés . 
+Le rural est un laboratoire de la frugalité . 
+La participation citoyenne y est une évidence . 
+Pragmatique , elle préfigure le rôle croissant des pratiques sociales dans <dyn> l' optimisation des ressources ,</dyn> pour <lieu type=obj>la ville</lieu> aussi . 
+Je suis heureux que plusieurs de mes anciens étudiants clermontois soient engagés sur le rural , car <dyn> la </dyn> création in situ d' un milieu professionnel exigeant est <dyn> la </dyn> seule solution viable . 
+L'un d' entre eux , <act>Boris Bouchet</act> , a reçu le premier prix <dyn> Écoquartier rural </dyn> et le prix de la Première Œuvre 2013 pour un équipement <lieu type=loc>à la campagne</lieu> . 
+La pugnacité et l' inventivité expliquent les réussites . 
+Mais les aides publiques y sont vitales . 
+Que se passera-t-il si ces appuis disparaissent ? [1] Article L . 110 du Code de <dyn> l' urbanisme .</dyn> 
+[2] Loi Grenelle , loi portant engagement national pour l' environnement ( ENE ), dite loi Grenelle 2 , loi pour l' Accès <lieu type=loc>au logement</lieu> et un urbanisme négocié ( Alur ), et loi de modernisation de l' action publique territoriale et <dyn> d' affirmation des métropoles .</dyn> 
+[3] 
+À <dyn> l' <act>Accademia di Architettura di Mendrisio</act> ,</dyn> où j'ai articulé mes enseignements avec le laboratoire dans le cadre du <act>Programme national de recherche 54 de la Confédération helvétique</act> . 
+[4] 
+Ce concept <dyn> d' identité multiple </dyn> a été développé par <act>Chris Younès</act> dans l' étude que nous avons menée pour <lieu type=obj>l' Agence</lieu> d' urbanisme de <lieu type=obj>la région</lieu> du Havre et de la Seine ( AURH ) <lieu type=loc>sur le pôle métropolitain de l</lieu>' <lieu type=obj>Estuaire de la Seine</lieu> en 2012 . 
+<lieu type=obj>Parcs naturels régionaux du Nord-Pas-de-Calais</lieu> , 2007-2010 Étude <dyn> d' aménagement de <lieu type=obj>six villages</lieu> ,</dyn> maîtrise d' œuvre urbaine sur trois de <lieu type=obj>ces villages</lieu> <lieu type=obj>Des sites</lieu> en réseau , liés à la métropole lilloise . 
+<lieu type=obj>Village</lieu> de <lieu type=obj>Flines-lez-Râches</lieu> . 
+<lieu type=obj>Village d' Ors</lieu> . 
+<lieu type=obj>Site</lieu> de <lieu type=obj>Raismes</lieu> . 
+<lieu type=obj>Les parcs naturels régionaux</lieu> en appui 
+<lieu type=obj>Les parcs naturels régionaux du Nord Pas-de-Calais</lieu> ont organisé une consultation <lieu type=loc>sur six sites</lieu> de <dyn> <lieu type=obj>leurs trois parcs</lieu> .</dyn> 
+Nous avons travaillé <lieu type=loc>sur trois communes</lieu> : <lieu type=obj>Flines-lez-Râches</lieu> , <lieu type=loc>près de Douai</lieu> , <lieu type=obj>Raismes</lieu> , <lieu type=loc>près de Valenciennes</lieu> , et Ors , <lieu type=loc>près de Cambrai</lieu>— une petite <lieu type=obj>ville</lieu> , <lieu type=obj>deux villages</lieu> , où <dyn> l' ingénierie </dyn> est peu disponible . 
+Grâce à l' appui <lieu type=obj>des Parcs naturels régionaux</lieu> , notre équipe a apporté un regard transversal sur <dyn> l' urbanisation douce ,</dyn> adaptée <lieu type=loc>à la croissance contrastée des communes</lieu> . 
+Pour limiter les coûts , les nouvelles voiries seraient minimales . 
+Les nouveaux <lieu type=obj>logements</lieu> se démarqueraient <lieu type=obj>des pavillons industriels</lieu> . 
+Tout en restant simples , plus concentrés , ils <dyn> s'orientent vers le paysage préservé des cœurs de bourgs </dyn> : étendues des prairies , <lieu type=obj>bocage</lieu> , lignes de grands arbres . 
+Les longues et passionnantes discussions directes avec les élus ont amené à tenter de <dyn> mutualiser </dyn> un certain nombre d' usages , à éloigner <lieu type=obj>les véhicules des logements</lieu> pour réduire le linéaire de <lieu type=obj>voies</lieu> . 
+L'expertise d' un élu agriculteur a facilité l' intégration des pratiques agricoles dans <dyn> la gestion du paysage .</dyn> 
+Le modèle économique de <lieu type=obj>ces expériences demeure</lieu> toutefois fragile , car aucun financement n'a permis d' assurer le suivi opérationnel , et <dyn> les aides à la pierre sont très chiches <lieu type=loc>dans ces territoires</lieu> qui en ont pourtant un grand besoin .</dyn> 
+Maîtrise d' ouvrage : <lieu type=obj>Espace</lieu> <lieu type=obj>s naturels régionaux</lieu>( ENR ). 
+<lieu type=obj>Place de <lieu type=obj>villageà Odenas</lieu> </lieu> </lieu> , <lieu type=obj>Beaujolais</lieu> </lieu> , 2011-2012 Maîtrise d' œuvre d' espace public <lieu type=obj>Place de <lieu type=obj>villageà Odenas</lieu> </lieu> </lieu> , <lieu type=obj>Beaujolais</lieu> </lieu> , 2011-2012 Maîtrise d' œuvre d' espace public Vue de la place , les monts du beaujolais . 
+ 
+Des liens simples de part et d' autre du <lieu type=obj>village</lieu> . 
+Une place révèle la géographie 
+<dyn> Ce projet simple </dyn> est pourtant majeur pour <lieu type=obj>le village</lieu> de 840 habitants . 
+Il instaure sa centralité absente , <dyn> fédère autour d' <lieu type=obj>un espace public unitaire</lieu> l' entrée de <lieu type=obj>l' école</lieu> et offre des vues sur les horizons , le front bâti longeant <lieu type=obj>la route départementale</lieu> .</dyn> 
+La place met en scène le talweg du <lieu type=obj>ruisseau</lieu> qui prend <lieu type=obj>sa source</lieu> <lieu type=loc>dans le domaine</lieu> viticole du <lieu type=obj>château de la Chaize</lieu> et <dyn> <lieu type=obj>alimente l' étang de Craigne</lieu> .</dyn> 
+<dyn> Un mail au sud et des allées établissent les liens transversaux et la vue vers <lieu type=obj>la vallée</lieu> de <lieu type=obj>la Saône</lieu> </dyn> qui manquaient <lieu type=loc>au village</lieu> . 
+Comme un vaste parterre <dyn> alternant les surfaces végétalisées ou minérales ,</dyn> la place est dessinée précisément , en plan — figure géométrique en trapèze — et en altimétrie — nivellement millimétré souligné par des bordures maçonnées révélant leurs épaisseurs , comme autant de micro soutènements . 
+Le béton constitué d' agrégats de <lieu type=obj>rivière évoque</lieu> <dyn> les calades traditionnelles ( sol composé de galets roulés )</dyn> et <lieu type=obj>les berges</lieu> de <lieu type=obj>la Saône proche</lieu> . 
+Sa teinte est celle des <dyn> constructions du <lieu type=obj>village</lieu> </dyn> et du <lieu type=obj>monument</lieu> aux morts . 
+Celui-ci , face <lieu type=loc>à l' école</lieu> et dans l' axe de <lieu type=obj>la rue</lieu> Péterel , participe à <dyn> la cohésion du <lieu type=obj>village</lieu> .</dyn> 
+Le grand et majestueux tilleul en devient le personnage principal . 
+Entre les coteaux du <lieu type=obj>Beaujolais</lieu> et <lieu type=obj>la vallée</lieu> de <lieu type=obj>la Saône</lieu> , la nouvelle place d <lieu type=obj>'Odenas</lieu> s'inscrit dans la géographie , <dyn> liant <lieu type=obj>le village-rue historique</lieu> avec les lotissements récents </dyn> à l' ouest . 
+Maîtrise d' ouvrage : <lieu type=obj>Commune d' Odenas ( Rhône</lieu>). 

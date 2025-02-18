@@ -1,0 +1,8 @@
+Nom_fichier	Dimension	Précision	Rappel	F-mesure
+2009-DiscoursNicolasSarkozy_CE_Oct23.xml	dyn	0.07096774193548387	0.24444444444444444	0.11
+2009-DiscoursNicolasSarkozy_CE_Oct23.xml	act	0.0064516129032258064	0.25	0.012578616352201257
+2009-DiscoursNicolasSarkozy_CE_Oct23.xml	perc	0.0	0.0	0.0
+2009-DiscoursNicolasSarkozy_CE_Oct23.xml	tps	0.0	0.0	0.0
+2009-DiscoursNicolasSarkozy_CE_Oct23.xml	doc	0.0	0.0	0.0
+2009-DiscoursNicolasSarkozy_CE_Oct23.xml	lieu_loc	0.0	0.0	0.0
+2009-DiscoursNicolasSarkozy_CE_Oct23.xml	lieu_obj	0.05806451612903226	0.3103448275862069	0.09782608695652176

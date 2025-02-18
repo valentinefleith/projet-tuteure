@@ -235,7 +235,10 @@ def compute_evaluation(filename):
         )
 
         # Charger les annotations automatiques
-        annotation_auto = pd.read_csv(filename)
+        try:
+            annotation_auto = pd.read_csv(filename)
+        except pd.errors.ParserError:
+            annotation_auto = pd.read_csv(filename, sep="|")
 
         # Sélectionner les colonnes pertinentes
         if dim.startswith("lieu_"):
