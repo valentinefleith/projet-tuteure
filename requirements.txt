@@ -4,3 +4,4 @@ ruff
 pandas
 scikit-learn
 rich
+tqdm
