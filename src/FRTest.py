@@ -16,7 +16,7 @@ def annotate_with_ollama(sentences: pd.DataFrame) -> list:
     results = []
     for sentence in tqdm(sentences, desc="Annotation en cours"):
         response = ollama.chat(
-            model="urbaniste", messages=[{"role": "user", "content": sentence}]
+            model="urbanisteFR", messages=[{"role": "user", "content": sentence}]
         )
         annotation = response["message"]["content"].strip()
 
