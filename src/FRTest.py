@@ -8,8 +8,8 @@ from sklearn.utils import resample
 
 MODEL = "deepseek-r1:1.5b"
 CSV_PATH = "corpus/corpus_phrases"
-ANNOTATIONS_PATH = f"annotations/annotations_llm/{MODEL}"
-RESULTS_PATH = f"results/classification/{MODEL}"
+ANNOTATIONS_PATH = f"annotations/annotations_llm/{MODEL}/FR"
+RESULTS_PATH = f"results/classification/{MODEL}/FR"
 
 
 def annotate_with_ollama(sentences: pd.DataFrame) -> list:
