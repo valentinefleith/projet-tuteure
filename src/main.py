@@ -11,77 +11,94 @@ CSV_PATH = "corpus/corpus_phrases"
 ANNOTATIONS_PATH = f"annotations/annotations_llm/{MODEL}"
 RESULTS_PATH = f"results/classification/{MODEL}"
 
-
-def annotate_with_ollama(sentences: pd.DataFrame) -> list:
+def annotate_with_ollama(sentences: list, df: pd.DataFrame, save_path: str) -> list:
+    """
+    Envoie les phrases à Ollama pour annotation et met à jour le DataFrame ligne par ligne.
+    Sauvegarde après chaque annotation pour éviter de tout recommencer en cas d'arrêt.
+    """
     results = []
-    for sentence in tqdm(sentences, desc="Annotation en cours"):
+    non_annotated_indices = df[df["annotation"] == -1].index.tolist()
+
+    for i, (sentence, index) in enumerate(tqdm(zip(sentences, non_annotated_indices), 
+                                               total=len(sentences), 
+                                               desc="Annotation en cours", 
+                                               leave=True)):
         response = ollama.chat(
             model="urbaniste", messages=[{"role": "user", "content": sentence}]
         )
         annotation = response["message"]["content"].strip()
 
         if MODEL.startswith("deepseek"):
-            print(f"🟡 DEBUG - Réponse brute du modèle : {annotation}")  # Debugging
-            annotation = "".join(filter(str.isdigit, annotation))[:1]  # Ne garde que 0 ou 1
+            annotation = "".join(filter(str.isdigit, annotation))[:1]
 
         try:
             annotation_int = int(annotation)
-            if annotation_int in [0, 1]:  # Vérification finale
+            if annotation_int in [0, 1]:
                 results.append(annotation_int)
             else:
                 raise ValueError("Valeur inattendue")
         except (ValueError, IndexError):
-            print(f"⚠️ Erreur : Réponse inattendue -> {annotation}")  # Debugging
-            results.append(-1)  # Valeur par défaut pour éviter un crash
+            print(f"⚠️ Erreur : Réponse inattendue -> {annotation}")
+            results.append(-1)
+
+        # 🔥 Vérification stricte : mise à jour ligne par ligne
+        df.at[index, "annotation"] = results[-1]
+        df.to_csv(save_path, sep="|", index=False)
 
     return results
 
 
-
-def get_downsampled(df) -> pd.DataFrame:
-    class_counts = df["dynamic"].value_counts()
-    biggest_class = class_counts.idxmax()
-    # we separate the majority class from the rest of the samples
-    biggest_class_df = df.query(f"`dynamic` == {biggest_class}")
-    df_without_biggest = df.query(f"`dynamic` != {biggest_class}")
-    resampled_class = resample(
-        biggest_class_df,
-        replace=False,
-        n_samples=int(class_counts.median()),  # reduce n_sample to median
-        random_state=42,
-    )
-    # and then concatenate them after reducing the size
-    return (
-        pd.concat([df_without_biggest, resampled_class])
-        .sample(frac=1)
-        .reset_index(drop=True)
-    )
-
-
 def get_annotated_df(csv_file: str, save=True) -> pd.DataFrame:
     """
-    Charge un fichier CSV, applique un downsampling et annote les phrases.
+    Charge un fichier CSV et annote les phrases.
     """
-    df = pd.read_csv(csv_file, sep="|")
-    downsampled_df = get_downsampled(df)
-    sentences = downsampled_df["sentence"].tolist()
-    annotations = annotate_with_ollama(sentences)
-    downsampled_df["annotation"] = annotations
 
-    # Suppression des annotations invalides (-1) UNIQUEMENT si le modèle est DeepSeek
+    save_path = f"{ANNOTATIONS_PATH}/{os.path.basename(csv_file)}"
+
+    if MODEL.startswith("deepseek") and os.path.exists(save_path):
+        print(f"🟡 INFO : Chargement des annotations incomplètes depuis {save_path}")
+        df = pd.read_csv(save_path, sep="|")
+
+        if "annotation" not in df.columns:
+            df["annotation"] = -1
+
+        non_annotated_mask = df["annotation"] == -1
+        sentences_to_annotate = df.loc[non_annotated_mask, "sentence"].tolist()
+    else:
+        print(f"🔵 INFO : Aucune annotation existante, démarrage depuis zéro")
+        df = pd.read_csv(csv_file, sep="|")
+        df["annotation"] = -1  # Ajoute la colonne annotation initialisée à -1
+        sentences_to_annotate = df["sentence"].tolist()
+
+    if len(sentences_to_annotate) == 0:
+        print(f"✅ INFO : Toutes les phrases de {csv_file} sont déjà annotées !")
+        return df
+
+    annotations = annotate_with_ollama(sentences_to_annotate, df, save_path)
+
+    if len(annotations) != len(sentences_to_annotate):
+        print(f"❌ Erreur : Nombre d'annotations ({len(annotations)}) ≠ Phrases à annoter ({len(sentences_to_annotate)})")
+        print("🚨 ANNULATION de la mise à jour des annotations pour éviter corruption.")
+        return df
+
+    df.loc[df["annotation"] == -1, "annotation"] = annotations
+
     if MODEL.startswith("deepseek"):
         print("🟡 INFO : Suppression des annotations invalides pour DeepSeek")
-        downsampled_df = downsampled_df[downsampled_df["annotation"] != -1]
+        df = df[df["annotation"] != -1]
 
     if save:
         os.makedirs(ANNOTATIONS_PATH, exist_ok=True)
-        downsampled_df.to_csv(f"{ANNOTATIONS_PATH}/{os.path.basename(csv_file)}", sep="|", index=False)
+        df.to_csv(save_path, sep="|", index=False)
+        print(f"💾 INFO : Fichier d'annotations mis à jour -> {save_path}")
 
-    return downsampled_df
-
+    return df
 
 
 def save_results(metrics: Metrics, conf_matrix, filename):
+    """
+    Enregistre les résultats de classification et la matrice de confusion.
+    """
     os.makedirs(RESULTS_PATH, exist_ok=True)
     metrics_df = pd.DataFrame(
         {
@@ -90,6 +107,7 @@ def save_results(metrics: Metrics, conf_matrix, filename):
         }
     )
     metrics_df.to_csv(f"{RESULTS_PATH}/{filename}", index=False)
+    
     conf_matrix_df = pd.DataFrame(
         conf_matrix, columns=["Predicted False", "Predicted Dynamic"]
     )
@@ -98,14 +116,17 @@ def save_results(metrics: Metrics, conf_matrix, filename):
 
 
 def main():
+    """
+    Exécute l'annotation et l'évaluation sur tous les fichiers CSV du corpus.
+    """
     all_csv_files = glob.glob(CSV_PATH + "/*.csv")
     for csv_file in all_csv_files:
-        filename = csv_file.split("/")[-1]
-        print(f"Currently loading {filename}...")
-        if os.path.isfile(f"{RESULTS_PATH}/{filename}"):
-            continue
+        filename = os.path.basename(csv_file)
+        print(f"\n📌 Traitement du fichier : {filename}\n")
+        
         annotated_df = get_annotated_df(csv_file)
         evaluation, conf_matrix = evaluate_annotation(annotated_df)
+        
         pretty_print(evaluation, conf_matrix, filename)
         save_results(evaluation, conf_matrix, filename)
 

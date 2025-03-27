@@ -7,7 +7,7 @@ from tqdm import tqdm
 from sklearn.utils import resample
 
 MODEL = "deepseek-r1:1.5b"
-CSV_PATH = "corpus/corpus_phrases"
+CSV_PATH = "corpus/corpus_phrases/corpus_test"
 ANNOTATIONS_PATH = f"annotations/annotations_llm/{MODEL}/FR"
 RESULTS_PATH = f"results/classification/{MODEL}/FR"
 
